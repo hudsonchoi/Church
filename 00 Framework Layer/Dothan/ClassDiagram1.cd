@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dothan.Data.DataMapper">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\DataMapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dothan.Data.ObjAdapter">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAgGAAAAAAAAAAAAAAQAAACAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Data\ObjAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dothan.Data.SafeDataReader" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>BCCQIAAgMCgAAAABCAIIBCYgAAJEAEQwIBQAAACAJEA=</HashCode>
+      <FileName>Data\SafeDataReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Dothan.DataPortalClient.EnterpriseServicesProxy" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAEIAAAAAAEAAEQAAAAAAAAAAAA=</HashCode>
+      <FileName>DataPortal\Client\EnterpriseServicesProxy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Dothan.DataPortalClient.LocalProxy" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAGIAAAAAAEAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataPortal\Client\LocalProxy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Dothan.DataPortalClient.RemotingProxy" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAGIAAAAAAEAAEAAAAAAAAABAIA=</HashCode>
+      <FileName>DataPortal\Client\RemotingProxy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Dothan.DataPortalClient.IDataPortalProxy">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataPortal\Client\IDataPortalProxy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

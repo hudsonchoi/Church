@@ -1,0 +1,215 @@
+﻿<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AB3CBB5C-6B3A-45FC-BB09-A5CB5EDBCF84}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CellReportWeb</RootNamespace>
+    <AssemblyName>CellReportWeb</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=3.0.30512.20315, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Website\HarvestWeb\Bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="BulkEditGridView, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Website\HarvestWeb\Bin\BulkEditGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ChangePassword.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="Default2.aspx" />
+    <Content Include="errorpage.aspx" />
+    <Content Include="images\bg_list_bar.gif" />
+    <Content Include="images\bg_list_title.gif" />
+    <Content Include="images\bg_top.gif" />
+    <Content Include="images\bttn_back.gif" />
+    <Content Include="images\bttn_edit.gif" />
+    <Content Include="images\bttn_list.gif" />
+    <Content Include="images\bttn_login.gif" />
+    <Content Include="images\bttn_logout.gif" />
+    <Content Include="images\bttn_modify.gif" />
+    <Content Include="images\bttn_print.gif" />
+    <Content Include="images\bttn_pw.gif" />
+    <Content Include="images\bttn_save.gif" />
+    <Content Include="images\bttn_sendpw.gif" />
+    <Content Include="images\bttn_write.gif" />
+    <Content Include="images\cal.gif" />
+    <Content Include="images\calender.png" />
+    <Content Include="images\church_logo.gif" />
+    <Content Include="images\icon_print.gif" />
+    <Content Include="images\login_bttm.jpg" />
+    <Content Include="images\login_img.jpg" />
+    <Content Include="images\login_top.jpg" />
+    <Content Include="images\logo.jpg" />
+    <Content Include="images\Master.css" />
+    <Content Include="images\member_bg.jpg" />
+    <Content Include="images\member_bttn.jpg" />
+    <Content Include="images\member_imgshot.jpg" />
+    <Content Include="images\member_popup_bg.jpg" />
+    <Content Include="images\member_popup_imgshot.jpg" />
+    <Content Include="images\pwchange_img.jpg" />
+    <Content Include="images\pwlost_img.jpg" />
+    <Content Include="images\pw_img.jpg" />
+    <Content Include="images\screenshot_form.jpg" />
+    <Content Include="images\screenshot_list.jpg" />
+    <Content Include="images\screenshot_login.jpg" />
+    <Content Include="images\title_edit.gif" />
+    <Content Include="images\title_list.gif" />
+    <Content Include="images\title_review.gif" />
+    <Content Include="Login.aspx" />
+    <Content Include="Master.css" />
+    <Content Include="PrintReport.aspx" />
+    <Content Include="ReportEdit.aspx" />
+    <Content Include="SearchMemberID.aspx" />
+    <Content Include="SearchPassword.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="_script\datetimepicker.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CellReportView.aspx.cs">
+      <DependentUpon>CellReportView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CellReportView.aspx.designer.cs">
+      <DependentUpon>CellReportView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DataAccessLayer.cs" />
+    <Compile Include="Default.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default2.aspx.cs">
+      <DependentUpon>Default2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="errorpage.aspx.cs">
+      <DependentUpon>errorpage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPage.master.cs">
+      <DependentUpon>MasterPage.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MemberEntity.cs" />
+    <Compile Include="PrintReport.aspx.cs">
+      <DependentUpon>PrintReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PTMembershipProvider.cs" />
+    <Compile Include="ReportEdit.aspx.cs">
+      <DependentUpon>ReportEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchMemberID.aspx.cs">
+      <DependentUpon>SearchMemberID.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchPassword.aspx.cs">
+      <DependentUpon>SearchPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\00 Framework Layer\Dothan\Dothan.csproj">
+      <Project>{A87513BD-E0C4-4FAE-851F-1B5BBEF5171E}</Project>
+      <Name>Dothan</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\01 Business Layer\Dothan.Library\Dothan.Library.csproj">
+      <Project>{F722F019-4688-4B28-BAE9-BE1E1066D003}</Project>
+      <Name>Dothan.Library</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CellReportView.aspx" />
+    <Content Include="MasterPage.master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>23018</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

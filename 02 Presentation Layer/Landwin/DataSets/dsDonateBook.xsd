@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsDonateBook" targetNamespace="http://tempuri.org/dsDonateBook.xsd" xmlns:mstns="http://tempuri.org/dsDonateBook.xsd" xmlns="http://tempuri.org/dsDonateBook.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsDonateBook" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dsDonateBook" msprop:Generator_UserDSName="dsDonateBook" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DonateBook" msprop:Generator_UserTableName="DonateBook" msprop:Generator_RowDeletedName="DonateBookRowDeleted" msprop:Generator_TableClassName="DonateBookDataTable" msprop:Generator_RowChangedName="DonateBookRowChanged" msprop:Generator_RowClassName="DonateBookRow" msprop:Generator_RowChangingName="DonateBookRowChanging" msprop:Generator_RowEvArgName="DonateBookRowChangeEvent" msprop:Generator_RowEvHandlerName="DonateBookRowChangeEventHandler" msprop:Generator_TablePropName="DonateBook" msprop:Generator_TableVarName="tableDonateBook" msprop:Generator_RowDeletingName="DonateBookRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RegDate" msprop:Generator_UserColumnName="RegDate" msprop:Generator_ColumnPropNameInRow="RegDate" msprop:Generator_ColumnVarNameInTable="columnRegDate" msprop:Generator_ColumnPropNameInTable="RegDateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BookId" msprop:Generator_UserColumnName="BookId" msprop:Generator_ColumnPropNameInRow="BookId" msprop:Generator_ColumnVarNameInTable="columnBookId" msprop:Generator_ColumnPropNameInTable="BookIdColumn" type="xs:string" />
+              <xs:element name="Total" msprop:Generator_UserColumnName="Total" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInTable="TotalColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DonateName" msprop:Generator_UserColumnName="DonateName" msprop:Generator_ColumnPropNameInRow="DonateName" msprop:Generator_ColumnVarNameInTable="columnDonateName" msprop:Generator_ColumnPropNameInTable="DonateNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Hundred" msprop:Generator_UserColumnName="Hundred" msprop:Generator_ColumnPropNameInRow="Hundred" msprop:Generator_ColumnVarNameInTable="columnHundred" msprop:Generator_ColumnPropNameInTable="HundredColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Fifty" msprop:Generator_UserColumnName="Fifty" msprop:Generator_ColumnPropNameInRow="Fifty" msprop:Generator_ColumnVarNameInTable="columnFifty" msprop:Generator_ColumnPropNameInTable="FiftyColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Twentity" msprop:Generator_UserColumnName="Twentity" msprop:Generator_ColumnPropNameInRow="Twentity" msprop:Generator_ColumnVarNameInTable="columnTwentity" msprop:Generator_ColumnPropNameInTable="TwentityColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Ten" msprop:Generator_UserColumnName="Ten" msprop:Generator_ColumnPropNameInRow="Ten" msprop:Generator_ColumnVarNameInTable="columnTen" msprop:Generator_ColumnPropNameInTable="TenColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Five" msprop:Generator_UserColumnName="Five" msprop:Generator_ColumnPropNameInRow="Five" msprop:Generator_ColumnVarNameInTable="columnFive" msprop:Generator_ColumnPropNameInTable="FiveColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="One" msprop:Generator_UserColumnName="One" msprop:Generator_ColumnPropNameInRow="One" msprop:Generator_ColumnVarNameInTable="columnOne" msprop:Generator_ColumnPropNameInTable="OneColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Recorder" msprop:Generator_UserColumnName="Recorder" msprop:Generator_ColumnPropNameInRow="Recorder" msprop:Generator_ColumnVarNameInTable="columnRecorder" msprop:Generator_ColumnPropNameInTable="RecorderColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Donates" msprop:Generator_UserTableName="Donates" msprop:Generator_RowDeletedName="DonatesRowDeleted" msprop:Generator_TableClassName="DonatesDataTable" msprop:Generator_RowChangedName="DonatesRowChanged" msprop:Generator_RowClassName="DonatesRow" msprop:Generator_RowChangingName="DonatesRowChanging" msprop:Generator_RowEvArgName="DonatesRowChangeEvent" msprop:Generator_RowEvHandlerName="DonatesRowChangeEventHandler" msprop:Generator_TablePropName="Donates" msprop:Generator_TableVarName="tableDonates" msprop:Generator_RowDeletingName="DonatesRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MemberName" msprop:Generator_UserColumnName="MemberName" msprop:Generator_ColumnPropNameInRow="MemberName" msprop:Generator_ColumnVarNameInTable="columnMemberName" msprop:Generator_ColumnPropNameInTable="MemberNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Paidtype" msprop:Generator_UserColumnName="Paidtype" msprop:Generator_ColumnPropNameInRow="Paidtype" msprop:Generator_ColumnVarNameInTable="columnPaidtype" msprop:Generator_ColumnPropNameInTable="PaidtypeColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Amount" msprop:Generator_UserColumnName="Amount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInTable="AmountColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="DonateBookKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DonateBook" />
+      <xs:field xpath="mstns:BookId" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

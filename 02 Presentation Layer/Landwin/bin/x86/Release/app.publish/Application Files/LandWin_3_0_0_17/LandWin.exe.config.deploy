@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <connectionStrings>
+    <!-- Production   
+  <add name="LandWin" connectionString="Server=174.142.97.178; Database=ChoDae;User ID=sa;Password=Gmnj0727;" providerName="System.Data.SqlClient" />
+    -->
+    <!-- Test  
+    <add name ="LandWin" connectionString="Data Source= localhost; Database=ChoDae;Integrated Security=True;"/>
+  --> 
+  </connectionStrings>
+  <appSettings>
+    <add key="DothanAuthentication" value="Dothan" />
+    <add key="LocalFolder" value="C:\\LandWin\\DATA\\MemberImage" />
+    <add key="DataFolder" value="C:\LandWin\Data" />
+    <add key="FtpDirectory" value="MemberImage" />
+    <add key="FtpSite" value="192.168.1.240:21" />
+    <add key="FtpUser" value="chodaelibrary" />
+    <add key="FtpPassword" value="Ch0daeL1brary" />
+    <add key="DateTimeFormat" value="MM/dd/yyyy" />
+    <add key="DBServer" value="192.168.1.240" />
+    <add key="DBName" value="ChoDae" />
+    <add key="DBUserID" value="sa" />
+    <add key="DBPassword" value="Gmnj0727" />
+    <add key="DirImage" value="C:\\LandWin\\DATA\\MemberImage" />
+    <add key="DirLayout" value="C:\\LandWin\\DATA\\Layout" />
+    <add key="DirXmlData" value="C:\\LandWin\\DATA\\XmlDoc" />
+    <add key="UpdatedDate" value=""/>
+  </appSettings>
+  <system.diagnostics>
+    <sources>
+      <!-- This section defines the logging configuration for My.Application.Log -->
+      <source name="DefaultSource" switchName="DefaultSwitch">
+        <listeners>
+          <add name="FileLog" />
+          <!-- Uncomment the below section to write to the Application Event Log -->
+          <!--<add name="EventLog"/>-->
+        </listeners>
+      </source>
+    </sources>
+    <switches>
+      <add name="DefaultSwitch" value="Information" />
+    </switches>
+  </system.diagnostics>
+  <system.web>
+    <membership defaultProvider="ClientAuthenticationMembershipProvider">
+      <providers>
+        <add name="ClientAuthenticationMembershipProvider" type="System.Web.ClientServices.Providers.ClientFormsAuthenticationMembershipProvider, System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" />
+      </providers>
+    </membership>
+    <roleManager defaultProvider="ClientRoleProvider" enabled="true">
+      <providers>
+        <add name="ClientRoleProvider" type="System.Web.ClientServices.Providers.ClientRoleProvider, System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" cacheTimeout="86400" />
+      </providers>
+    </roleManager>
+  </system.web>
+</configuration>

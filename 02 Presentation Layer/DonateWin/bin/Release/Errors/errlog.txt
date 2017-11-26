@@ -1,0 +1,29 @@
+Title: Error
+Message: Error is occured
+StackTrace: System.IndexOutOfRangeException: Spousename
+   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at Dothan.Data.SafeDataReader.GetString(String name) in E:\00Project\Dothan_04_20\Dothan\Data\SafeDataReader.cs:line 23
+   at Dothan.Library.bizDonate.DonateMemberInfo..ctor(SafeDataReader dr) in E:\00Project\Dothan_04_20\Dothan.Library\bizDonate\DonateMemberInfo.cs:line 148
+   at Dothan.Library.bizDonate.DonateMemberList.DataPortal_Fetch(Criteria critera) in E:\00Project\Dothan_04_20\Dothan.Library\bizDonate\DonateMemberList.cs:line 66
+Date/Time: 5/13/2014 3:38:02 PM
+============================================
+Title: Error
+Message: Error is occured
+StackTrace: System.IndexOutOfRangeException: Spousename
+   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at Dothan.Data.SafeDataReader.GetString(String name) in E:\00Project\Dothan_04_20\Dothan\Data\SafeDataReader.cs:line 23
+   at Dothan.Library.bizDonate.DonateMemberInfo..ctor(SafeDataReader dr) in E:\00Project\Dothan_04_20\Dothan.Library\bizDonate\DonateMemberInfo.cs:line 148
+   at Dothan.Library.bizDonate.DonateMemberList.DataPortal_Fetch(Criteria critera) in E:\00Project\Dothan_04_20\Dothan.Library\bizDonate\DonateMemberList.cs:line 66
+Date/Time: 5/13/2014 3:40:01 PM
+============================================
+Title: Error
+Message: Error is occured
+StackTrace: System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at DonateWin.frm_newdonates.txtMemberID_Leave(Object sender, EventArgs e) in E:\00Project\Dothan_04_20\DonateWin\frm_newdonates.cs:line 91
+Date/Time: 5/13/2014 3:41:08 PM
+============================================

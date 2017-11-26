@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="ChodaeModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <Function Name="member_list" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="app_member">
+          <Parameter Name="frk_n4ErrorCode" Type="int" Mode="InOut" />
+          <Parameter Name="frk_strErrorText" Type="nvarchar" Mode="InOut" />
+          <Parameter Name="frk_isRequiresNewTransaction" Type="bit" Mode="In" />
+          <Parameter Name="memberid" Type="int" Mode="In" />
+          <Parameter Name="fullname" Type="nvarchar" Mode="In" />
+          <Parameter Name="firstName" Type="nvarchar" Mode="In" />
+          <Parameter Name="lastName" Type="nvarchar" Mode="In" />
+          <Parameter Name="enFirstName" Type="nvarchar" Mode="In" />
+          <Parameter Name="enLastName" Type="nvarchar" Mode="In" />
+          <Parameter Name="agefrom" Type="int" Mode="In" />
+          <Parameter Name="ageto" Type="int" Mode="In" />
+          <Parameter Name="city" Type="nvarchar" Mode="In" />
+          <Parameter Name="state" Type="nvarchar" Mode="In" />
+          <Parameter Name="baptismId" Type="int" Mode="In" />
+          <Parameter Name="sex" Type="int" Mode="In" />
+          <Parameter Name="subDivision" Type="int" Mode="In" />
+          <Parameter Name="baptismFrom" Type="datetime" Mode="In" />
+          <Parameter Name="baptismTo" Type="datetime" Mode="In" />
+          <Parameter Name="regfrom" Type="datetime" Mode="In" />
+          <Parameter Name="regto" Type="datetime" Mode="In" />
+          <Parameter Name="status" Type="int" Mode="In" />
+          <Parameter Name="jobtype" Type="int" Mode="In" />
+          <Parameter Name="birthfrom" Type="datetime" Mode="In" />
+          <Parameter Name="birthto" Type="datetime" Mode="In" />
+          <Parameter Name="married" Type="int" Mode="In" />
+          <Parameter Name="relationship" Type="int" Mode="In" />
+          <Parameter Name="fellowship" Type="int" Mode="In" />
+          <Parameter Name="active" Type="int" Mode="In" />
+          <Parameter Name="home" Type="varchar" Mode="In" />
+          <Parameter Name="cellPhone" Type="varchar" Mode="In" />
+        </Function>
+        <EntityContainer Name="ChodaeModelStoreContainer" />
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ChodaeModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="ChodaeEntities" annotation:LazyLoadingEnabled="true" >
+          <FunctionImport Name="member_list" ReturnType="Collection(ChodaeModel.member_list_Result)">
+            <Parameter Name="frk_n4ErrorCode" Mode="InOut" Type="Int32" />
+            <Parameter Name="frk_strErrorText" Mode="InOut" Type="String" />
+            <Parameter Name="frk_isRequiresNewTransaction" Mode="In" Type="Boolean" />
+            <Parameter Name="memberid" Mode="In" Type="Int32" />
+            <Parameter Name="fullname" Mode="In" Type="String" />
+            <Parameter Name="firstName" Mode="In" Type="String" />
+            <Parameter Name="lastName" Mode="In" Type="String" />
+            <Parameter Name="enFirstName" Mode="In" Type="String" />
+            <Parameter Name="enLastName" Mode="In" Type="String" />
+            <Parameter Name="agefrom" Mode="In" Type="Int32" />
+            <Parameter Name="ageto" Mode="In" Type="Int32" />
+            <Parameter Name="city" Mode="In" Type="String" />
+            <Parameter Name="state" Mode="In" Type="String" />
+            <Parameter Name="baptismId" Mode="In" Type="Int32" />
+            <Parameter Name="sex" Mode="In" Type="Int32" />
+            <Parameter Name="subDivision" Mode="In" Type="Int32" />
+            <Parameter Name="baptismFrom" Mode="In" Type="DateTime" />
+            <Parameter Name="baptismTo" Mode="In" Type="DateTime" />
+            <Parameter Name="regfrom" Mode="In" Type="DateTime" />
+            <Parameter Name="regto" Mode="In" Type="DateTime" />
+            <Parameter Name="status" Mode="In" Type="Int32" />
+            <Parameter Name="jobtype" Mode="In" Type="Int32" />
+            <Parameter Name="birthfrom" Mode="In" Type="DateTime" />
+            <Parameter Name="birthto" Mode="In" Type="DateTime" />
+            <Parameter Name="married" Mode="In" Type="Int32" />
+            <Parameter Name="relationship" Mode="In" Type="Int32" />
+            <Parameter Name="fellowship" Mode="In" Type="Int32" />
+            <Parameter Name="active" Mode="In" Type="Int32" />
+            <Parameter Name="home" Mode="In" Type="String" />
+            <Parameter Name="cellPhone" Mode="In" Type="String" />
+          </FunctionImport>
+        </EntityContainer>
+        <ComplexType Name="member_list_Result">
+          <Property Type="Int32" Name="id" Nullable="false" />
+          <Property Type="String" Name="last_name" Nullable="false" MaxLength="20" />
+          <Property Type="String" Name="first_name" Nullable="false" MaxLength="30" />
+          <Property Type="String" Name="en_first_name" Nullable="true" MaxLength="30" />
+          <Property Type="String" Name="en_last_name" Nullable="true" MaxLength="20" />
+          <Property Type="String" Name="email" Nullable="true" MaxLength="150" />
+          <Property Type="String" Name="address" Nullable="true" MaxLength="250" />
+          <Property Type="String" Name="city" Nullable="true" MaxLength="150" />
+          <Property Type="String" Name="statecode" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="zipcode" Nullable="true" MaxLength="50" />
+          <Property Type="Boolean" Name="sex" Nullable="false" />
+          <Property Type="Boolean" Name="married" Nullable="true" />
+          <Property Type="String" Name="cell" Nullable="true" MaxLength="15" />
+          <Property Type="String" Name="CellName" Nullable="true" MaxLength="30" />
+          <Property Type="DateTime" Name="regdate" Nullable="true" Precision="23" />
+          <Property Type="DateTime" Name="birthday" Nullable="true" Precision="23" />
+          <Property Type="DateTime" Name="baptism_year" Nullable="true" Precision="23" />
+          <Property Type="String" Name="baptismName" Nullable="true" MaxLength="150" />
+          <Property Type="Int32" Name="age" Nullable="true" />
+          <Property Type="String" Name="home" Nullable="true" MaxLength="15" />
+          <Property Type="String" Name="job" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="FellowshipName" Nullable="true" MaxLength="30" />
+          <Property Type="DateTime" Name="fellowship_date" Nullable="true" Precision="23" />
+          <Property Type="Int32" Name="family_code" Nullable="true" />
+          <Property Type="String" Name="family_name" Nullable="true" MaxLength="25" />
+          <Property Type="DateTime" Name="status_date" Nullable="true" Precision="23" />
+          <Property Type="String" Name="Relationship" Nullable="true" MaxLength="10" />
+          <Property Type="Int32" Name="StatusCode" Nullable="true" />
+          <Property Type="String" Name="StatusName" Nullable="true" MaxLength="150" />
+          <Property Type="String" Name="SubDivisionName" Nullable="true" MaxLength="150" />
+          <Property Type="String" Name="spousename" Nullable="true" MaxLength="50" />
+          <Property Type="Int32" Name="spouse" Nullable="true" />
+          <Property Type="Boolean" Name="active" Nullable="true" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ChodaeModelStoreContainer" CdmEntityContainer="ChodaeEntities" >
+          <FunctionImportMapping FunctionImportName="member_list" FunctionName="ChodaeModel.Store.member_list">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="ChodaeModel.member_list_Result">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="last_name" ColumnName="last_name" />
+                <ScalarProperty Name="first_name" ColumnName="first_name" />
+                <ScalarProperty Name="en_first_name" ColumnName="en_first_name" />
+                <ScalarProperty Name="en_last_name" ColumnName="en_last_name" />
+                <ScalarProperty Name="email" ColumnName="email" />
+                <ScalarProperty Name="address" ColumnName="address" />
+                <ScalarProperty Name="city" ColumnName="city" />
+                <ScalarProperty Name="statecode" ColumnName="statecode" />
+                <ScalarProperty Name="zipcode" ColumnName="zipcode" />
+                <ScalarProperty Name="sex" ColumnName="sex" />
+                <ScalarProperty Name="married" ColumnName="married" />
+                <ScalarProperty Name="cell" ColumnName="cell" />
+                <ScalarProperty Name="CellName" ColumnName="CellName" />
+                <ScalarProperty Name="regdate" ColumnName="regdate" />
+                <ScalarProperty Name="birthday" ColumnName="birthday" />
+                <ScalarProperty Name="baptism_year" ColumnName="baptism_year" />
+                <ScalarProperty Name="baptismName" ColumnName="baptismName" />
+                <ScalarProperty Name="age" ColumnName="age" />
+                <ScalarProperty Name="home" ColumnName="home" />
+                <ScalarProperty Name="job" ColumnName="job" />
+                <ScalarProperty Name="FellowshipName" ColumnName="FellowshipName" />
+                <ScalarProperty Name="fellowship_date" ColumnName="fellowship_date" />
+                <ScalarProperty Name="family_code" ColumnName="family_code" />
+                <ScalarProperty Name="family_name" ColumnName="family_name" />
+                <ScalarProperty Name="status_date" ColumnName="status_date" />
+                <ScalarProperty Name="Relationship" ColumnName="Relationship" />
+                <ScalarProperty Name="StatusCode" ColumnName="StatusCode" />
+                <ScalarProperty Name="StatusName" ColumnName="StatusName" />
+                <ScalarProperty Name="SubDivisionName" ColumnName="SubDivisionName" />
+                <ScalarProperty Name="spousename" ColumnName="spousename" />
+                <ScalarProperty Name="spouse" ColumnName="spouse" />
+                <ScalarProperty Name="active" ColumnName="active" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

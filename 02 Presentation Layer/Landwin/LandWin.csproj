@@ -1,0 +1,1070 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F646E198-1A8E-4C07-ACE5-C2262FAA53FF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LandWin</RootNamespace>
+    <AssemblyName>LandWin</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ManifestCertificateThumbprint>42721133D89958FF87D1DBB0AAD0B4DF6B8A478D</ManifestCertificateThumbprint>
+    <ManifestKeyFile>LandWin_2_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <TargetZone>LocalIntranet</TargetZone>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+    <StartupObject>LandWin.Program</StartupObject>
+    <DelaySign>false</DelaySign>
+    <PublishUrl>C:\Publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>http://library.njchodae.net/LandWin/</UpdateUrl>
+    <ProductName>LandWin</ProductName>
+    <PublisherName>Jinternet Soluctions</PublisherName>
+    <WebPage>publish.htm</WebPage>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>3.3.3.0</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\CrystalDecisions.ReportSource\10.5.3700.0__692fbea5521e1304\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v9.3, Version=9.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v9.3, Version=9.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v9.3, Version=9.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v9.3, Version=9.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v9.3, Version=9.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v9.3, Version=9.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v9.3, Version=9.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v9.3, Version=9.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v9.3, Version=9.3.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configuration\BaptismsFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuration\BaptismsFrm.Designer.cs">
+      <DependentUpon>BaptismsFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration\CellRolesFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuration\CellRolesFrm.Designer.cs">
+      <DependentUpon>CellRolesFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration\ChurchInfoFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuration\ChurchInfoFrm.Designer.cs">
+      <DependentUpon>ChurchInfoFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration\ConfigFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuration\ConfigFrm.Designer.cs">
+      <DependentUpon>ConfigFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration\DonateTypeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuration\DonateTypeFrm.Designer.cs">
+      <DependentUpon>DonateTypeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\MemberStatusPart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\MemberStatusPart.Designer.cs">
+      <DependentUpon>MemberStatusPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\SqlDataList.cs" />
+    <Compile Include="Tools\DonateHistoryFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\DonateHistoryFrm.Designer.cs">
+      <DependentUpon>DonateHistoryFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FellowshipLookupFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FellowshipLookupFrm.Designer.cs">
+      <DependentUpon>FellowshipLookupFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\SpliteFamilyFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\SpliteFamilyFrm.Designer.cs">
+      <DependentUpon>SpliteFamilyFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\StatusEditFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\StatusEditFrm.designer.cs">
+      <DependentUpon>StatusEditFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration\StatusTypeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuration\StatusTypeFrm.Designer.cs">
+      <DependentUpon>StatusTypeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration\EntryTypeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuration\EntryTypeFrm.Designer.cs">
+      <DependentUpon>EntryTypeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration\JobTypeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuration\JobTypeFrm.Designer.cs">
+      <DependentUpon>JobTypeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration\MinistryRoleFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuration\MinistryRoleFrm.Designer.cs">
+      <DependentUpon>MinistryRoleFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration\SubDivisionFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuration\SubDivisionFrm.Designer.cs">
+      <DependentUpon>SubDivisionFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration\UserFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuration\UserFrm.Designer.cs">
+      <DependentUpon>UserFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration\VisitTypeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuration\VisitTypeFrm.Designer.cs">
+      <DependentUpon>VisitTypeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\CellPart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\CellPart.Designer.cs">
+      <DependentUpon>CellPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\CellReportPart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\CellReportPart.Designer.cs">
+      <DependentUpon>CellReportPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\DonateManagePart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\DonateManagePart.Designer.cs">
+      <DependentUpon>DonateManagePart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\DonateReports.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\DonateReports.Designer.cs">
+      <DependentUpon>DonateReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\EditVisitReportPart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\EditVisitReportPart.Designer.cs">
+      <DependentUpon>EditVisitReportPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\EducationPart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\EducationPart.designer.cs">
+      <DependentUpon>EducationPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\FellowshipPart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\FellowshipPart.Designer.cs">
+      <DependentUpon>FellowshipPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\HomePart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\HomePart.Designer.cs">
+      <DependentUpon>HomePart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\MemberListPart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\MemberListPart.Designer.cs">
+      <DependentUpon>MemberListPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\MinistryPart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\MinistryPart.Designer.cs">
+      <DependentUpon>MinistryPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\UserPart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\UserPart.Designer.cs">
+      <DependentUpon>UserPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\VisitReportPart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\VisitReportPart.Designer.cs">
+      <DependentUpon>VisitReportPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Shared\FtpApi.cs" />
+    <Compile Include="Shared\ReprotManager.cs" />
+    <Compile Include="Shared\Utility.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginFrm.Designer.cs">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Configuration\BaptismsFrm.resx">
+      <DependentUpon>BaptismsFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuration\CellRolesFrm.resx">
+      <DependentUpon>CellRolesFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuration\ChurchInfoFrm.resx">
+      <DependentUpon>ChurchInfoFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuration\ConfigFrm.resx">
+      <DependentUpon>ConfigFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuration\DonateTypeFrm.resx">
+      <DependentUpon>DonateTypeFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\MemberStatusPart.resx">
+      <DependentUpon>MemberStatusPart.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\DonateHistoryFrm.resx">
+      <DependentUpon>DonateHistoryFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FamilyAddFrm.resx">
+      <DependentUpon>FamilyAddFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FellowshipLookupFrm.resx">
+      <DependentUpon>FellowshipLookupFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\SpliteFamilyFrm.resx">
+      <DependentUpon>SpliteFamilyFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\StatusEditFrm.resx">
+      <DependentUpon>StatusEditFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuration\StatusTypeFrm.resx">
+      <DependentUpon>StatusTypeFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuration\EntryTypeFrm.resx">
+      <DependentUpon>EntryTypeFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuration\JobTypeFrm.resx">
+      <DependentUpon>JobTypeFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuration\MinistryRoleFrm.resx">
+      <DependentUpon>MinistryRoleFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuration\SubDivisionFrm.resx">
+      <DependentUpon>SubDivisionFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuration\UserFrm.resx">
+      <DependentUpon>UserFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuration\VisitTypeFrm.resx">
+      <DependentUpon>VisitTypeFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginFrm.resx">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\CellPart.resx">
+      <DependentUpon>CellPart.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\CellReportPart.resx">
+      <DependentUpon>CellReportPart.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\DonateManagePart.resx">
+      <DependentUpon>DonateManagePart.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\DonateReports.resx">
+      <DependentUpon>DonateReports.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\EditVisitReportPart.resx">
+      <DependentUpon>EditVisitReportPart.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\EducationPart.resx">
+      <DependentUpon>EducationPart.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\FellowshipPart.resx">
+      <DependentUpon>FellowshipPart.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\HomePart.resx">
+      <DependentUpon>HomePart.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\MemberListPart.resx">
+      <DependentUpon>MemberListPart.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\MinistryPart.resx">
+      <DependentUpon>MinistryPart.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\UserPart.resx">
+      <DependentUpon>UserPart.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\VisitReportPart.resx">
+      <DependentUpon>VisitReportPart.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\WinPart.resx">
+      <DependentUpon>WinPart.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\CalendarFrm.resx">
+      <DependentUpon>CalendarFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\CellListFrm.resx">
+      <DependentUpon>CellListFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\ChangeFamilyOwnerFrm.resx">
+      <DependentUpon>ChangeFamilyOwnerFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\CommentFrm.resx">
+      <DependentUpon>CommentFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\CourseListFrm.resx">
+      <DependentUpon>CourseListFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\DonateMemberSearchFrm.resx">
+      <DependentUpon>DonateMemberSearchFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\DonateSummaryFrm.resx">
+      <DependentUpon>DonateSummaryFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\OpenListFrm.resx">
+      <DependentUpon>OpenListFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\MemberInfoFrm.resx">
+      <DependentUpon>MemberInfoFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\MemberVisitDetailFrm.resx">
+      <DependentUpon>MemberVisitDetailFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\MinistryListFrm.resx">
+      <DependentUpon>MinistryListFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FellowshipListFrm.resx">
+      <DependentUpon>FellowshipListFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\ImportFromExcelFrm.resx">
+      <DependentUpon>ImportFromExcelFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\MemberSearchFrm.resx">
+      <DependentUpon>MemberSearchFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\ProgressDialog.resx">
+      <DependentUpon>ProgressDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\SearchSameNameFrm.resx">
+      <DependentUpon>SearchSameNameFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\StatusLogViewFrm.resx">
+      <DependentUpon>StatusLogViewFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\ZipcodeFrm.resx">
+      <DependentUpon>ZipcodeFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Modules\WinPart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Modules\WinPart.Designer.cs">
+      <DependentUpon>WinPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\UtiltyDevExpress.cs" />
+    <Compile Include="Tools\CalendarFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\CalendarFrm.Designer.cs">
+      <DependentUpon>CalendarFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\CellListFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\CellListFrm.Designer.cs">
+      <DependentUpon>CellListFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\ChangeFamilyOwnerFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\ChangeFamilyOwnerFrm.Designer.cs">
+      <DependentUpon>ChangeFamilyOwnerFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\CommentFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\CommentFrm.Designer.cs">
+      <DependentUpon>CommentFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\CourseListFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\CourseListFrm.Designer.cs">
+      <DependentUpon>CourseListFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\DonateMemberFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\DonateMemberFrm.Designer.cs">
+      <DependentUpon>DonateMemberFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\DonateMemberSearchFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\DonateMemberSearchFrm.Designer.cs">
+      <DependentUpon>DonateMemberSearchFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\DonateSummaryFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\DonateSummaryFrm.Designer.cs">
+      <DependentUpon>DonateSummaryFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FamilyAddFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FamilyListChangeFrm.Designer.cs">
+      <DependentUpon>FamilyAddFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\OpenListFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\OpenListFrm.Designer.cs">
+      <DependentUpon>OpenListFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\MemberInfoFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\MemberInfoFrm.Designer.cs">
+      <DependentUpon>MemberInfoFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\MemberVisitDetailFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\MemberVisitDetailFrm.Designer.cs">
+      <DependentUpon>MemberVisitDetailFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\MinistryListFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\MinistryListFrm.Designer.cs">
+      <DependentUpon>MinistryListFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FellowshipListFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FellowshipListFrm.Designer.cs">
+      <DependentUpon>FellowshipListFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\ImportFromExcelFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\ImportFromExcelFrm.Designer.cs">
+      <DependentUpon>ImportFromExcelFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\MemberSearchFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\MemberSearchFrm.Designer.cs">
+      <DependentUpon>MemberSearchFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\ProgressDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\ProgressDialog.Designer.cs">
+      <DependentUpon>ProgressDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\SearchSameNameFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\SearchSameNameFrm.Designer.cs">
+      <DependentUpon>SearchSameNameFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\StatusLogViewFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\StatusLogViewFrm.Designer.cs">
+      <DependentUpon>StatusLogViewFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\ZipcodeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\ZipcodeFrm.Designer.cs">
+      <DependentUpon>ZipcodeFrm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\00 Framework Layer\Dothan\Dothan.csproj">
+      <Project>{A87513BD-E0C4-4FAE-851F-1B5BBEF5171E}</Project>
+      <Name>Dothan</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\01 Business Layer\Dothan.Library\Dothan.Library.csproj">
+      <Project>{F722F019-4688-4B28-BAE9-BE1E1066D003}</Project>
+      <Name>Dothan.Library</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\01 Business Layer\LandWin.Report\LandWin.Report.csproj">
+      <Project>{DC71C47B-139A-49C3-8091-D308F0A47BAC}</Project>
+      <Name>LandWin.Report</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\app.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="BusinessObjects.CrystalReports.10.5">
+      <Visible>False</Visible>
+      <ProductName>Crystal Reports Basic for Visual Studio 2008 %28x86, x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.VSTORuntime.3.0">
+      <Visible>False</Visible>
+      <ProductName>Visual Studio Tools for the Office system 3.0 Runtime Service Pack 1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="CrystalDecisions.CrystalReports.Engine">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportSource">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Shared">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Windows.Forms">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Data.v9.3">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.Utils.v9.3">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraBars.v9.3">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraEditors.v9.3">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraGrid.v9.3">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraLayout.v9.3">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraNavBar.v9.3">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraPrinting.v9.3">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraRichEdit.v9.3">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevExpress.XtraTreeList.v9.3">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="stdole">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splite_icon.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+    <None Include="Resources\donate_icon_16x116.png" />
+    <None Include="Resources\donate_icon.png" />
+    <None Include="Properties\DataSources\Dothan.Library.bizDonate.DonateTypeList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizDonate.DonateTypes.datasource" />
+    <None Include="Resources\donate.png" />
+    <None Include="Resources\Sync1.png" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMember.Comment.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMember.MemberCells.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMember.MemberCourses.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMember.MemberFellowships.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMember.MemberMinistrys.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMember.StatusLogList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMember.StatusMemberList.datasource" />
+    <None Include="Resources\Boss.png" />
+    <None Include="Resources\Move1.png" />
+    <None Include="Resources\Upload.png" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCommon.Address.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMember.FamilyList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMember.Member.datasource" />
+    <None Include="Resources\Sync.png" />
+    <None Include="Resources\Print.png" />
+    <None Include="Resources\Cancel.png" />
+    <None Include="Resources\ministry_24x24.png" />
+    <None Include="Resources\donate_24x24.png" />
+    <None Include="Resources\member_24x24.png" />
+    <None Include="Resources\home_24x24.png" />
+    <None Include="Resources\List.png" />
+    <None Include="Resources\Save.png" />
+    <None Include="Resources\Previous.png" />
+    <None Include="Resources\Load.png" />
+    <None Include="Properties\DataSources\Dothan.Library.bizDonate.DonateBookList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizDonate.DonateMemberList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizDonate.DonateUsers.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizDonate.MemberDonateList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizDonate.YearList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMemberVisit.MemberVisit1.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMemberVisit.VisitReportList.datasource" />
+    <None Include="Resources\Modify.png" />
+    <None Include="Resources\loading.gif" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCell.CellReport.datasource" />
+    <None Include="Resources\Undo.png" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCell.CellList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCell.CellMembers.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCell.CellReportDetails.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCell.CellReportList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCell.CellRoleList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCell.Cells.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCommon.CityList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCommon.MarriageList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCommon.SexList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCommon.StateList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCommon.StatusList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCourse.Courses.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMemberVisit.MemberVisit.datasource" />
+    <None Include="Resources\Apply.png" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCommon.TypeList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCourse.CourseList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCourse.CourseMembers.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMember.VisitRecorders.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMember.VisitReportList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMinistry.MinistryList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMinistry.MinistryMembers.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMinistry.MinistryRoleList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMinistry.Ministrys.datasource" />
+    <None Include="Resources\Find.png" />
+    <None Include="Resources\Calendar.png" />
+    <None Include="Properties\DataSources\Dothan.Library.bizAdmin.StatusTypes.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizFellowship.FellowshipMembers.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizFellowship.Fellowships.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizFellowship.FellowshipsList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMember.CommentList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMember.MemberList.datasource" />
+    <None Include="Resources\Download.png" />
+    <None Include="Resources\Red mark.bmp" />
+    <None Include="Properties\DataSources\Dothan.Library.bizAdmin.AuthorizedList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizAdmin.ChurchInfo.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizAdmin.EntryTypes.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizAdmin.JobTypes.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizAdmin.RoleList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizAdmin.SubDivisions.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizAdmin.User.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizAdmin.UserList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizAdmin.VisitTypes.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCell.CellRoles.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCommon.SubdivisionList.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizMinistry.MinistryRoles.datasource" />
+    <None Include="Resources\bt_cancel.png" />
+    <None Include="Resources\bt_login.png" />
+    <None Include="Resources\bg_login.png" />
+    <None Include="Resources\arrow_left.png" />
+    <None Include="Resources\toolStripIcon4.bmp" />
+    <None Include="Resources\edu_16x16.png" />
+    <None Include="Resources\edu.png" />
+    <None Include="Resources\Remove_16x16.png" />
+    <None Include="Resources\merge_16x16.jpg" />
+    <None Include="Resources\Load_16x16.png" />
+    <None Include="Resources\Document_16x16.png" />
+    <None Include="Resources\undo_16x16.png" />
+    <None Include="Resources\Find_16x16.png" />
+    <None Include="Resources\User_24x24.png" />
+    <None Include="Resources\Gear Alt_24x24.png" />
+    <None Include="Resources\Users_24x241.png" />
+    <None Include="Resources\Transfer_24x24.png" />
+    <None Include="Resources\Remove_24x24.png" />
+    <None Include="Resources\Save_24x24.png" />
+    <None Include="Resources\Users_24x24.png" />
+    <None Include="Resources\Add_24x24.png" />
+    <None Include="Resources\Save_32x32.png" />
+    <None Include="Resources\Remove_32x32.png" />
+    <None Include="Resources\Add_16X16.png" />
+    <None Include="Resources\Add_32X32.png" />
+    <None Include="Resources\Transfer.png" />
+    <None Include="Resources\transfer_icon.jpg" />
+    <None Include="Resources\10015.jpg" />
+    <None Include="Resources\NoPhoto.bmp" />
+    <None Include="Resources\import_file.jpg" />
+    <None Include="Resources\Move.png" />
+    <None Include="Resources\search_icon.png" />
+    <None Include="Resources\print_icon.png" />
+    <None Include="Resources\filter_icon1.png" />
+    <None Include="Resources\bg1.jpg" />
+    <None Include="Resources\bg.jpg" />
+    <None Include="Resources\check_icon.jpg" />
+    <None Include="Resources\edit_icon.jpg" />
+    <None Include="Resources\login_cross.JPG" />
+    <None Include="Resources\logo_church.gif" />
+    <None Include="Resources\login_page_background.png" />
+    <None Include="Resources\login_bg.jpg" />
+    <None Include="Resources\BindingNavigatorDeleteItem.png" />
+    <None Include="Resources\BindingNavigatorAddNewItem.png" />
+    <None Include="Resources\close_page.jpg" />
+    <None Include="Resources\collapes_icon_left.bmp" />
+    <None Include="Resources\collapes_icon_right.jpg" />
+    <None Include="Resources\Member_icon.png" />
+    <None Include="Resources\vistaSearch.bmp" />
+    <None Include="Resources\sort.gif" />
+    <None Include="Resources\documents.bmp" />
+    <None Include="Resources\export_excel.gif" />
+    <None Include="Resources\ribbon_close.png" />
+    <None Include="Resources\msIcon2.bmp" />
+    <None Include="Resources\msIcon3.bmp" />
+    <None Include="Resources\reset_icon.jpg" />
+    <None Include="Resources\collapse_icon.gif" />
+    <None Include="Resources\expand_icon.gif" />
+    <None Include="Resources\search2.jpg" />
+    <None Include="Resources\merge.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

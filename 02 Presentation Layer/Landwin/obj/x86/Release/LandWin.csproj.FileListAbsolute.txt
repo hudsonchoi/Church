@@ -1,0 +1,648 @@
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.exe.config
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.exe.manifest
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.application
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.exe
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Library.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Report.BusinessObject.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Report.CrystalReportsTools.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Report.DataAccess.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Report.RemoteAccess.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.Business.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.DataAccess.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.Shared.CrystalReports.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.Shared.DataSet.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.Shared.Interface.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\TelerikData.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\office.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Report.BusinessObject.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.Shared.DataSet.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.Shared.CrystalReports.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.Business.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Library.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Report.RemoteAccess.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Report.DataAccess.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.DataAccess.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\office.xml
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.Shared.Interface.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.BasicForm.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_baptism.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_cell.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_cellroles.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_churchinfo.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_Comment.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_division.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_donatetype.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_entrytype.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_family.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_familylist.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_fellowmemberlist.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_fellowship.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_editdonator.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_jobtypes.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_cellemberlistcs.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_ministry.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_ministrymemberlist.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_rolesset.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_RptCells.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_searchdoner.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_searchSameName.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_SetSubDivision.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_statuslabel.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_statuslog.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_subdivision.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_visittype.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_zipcode.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Dlg_Cash.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Dlg_DivList.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_Calendar.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_ChangeFamilyOwner.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_ColumnSetting.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_Course.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_CourseAssignID.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_DonateBookes.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_DonateConfig.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_DonateSetting.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_EditVisitReport.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_ExportExcel.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_Home.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_ListName.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_MemberListFiles.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_MemberVisitDetail.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_MemberVisitList.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_Progress.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_ReportInfo.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_RoleList.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_StatusChange.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.FrmUserEdit.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.FrmUsers.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_Cell.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_CellReport.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_Fellowship.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_Main.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_Member.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.frm_MembersInfo.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_DonateDetails.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_Ministry.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_ministryroles.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_NewDonates.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_Searchmember.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_SettingGridColumn.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_SpliteFamily.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_StatusReport.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_VistReport.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.LoginForm.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_NewMember.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Properties.Resources.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.SortColumnsForm.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.WinPart.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.csproj.GenerateResource.Cache
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.TrustInfo.xml
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.exe.manifest
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.application
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.exe
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.pdb
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.exe.config
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.exe
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.pdb
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_baptism.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_cell.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_cellroles.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_churchinfo.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_division.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_donatetype.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_entrytype.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_familylist.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_fellowmemberlist.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_fellowship.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_editdonator.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_jobtypes.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_cellemberlistcs.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_ministry.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_ministrymemberlist.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_rolesset.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_RptCells.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_searchdoner.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_searchSameName.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_SetSubDivision.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_statuslabel.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_statuslog.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_subdivision.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_visittype.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_zipcode.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Dlg_Cash.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Dlg_DivList.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_ChangeFamilyOwner.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_DonateBookes.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_DonateConfig.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_DonateSetting.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_EditVisitReport.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_ExportExcel.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_ListName.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_MemberListFiles.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_MemberVisitDetail.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_MemberVisitList.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_RoleList.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_StatusChange.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.FrmUsers.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_Cell.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_CellReport.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_Fellowship.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_DonateDetails.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_Ministry.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.dlg_ministryroles.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_NewDonates.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_Searchmember.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_SettingGridColumn.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_SpliteFamily.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Frm_StatusReport.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.MainForm.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Properties.Resources.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.WinPart.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.csproj.GenerateResource.Cache
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.exe.licenses
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.ProgressDialog.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.Modules.LoginDialog.resources
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.exe.manifest
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.application
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.exe
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.pdb
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.dll
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Library.dll
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Report.BusinessObject.dll
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Report.CrystalReportsTools.dll
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Report.DataAccess.dll
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Report.RemoteAccess.dll
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.Business.dll
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.DataAccess.dll
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.Shared.CrystalReports.dll
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.Shared.DataSet.dll
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.Shared.Interface.dll
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\office.dll
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\Microsoft.Vbe.Interop.dll
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\office.xml
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Report.BusinessObject.pdb
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.Business.pdb
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.Shared.CrystalReports.pdb
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.Shared.DataSet.pdb
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Library.pdb
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Report.RemoteAccess.pdb
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.Report.DataAccess.pdb
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.DataAccess.pdb
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\Dothan.pdb
+C:\Users\dkim\Desktop\Dothan\Harvest\bin\x86\Release\LandWin.Shared.Interface.pdb
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.TrustInfo.xml
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.exe.manifest
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.application
+C:\Users\dkim\Desktop\Dothan\Harvest\obj\x86\Release\LandWin.HomePart.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\LandWin.exe.config
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\LandWin.exe.manifest
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\LandWin.application
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\LandWin.exe
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\LandWin.pdb
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\Dothan.dll
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\Dothan.Library.dll
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\Dothan.Report.BusinessObject.dll
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\Dothan.Report.CrystalReportsTools.dll
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\Dothan.Report.DataAccess.dll
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\Dothan.Report.RemoteAccess.dll
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\LandWin.Business.dll
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\LandWin.DataAccess.dll
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\LandWin.Shared.CrystalReports.dll
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\LandWin.Shared.DataSet.dll
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\LandWin.Shared.Interface.dll
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\office.dll
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\Microsoft.Vbe.Interop.dll
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\office.xml
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\Dothan.Report.BusinessObject.pdb
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\LandWin.Business.pdb
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\LandWin.Shared.CrystalReports.pdb
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\LandWin.Shared.DataSet.pdb
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\Dothan.Library.pdb
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\Dothan.Report.RemoteAccess.pdb
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\Dothan.Report.DataAccess.pdb
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\LandWin.DataAccess.pdb
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\Dothan.pdb
+C:\Users\dkim\Desktop\Dothan\Landwin\bin\x86\Release\LandWin.Shared.Interface.pdb
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.ProgressDialog.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_cellroles.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_churchinfo.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_division.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_donatetype.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_entrytype.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_familylist.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_fellowmemberlist.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_fellowship.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_editdonator.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_jobtypes.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_cellemberlistcs.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_ministry.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_ministrymemberlist.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_rolesset.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_RptCells.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_searchdoner.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_searchSameName.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_SetSubDivision.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_statuslabel.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_subdivision.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_visittype.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_zipcode.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Dlg_Cash.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Dlg_DivList.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Frm_ChangeFamilyOwner.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Frm_DonateSetting.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Frm_EditVisitReport.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Frm_ListName.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Frm_MemberVisitDetail.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Frm_MemberVisitList.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Frm_RoleList.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.FrmUsers.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Frm_Cell.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Frm_CellReport.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Frm_Fellowship.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Frm_DonateDetails.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Frm_Ministry.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.dlg_ministryroles.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Frm_NewDonates.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Frm_Searchmember.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Frm_SpliteFamily.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Frm_StatusReport.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Modules.LoginDialog.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.MainForm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.HomePart.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Properties.Resources.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.csproj.GenerateResource.Cache
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.exe.licenses
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.TrustInfo.xml
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.exe.manifest
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.application
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.exe
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.pdb
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Modules.MemberListPart.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.WinPart.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.CalendarFrm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.ConfigureationFrm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.EducationPart.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.VisitReportListPart.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.MultipleSelectFrm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.MemberInfoFrm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.CellListFrm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Configuration.BaptismsFrm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Configuration.EntrytypesFrm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Tools.NewMemberFrm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Tools.NewFamilyFrm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.ProgressForm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Tools.ImportFromExcelFrm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Tools.SelectCourse.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.CourseListFrm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Tools.UserListManage.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Tools.CommentFrm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Tools.StatusEditFrm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Tools.StatusLogViewFrm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Tools.ReportInfoFrm.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Tools.AddMemberCourse.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Tools.Frm_AddbyMemberID.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.DonateReports.resources
+C:\Users\dkim\Desktop\Dothan\Landwin\obj\x86\Release\LandWin.Modules.DonateManageFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\LandWin.exe.config
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\LandWin.exe.manifest
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\LandWin.application
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\LandWin.exe
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\LandWin.pdb
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\Dothan.dll
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Library.dll
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Report.BusinessObject.dll
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Report.CrystalReportsTools.dll
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Report.DataAccess.dll
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Report.RemoteAccess.dll
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\LandWin.Business.dll
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\LandWin.DataAccess.dll
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\LandWin.Shared.CrystalReports.dll
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\LandWin.Shared.DataSet.dll
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\LandWin.Shared.Interface.dll
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\office.dll
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\Microsoft.Vbe.Interop.dll
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\office.xml
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Report.BusinessObject.pdb
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\LandWin.Business.pdb
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\LandWin.Shared.CrystalReports.pdb
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\LandWin.Shared.DataSet.pdb
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Library.pdb
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Report.RemoteAccess.pdb
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Report.DataAccess.pdb
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\LandWin.DataAccess.pdb
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\Dothan.pdb
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\bin\x86\Release\LandWin.Shared.Interface.pdb
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Configuration.BaptismsFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Configuration.ConfigFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Configuration.EntrytypesFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.DonateReports.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.MinistryMemberSearchFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MemberInfoFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.ProgressForm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.CalendarFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.CellListFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.CommentFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.CourseListFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.ImportFromExcelFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.MemberSearchFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.NewFamilyFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.NewMemberFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.ProgressDialog.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.FamilyListChangeFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MemberSearchForCell.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.dlg_RptCells.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.dlg_searchdoner.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.StatusConfigFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.ZipcodeListFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Frm_ChangeFamilyOwner.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Frm_ListName.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MemberVistViewFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Frm_RoleList.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.EducationPart.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Modules.LoginDialog.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MainForm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.HomePart.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Modules.MemberListPart.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Properties.Resources.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.ReportInfoFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.SelectCourse.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.StatusEditFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.StatusLogViewFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.WinPart.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.csproj.GenerateResource.Cache
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.exe.licenses
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.TrustInfo.xml
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.exe.manifest
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.application
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.exe
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.pdb
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.CellRolesFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.DonateTypesFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.EntryTypesFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.JobTypesFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.VisitTypesFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.DonateSummaryFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Modules.DonateManagePart.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.VisitReportPart.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.ChurchInfoFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.CellPart.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.CellReportPart.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.FellowshipPart.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MinistryPart.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.DonateBooksPart.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MemberStatusPart.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.UserPart.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.SelectRoleFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MinistryRoleFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.AddMemberbyIDFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.FellowshipListFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.EditDonatorFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MinistryFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.SearchSameNameFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MemberVisitDetailFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MemSpliteFamilyFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.SubDivisionFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.SelectSubDivisionFrm.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.EditVisitReportPart.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.MemberSearchFroEdu.resources
+C:\Users\dkim\Documents\Personal\Dothan\Landwin\obj\x86\Release\LandWin.StandAloneFrm.resources
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\LandWin.exe.config
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.exe
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.pdb
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\LandWin.exe.manifest
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\LandWin.application
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\LandWin.exe
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\LandWin.pdb
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\Dothan.dll
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Library.dll
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Report.BusinessObject.dll
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Report.CrystalReportsTools.dll
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Report.DataAccess.dll
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Report.RemoteAccess.dll
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\LandWin.Business.dll
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\LandWin.DataAccess.dll
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\LandWin.Shared.CrystalReports.dll
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\LandWin.Shared.DataSet.dll
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\LandWin.Shared.Interface.dll
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\office.dll
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\Microsoft.Vbe.Interop.dll
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\office.xml
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Report.BusinessObject.pdb
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\LandWin.Business.pdb
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\LandWin.Shared.CrystalReports.pdb
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Report.CrystalReportsTools.pdb
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\LandWin.Shared.DataSet.pdb
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Library.pdb
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Report.RemoteAccess.pdb
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\Dothan.Report.DataAccess.pdb
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\LandWin.DataAccess.pdb
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\Microsoft.Office.Interop.Excel.xml
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\Dothan.pdb
+C:\00Project\Personal\Dothan\Landwin\bin\x86\Release\LandWin.Shared.Interface.pdb
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\ResolveAssemblyReference.cache
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Configuration.BaptismsFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Configuration.ConfigFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Configuration.EntrytypesFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.StandAloneFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.MemberSearchFroEdu.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.SelectSubDivisionFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Modules.DonateManagePart.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.DonateReports.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.MinistryMemberSearchFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MemberInfoFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.VisitReportPart.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.ProgressForm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.CalendarFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.CellListFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.CommentFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.CourseListFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.AddMemberbyIDFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.ImportFromExcelFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.MemberSearchFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.NewFamilyFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.NewMemberFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.ProgressDialog.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.CellRolesFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.ChurchInfoFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.DonateTypesFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.EntryTypesFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.FamilyListChangeFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.FellowshipListFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.EditDonatorFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.JobTypesFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MemberSearchForCell.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MinistryFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.SelectRoleFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.dlg_RptCells.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.dlg_searchdoner.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.SearchSameNameFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.StatusConfigFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.SubDivisionFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.VisitTypesFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.ZipcodeListFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.DonateSummaryFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Frm_ChangeFamilyOwner.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.EditVisitReportPart.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Frm_ListName.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MemberVisitDetailFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MemberVistViewFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Frm_RoleList.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.EducationPart.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.CellPart.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.CellReportPart.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.FellowshipPart.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MinistryPart.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MinistryRoleFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.DonateBooksPart.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MemSpliteFamilyFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MemberStatusPart.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Modules.LoginDialog.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.MainForm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.HomePart.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Modules.MemberListPart.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Properties.Resources.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.ReportInfoFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.SelectCourse.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.StatusEditFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.StatusLogViewFrm.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.Tools.UserPart.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.WinPart.resources
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.csproj.GenerateResource.Cache
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.exe.licenses
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.TrustInfo.xml
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.exe.manifest
+C:\00Project\Personal\Dothan\Landwin\obj\x86\Release\LandWin.application
+E:\00Project\Dothan\Landwin\bin\x86\Release\LandWin.exe.config
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.exe
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.pdb
+E:\00Project\Dothan\Landwin\obj\x86\Release\ResolveAssemblyReference.cache
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Configuration.BaptismsFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Configuration.ConfigFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Configuration.EntrytypesFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.StandAloneFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Tools.MemberSearchFroEdu.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.SelectSubDivisionFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Modules.DonateManagePart.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.DonateReports.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Tools.MinistryMemberSearchFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.MemberInfoFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.VisitReportPart.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.ProgressForm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.CalendarFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.CellListFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Tools.CommentFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.CourseListFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Tools.AddMemberbyIDFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Tools.ImportFromExcelFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Tools.MemberSearchFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Tools.NewFamilyFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Tools.NewMemberFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.ProgressDialog.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.CellRolesFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.ChurchInfoFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.DonateTypesFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.EntryTypesFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.FamilyListChangeFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.FellowshipListFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.EditDonatorFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.JobTypesFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.MemberSearchForCell.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.MinistryFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.SelectRoleFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.dlg_RptCells.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.dlg_searchdoner.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.SearchSameNameFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.StatusConfigFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.SubDivisionFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.VisitTypesFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Tools.ZipcodeListFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.DonateSummaryFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Frm_ChangeFamilyOwner.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.EditVisitReportPart.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Frm_ListName.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.MemberVisitDetailFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.MemberVistViewFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Frm_RoleList.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.EducationPart.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.CellPart.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.CellReportPart.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.FellowshipPart.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.MinistryPart.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.MinistryRoleFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.DonateBooksPart.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.MemSpliteFamilyFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.MemberStatusPart.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Modules.LoginDialog.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.MainForm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.HomePart.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Modules.MemberListPart.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Properties.Resources.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Tools.ReportInfoFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Tools.SelectCourse.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Tools.StatusEditFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Tools.StatusLogViewFrm.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.Tools.UserPart.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.WinPart.resources
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.csproj.GenerateResource.Cache
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.exe.licenses
+E:\00Project\Dothan\Landwin\bin\x86\Release\LandWin.exe.manifest
+E:\00Project\Dothan\Landwin\bin\x86\Release\LandWin.application
+E:\00Project\Dothan\Landwin\bin\x86\Release\LandWin.exe
+E:\00Project\Dothan\Landwin\bin\x86\Release\LandWin.pdb
+E:\00Project\Dothan\Landwin\bin\x86\Release\Dothan.dll
+E:\00Project\Dothan\Landwin\bin\x86\Release\Dothan.Library.dll
+E:\00Project\Dothan\Landwin\bin\x86\Release\Dothan.Report.BusinessObject.dll
+E:\00Project\Dothan\Landwin\bin\x86\Release\Dothan.Report.CrystalReportsTools.dll
+E:\00Project\Dothan\Landwin\bin\x86\Release\Dothan.Report.DataAccess.dll
+E:\00Project\Dothan\Landwin\bin\x86\Release\Dothan.Report.RemoteAccess.dll
+E:\00Project\Dothan\Landwin\bin\x86\Release\LandWin.Business.dll
+E:\00Project\Dothan\Landwin\bin\x86\Release\LandWin.DataAccess.dll
+E:\00Project\Dothan\Landwin\bin\x86\Release\LandWin.Shared.CrystalReports.dll
+E:\00Project\Dothan\Landwin\bin\x86\Release\LandWin.Shared.DataSet.dll
+E:\00Project\Dothan\Landwin\bin\x86\Release\LandWin.Shared.Interface.dll
+E:\00Project\Dothan\Landwin\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+E:\00Project\Dothan\Landwin\bin\x86\Release\office.dll
+E:\00Project\Dothan\Landwin\bin\x86\Release\Microsoft.Vbe.Interop.dll
+E:\00Project\Dothan\Landwin\bin\x86\Release\office.xml
+E:\00Project\Dothan\Landwin\bin\x86\Release\Dothan.Report.BusinessObject.pdb
+E:\00Project\Dothan\Landwin\bin\x86\Release\LandWin.Business.pdb
+E:\00Project\Dothan\Landwin\bin\x86\Release\LandWin.Shared.CrystalReports.pdb
+E:\00Project\Dothan\Landwin\bin\x86\Release\Dothan.Report.CrystalReportsTools.pdb
+E:\00Project\Dothan\Landwin\bin\x86\Release\LandWin.Shared.DataSet.pdb
+E:\00Project\Dothan\Landwin\bin\x86\Release\Dothan.Library.pdb
+E:\00Project\Dothan\Landwin\bin\x86\Release\Dothan.Report.RemoteAccess.pdb
+E:\00Project\Dothan\Landwin\bin\x86\Release\Dothan.Report.DataAccess.pdb
+E:\00Project\Dothan\Landwin\bin\x86\Release\LandWin.DataAccess.pdb
+E:\00Project\Dothan\Landwin\bin\x86\Release\Microsoft.Office.Interop.Excel.xml
+E:\00Project\Dothan\Landwin\bin\x86\Release\Dothan.pdb
+E:\00Project\Dothan\Landwin\bin\x86\Release\LandWin.Shared.Interface.pdb
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.TrustInfo.xml
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.exe.manifest
+E:\00Project\Dothan\Landwin\obj\x86\Release\LandWin.application
+E:\00Project\Dothan_04_19\Landwin\bin\x86\Release\LandWin.exe.config
+E:\00Project\Dothan_04_19\Landwin\obj\x86\Release\LandWin.exe
+E:\00Project\Dothan_04_19\Landwin\obj\x86\Release\LandWin.pdb
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\x86\Release\LandWin.exe.config
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\x86\Release\LandWin.exe
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\x86\Release\LandWin.pdb

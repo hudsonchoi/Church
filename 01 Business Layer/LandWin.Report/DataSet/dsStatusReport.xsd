@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsStatusReport" targetNamespace="http://tempuri.org/dsStatusReport.xsd" xmlns:mstns="http://tempuri.org/dsStatusReport.xsd" xmlns="http://tempuri.org/dsStatusReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsStatusReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsStatusReport" msprop:Generator_DataSetName="dsStatusReport" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dsStatusList" msprop:Generator_UserTableName="dsStatusList" msprop:Generator_RowDeletedName="dsStatusListRowDeleted" msprop:Generator_RowChangedName="dsStatusListRowChanged" msprop:Generator_RowClassName="dsStatusListRow" msprop:Generator_RowChangingName="dsStatusListRowChanging" msprop:Generator_RowEvArgName="dsStatusListRowChangeEvent" msprop:Generator_RowEvHandlerName="dsStatusListRowChangeEventHandler" msprop:Generator_TableClassName="dsStatusListDataTable" msprop:Generator_TableVarName="tabledsStatusList" msprop:Generator_RowDeletingName="dsStatusListRowDeleting" msprop:Generator_TablePropName="dsStatusList">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="No" msprop:Generator_UserColumnName="No" msprop:Generator_ColumnPropNameInRow="No" msprop:Generator_ColumnVarNameInTable="columnNo" msprop:Generator_ColumnPropNameInTable="NoColumn" type="xs:int" />
+              <xs:element name="RegDate" msprop:Generator_UserColumnName="RegDate" msprop:Generator_ColumnPropNameInRow="RegDate" msprop:Generator_ColumnVarNameInTable="columnRegDate" msprop:Generator_ColumnPropNameInTable="RegDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="MemberName" msprop:Generator_UserColumnName="MemberName" msprop:Generator_ColumnPropNameInRow="MemberName" msprop:Generator_ColumnVarNameInTable="columnMemberName" msprop:Generator_ColumnPropNameInTable="MemberNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="StatusName" msprop:Generator_UserColumnName="StatusName" msprop:Generator_ColumnPropNameInRow="StatusName" msprop:Generator_ColumnVarNameInTable="columnStatusName" msprop:Generator_ColumnPropNameInTable="StatusNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Reasons" msprop:Generator_UserColumnName="Reasons" msprop:Generator_ColumnPropNameInRow="Reasons" msprop:Generator_ColumnVarNameInTable="columnReasons" msprop:Generator_ColumnPropNameInTable="ReasonsColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CellName" msprop:Generator_UserColumnName="CellName" msprop:Generator_ColumnPropNameInRow="CellName" msprop:Generator_ColumnVarNameInTable="columnCellName" msprop:Generator_ColumnPropNameInTable="CellNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="EntryDate" msprop:Generator_UserColumnName="EntryDate" msprop:Generator_ColumnPropNameInRow="EntryDate" msprop:Generator_ColumnVarNameInTable="columnEntryDate" msprop:Generator_ColumnPropNameInTable="EntryDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Home" msprop:Generator_UserColumnName="Home" msprop:Generator_ColumnPropNameInRow="Home" msprop:Generator_ColumnVarNameInTable="columnHome" msprop:Generator_ColumnPropNameInTable="HomeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Address" msprop:Generator_UserColumnName="Address" msprop:Generator_ColumnPropNameInRow="Address" msprop:Generator_ColumnVarNameInTable="columnAddress" msprop:Generator_ColumnPropNameInTable="AddressColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="City" msprop:Generator_UserColumnName="City" msprop:Generator_ColumnPropNameInRow="City" msprop:Generator_ColumnVarNameInTable="columnCity" msprop:Generator_ColumnPropNameInTable="CityColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="State" msprop:Generator_UserColumnName="State" msprop:Generator_ColumnPropNameInRow="State" msprop:Generator_ColumnVarNameInTable="columnState" msprop:Generator_ColumnPropNameInTable="StateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Zipcode" msprop:Generator_UserColumnName="Zipcode" msprop:Generator_ColumnPropNameInRow="Zipcode" msprop:Generator_ColumnVarNameInTable="columnZipcode" msprop:Generator_ColumnPropNameInTable="ZipcodeColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dsStatusList" />
+      <xs:field xpath="mstns:No" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

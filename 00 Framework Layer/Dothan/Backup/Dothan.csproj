@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A87513BD-E0C4-4FAE-851F-1B5BBEF5171E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dothan</RootNamespace>
+    <AssemblyName>Dothan</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Report\ClientRemoteAccess.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="BusinessBase.cs" />
+    <Compile Include="Report\BaseBusinessObject.cs" />
+    <Compile Include="Windows\BusinessListBase.cs" />
+    <Compile Include="CommandBase.cs" />
+    <Compile Include="DataPortal\ApplicationContext.cs" />
+    <Compile Include="Core\BindableBase.cs" />
+    <Compile Include="Core\BusinessBase.cs" />
+    <Compile Include="Core\IBusinessObj.cs" />
+    <Compile Include="Core\ICommandObj.cs" />
+    <Compile Include="Core\IEditableCollection.cs" />
+    <Compile Include="Core\IReadOnlyCollection.cs" />
+    <Compile Include="Core\IReadOnlyObj.cs" />
+    <Compile Include="Core\IUndoableObj.cs" />
+    <Compile Include="Core\ObjCloner.cs" />
+    <Compile Include="Core\ReadOnlyBindingList.cs" />
+    <Compile Include="Core\UndoableBase.cs" />
+    <Compile Include="DataPortal\Client\DataPortal.cs" />
+    <Compile Include="DataPortal\Client\EnterpriseServicesProxy.cs" />
+    <Compile Include="DataPortal\Client\IDataPortalProxy.cs" />
+    <Compile Include="DataPortal\Client\LocalProxy.cs" />
+    <Compile Include="DataPortal\Client\RemotingProxy.cs" />
+    <Compile Include="DataPortal\CriteriaBase.cs" />
+    <Compile Include="DataPortal\DataPortalEventArgs.cs" />
+    <Compile Include="DataPortal\DataPortalException.cs" />
+    <Compile Include="DataPortal\Hosts\EnterpriseServicesPortal.cs" />
+    <Compile Include="DataPortal\Hosts\RemotingPortal.cs" />
+    <Compile Include="DataPortal\Hosts\WebServicePotal.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataPortal\MethodCaller.cs" />
+    <Compile Include="DataPortal\RunLocalAttribute.cs" />
+    <Compile Include="DataPortal\Server\CallMethodException.cs" />
+    <Compile Include="DataPortal\Server\DataPortal.cs" />
+    <Compile Include="DataPortal\Server\DataPortalContext.cs" />
+    <Compile Include="DataPortal\Server\DataPortalException.cs" />
+    <Compile Include="DataPortal\Server\DataPortalResult.cs" />
+    <Compile Include="DataPortal\Server\IDataPortalServer.cs" />
+    <Compile Include="DataPortal\Server\ServicedDataPortal.cs" />
+    <Compile Include="DataPortal\Server\SimpleDataPortal.cs" />
+    <Compile Include="DataPortal\Server\TransactionalDataPortal.cs" />
+    <Compile Include="DataPortal\TransactionalAttribute.cs" />
+    <Compile Include="DataPortal\TransactionalTypes.cs" />
+    <Compile Include="Data\DataMapper.cs" />
+    <Compile Include="Data\ObjAdapter.cs" />
+    <Compile Include="Data\SafeDataReader.cs" />
+    <Compile Include="EnterpriseServicesSettings.cs" />
+    <Compile Include="GlobalSuppressions.cs" />
+    <Compile Include="NameValueListBase.cs" />
+    <Compile Include="NotUndoableAttribute.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ReadOnlyBase.cs" />
+    <Compile Include="ReadOnlyListBase.cs" />
+    <Compile Include="Security\AccessType.cs" />
+    <Compile Include="Security\AuthorizationRules.cs" />
+    <Compile Include="Security\BusinessPrincipalBase.cs" />
+    <Compile Include="Security\RolesForProperty.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="SmartDate.cs" />
+    <Compile Include="SortedBindingList.cs" />
+    <Compile Include="Utilities.cs" />
+    <Compile Include="Validation\BrokenRule.cs" />
+    <Compile Include="Validation\BrokenRulesCollection.cs" />
+    <Compile Include="Validation\CommonRules.cs" />
+    <Compile Include="Validation\RuleArgs.cs" />
+    <Compile Include="Validation\RuleHandler.cs" />
+    <Compile Include="Validation\RuleMethod.cs" />
+    <Compile Include="Validation\ValidationException.cs" />
+    <Compile Include="Validation\ValidationRules.cs" />
+    <Compile Include="Web\Design\DothanDataSourceDesigner.cs" />
+    <Compile Include="Web\Design\DothanDesignerDataSourceView.cs" />
+    <Compile Include="Web\Design\ObjectFieldInfo.cs" />
+    <Compile Include="Web\Design\ObjectSchema.cs" />
+    <Compile Include="Web\Design\ObjectViewSchema.cs" />
+    <Compile Include="Web\DothanDataSource.cs" />
+    <Compile Include="Web\DothanDataSourceView.cs" />
+    <Compile Include="Windows\BindingSourceRefresh.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Windows\ReadWriteAuthorization.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Diagrams\FullDothan.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+</Project>

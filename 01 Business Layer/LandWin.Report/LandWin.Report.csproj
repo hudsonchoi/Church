@@ -1,0 +1,661 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DC71C47B-139A-49C3-8091-D308F0A47BAC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LandWin.Report</RootNamespace>
+    <AssemblyName>LandWin.Report</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <None Include="CrystalReportTools\dsReportInfo.xsc">
+      <DependentUpon>dsReportInfo.xsd</DependentUpon>
+    </None>
+    <None Include="CrystalReportTools\dsReportInfo.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsReportInfo1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CrystalReportTools\dsReportInfo.xss">
+      <DependentUpon>dsReportInfo.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsAddressBook.xsc">
+      <DependentUpon>dsAddressBook.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsAddressBook.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsAddressBook.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\dsAddressBook.xss">
+      <DependentUpon>dsAddressBook.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsCellReport.xsc">
+      <DependentUpon>dsCellReport.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsCellReport.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsCellReport.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsCellReport.xss">
+      <DependentUpon>dsCellReport.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsDonateSumByTypes.xsc">
+      <DependentUpon>dsDonateSumByTypes.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsDonateSumByTypes.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsDonateSumByTypes.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsDonateSumByTypes.xss">
+      <DependentUpon>dsDonateSumByTypes.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsDonateWeekly.xsc">
+      <DependentUpon>dsDonateWeekly.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsDonateWeekly.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsDonateWeekly.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsDonateWeekly.xss">
+      <DependentUpon>dsDonateWeekly.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsFamilyList.xsc">
+      <DependentUpon>dsFamilyList.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsFamilyList.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsFamilyList.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsFamilyList.xss">
+      <DependentUpon>dsFamilyList.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsMemberByFamily.xsc">
+      <DependentUpon>dsMemberByFamily.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsMemberByFamily.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsMemberByFamily.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsMemberByFamily.xss">
+      <DependentUpon>dsMemberByFamily.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsMemberCard.xsc">
+      <DependentUpon>dsMemberCard.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsMemberCard.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsMemberCard.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsMemberCard.xss">
+      <DependentUpon>dsMemberCard.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsMemberDetails.xsc">
+      <DependentUpon>dsMemberDetails.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsMemberDetails.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsMemberDetails.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsMemberDetails.xss">
+      <DependentUpon>dsMemberDetails.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsMemberDonate.xsc">
+      <DependentUpon>dsMemberDonate.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsMemberDonate.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsMemberDonate.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsMemberDonate.xss">
+      <DependentUpon>dsMemberDonate.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsMemberDonateSum.xsc">
+      <DependentUpon>dsMemberDonateSum.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsMemberDonateSum.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsMemberDonateSum.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsMemberDonateSum.xss">
+      <DependentUpon>dsMemberDonateSum.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsMemberVisit.xsc">
+      <DependentUpon>dsMemberVisit.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsMemberVisit.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsMemberVisit.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsMemberVisit.xss">
+      <DependentUpon>dsMemberVisit.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsMemberWithPic.xsc">
+      <DependentUpon>dsMemberWithPic.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsMemberWithPic.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsMemberWithPic.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsMemberWithPic.xss">
+      <DependentUpon>dsMemberWithPic.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsStatusFamily.xsc">
+      <DependentUpon>dsStatusFamily.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsStatusFamily.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsStatusFamily.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsStatusFamily.xss">
+      <DependentUpon>dsStatusFamily.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsStatusReport.xsc">
+      <DependentUpon>dsStatusReport.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsStatusReport.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsStatusReport.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsStatusReport.xss">
+      <DependentUpon>dsStatusReport.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsAddressLabel.xsc">
+      <DependentUpon>dsAddressLabel.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsAddressLabel.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsAddressLabel.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsAddressLabel.xss">
+      <DependentUpon>dsAddressLabel.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsCellMemberByFamily.xsc">
+      <DependentUpon>dsCellMemberByFamily.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsCellMemberByFamily.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsCellMemberByFamily.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsCellMemberByFamily.xss">
+      <DependentUpon>dsCellMemberByFamily.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsDonateSheet.xsc">
+      <DependentUpon>dsDonateSheet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsDonateSheet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsDonateSheet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsDonateSheet.xss">
+      <DependentUpon>dsDonateSheet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsVisitReport.xsc">
+      <DependentUpon>dsVisitReport.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\dsVisitReport.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsVisitReport.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\dsVisitReport.xss">
+      <DependentUpon>dsVisitReport.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Business\bzAddressLabel.cs" />
+    <Compile Include="Business\bzCellMemberByFamily.cs" />
+    <Compile Include="Business\bzCellReport.cs" />
+    <Compile Include="Business\bzDonateSheet.cs" />
+    <Compile Include="Business\bzDonateSumByTypes.cs" />
+    <Compile Include="Business\bzDonateWeekly.cs" />
+    <Compile Include="Business\bzAddressBook.cs" />
+    <Compile Include="Business\bzFamilyList.cs" />
+    <Compile Include="Business\bzMemaberDonate.cs" />
+    <Compile Include="Business\bzMemberByFamily.cs" />
+    <Compile Include="Business\bzMemberCard.cs" />
+    <Compile Include="Business\bzMemberDetails.cs" />
+    <Compile Include="Business\bzMemberVisit.cs" />
+    <Compile Include="Business\bzMemberWithPic.cs" />
+    <Compile Include="Business\bzStatusFamily.cs" />
+    <Compile Include="Business\bzStatusList.cs" />
+    <Compile Include="Business\bzVisitReport.cs" />
+    <Compile Include="CrystalReportTools\CrystalManger.cs" />
+    <Compile Include="CrystalReportTools\CrystalViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrystalReportTools\CrystalViewer.Designer.cs">
+      <DependentUpon>CrystalViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReportTools\dsReportInfo.cs">
+      <DependentUpon>dsReportInfo.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportTools\dsReportInfo.designer.cs">
+      <DependentUpon>dsReportInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReportTools\dsReportInfo1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsReportInfo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReportTools\ReportInfo.cs" />
+    <Compile Include="CrystalReport\Rpt_AddressLabel.cs">
+      <DependentUpon>Rpt_AddressLabel.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_CellFamilyList.cs">
+      <DependentUpon>Rpt_CellFamilyList.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_CellMemberInfoByFamily.cs">
+      <DependentUpon>Rpt_CellMemberInfoByFamily.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_Cellreport.cs">
+      <DependentUpon>Rpt_Cellreport.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_DonateRecipt.cs">
+      <DependentUpon>Rpt_DonateRecipt.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_DonateSheet.cs">
+      <DependentUpon>Rpt_DonateSheet.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_DonateWeekly.cs">
+      <DependentUpon>Rpt_DonateWeekly.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_DonateWeeklyDetail.cs">
+      <DependentUpon>Rpt_DonateWeeklyDetail.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_FamilyAddressBook.cs">
+      <DependentUpon>Rpt_FamilyAddressBook.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_FamilyList.cs">
+      <DependentUpon>Rpt_FamilyList.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_MemberByFamily.cs">
+      <DependentUpon>Rpt_MemberByFamily.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_MemberCards.cs">
+      <DependentUpon>Rpt_MemberCards.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_MemberDetail.cs">
+      <DependentUpon>Rpt_MemberDetail.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_MemberWithPic.cs">
+      <DependentUpon>Rpt_MemberWithPic.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_StatusByFamily.cs">
+      <DependentUpon>Rpt_StatusByFamily.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_StatusList.cs">
+      <DependentUpon>Rpt_StatusList.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_VisitMember.cs">
+      <DependentUpon>Rpt_VisitMember.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReport\Rpt_VisitReport.cs">
+      <DependentUpon>Rpt_VisitReport.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataAccess\daCellReport.cs" />
+    <Compile Include="DataAccess\daDonateReport.cs" />
+    <Compile Include="DataAccess\daMemberReport.cs" />
+    <Compile Include="DataAccess\daVisitReport.cs" />
+    <Compile Include="DataAccess\ReportInterfaces.cs" />
+    <Compile Include="DataSet\dsAddressBook.cs">
+      <DependentUpon>dsAddressBook.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet\dsAddressBook.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsAddressBook.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\dsCellReport.cs">
+      <DependentUpon>dsCellReport.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet\dsCellReport.Designer.cs">
+      <DependentUpon>dsCellReport.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\dsDonateSumByTypes.Designer.cs">
+      <DependentUpon>dsDonateSumByTypes.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\dsDonateWeekly.cs">
+      <DependentUpon>dsDonateWeekly.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet\dsDonateWeekly.Designer.cs">
+      <DependentUpon>dsDonateWeekly.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\dsFamilyList.cs">
+      <DependentUpon>dsFamilyList.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet\dsFamilyList.Designer.cs">
+      <DependentUpon>dsFamilyList.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\dsMemberByFamily.Designer.cs">
+      <DependentUpon>dsMemberByFamily.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\dsMemberCard.cs">
+      <DependentUpon>dsMemberCard.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet\dsMemberCard.Designer.cs">
+      <DependentUpon>dsMemberCard.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\dsMemberDetails.Designer.cs">
+      <DependentUpon>dsMemberDetails.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\dsMemberDonate.Designer.cs">
+      <DependentUpon>dsMemberDonate.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\dsMemberDonateSum.Designer.cs">
+      <DependentUpon>dsMemberDonateSum.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\dsMemberVisit.cs">
+      <DependentUpon>dsMemberVisit.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet\dsMemberVisit.Designer.cs">
+      <DependentUpon>dsMemberVisit.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\dsMemberWithPic.cs">
+      <DependentUpon>dsMemberWithPic.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet\dsMemberWithPic.Designer.cs">
+      <DependentUpon>dsMemberWithPic.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\dsStatusFamily.cs">
+      <DependentUpon>dsStatusFamily.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet\dsStatusFamily.Designer.cs">
+      <DependentUpon>dsStatusFamily.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\dsStatusReport.cs">
+      <DependentUpon>dsStatusReport.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet\dsStatusReport.Designer.cs">
+      <DependentUpon>dsStatusReport.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\dsAddressLabel.cs">
+      <DependentUpon>dsAddressLabel.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet\dsAddressLabel.Designer.cs">
+      <DependentUpon>dsAddressLabel.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\dsCellMemberByFamily.cs">
+      <DependentUpon>dsCellMemberByFamily.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet\dsCellMemberByFamily.Designer.cs">
+      <DependentUpon>dsCellMemberByFamily.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\dsDonateSheet.cs">
+      <DependentUpon>dsDonateSheet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet\dsDonateSheet.Designer.cs">
+      <DependentUpon>dsDonateSheet.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\dsVisitReport.cs">
+      <DependentUpon>dsVisitReport.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet\dsVisitReport.Designer.cs">
+      <DependentUpon>dsVisitReport.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\00 Framework Layer\Dothan\Dothan.csproj">
+      <Project>{A87513BD-E0C4-4FAE-851F-1B5BBEF5171E}</Project>
+      <Name>Dothan</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dothan.Library\Dothan.Library.csproj">
+      <Project>{F722F019-4688-4B28-BAE9-BE1E1066D003}</Project>
+      <Name>Dothan.Library</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CrystalReportTools\CrystalViewer.resx">
+      <DependentUpon>CrystalViewer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_AddressLabel.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_AddressLabel.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_CellFamilyList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_CellFamilyList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_CellMemberInfoByFamily.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_CellMemberInfoByFamily.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_Cellreport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_Cellreport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_DonateRecipt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_DonateRecipt.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_DonateSheet.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_DonateSheet.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_DonateWeekly.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_DonateWeekly.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_DonateWeeklyDetail.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_DonateWeeklyDetail.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_FamilyAddressBook.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_FamilyAddressBook.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_FamilyList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_FamilyList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_MemberByFamily.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_MemberByFamily.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_MemberCards.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_MemberCards.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_MemberDetail.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_MemberDetail.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_MemberWithPic.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_MemberWithPic.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_StatusByFamily.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_StatusByFamily.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_StatusList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_StatusList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_VisitMember.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_VisitMember.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport\Rpt_VisitReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_VisitReport.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+</Project>

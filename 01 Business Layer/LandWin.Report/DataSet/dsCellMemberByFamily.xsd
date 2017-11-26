@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsCellMemberByFamily" targetNamespace="http://tempuri.org/dsCellMemberByFamily.xsd" xmlns:mstns="http://tempuri.org/dsCellMemberByFamily.xsd" xmlns="http://tempuri.org/dsCellMemberByFamily.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsCellMemberByFamily" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsCellMemberByFamily" msprop:Generator_DataSetName="dsCellMemberByFamily" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dacellinfo" msprop:Generator_UserTableName="dacellinfo" msprop:Generator_RowDeletedName="dacellinfoRowDeleted" msprop:Generator_RowChangedName="dacellinfoRowChanged" msprop:Generator_RowClassName="dacellinfoRow" msprop:Generator_RowChangingName="dacellinfoRowChanging" msprop:Generator_RowEvArgName="dacellinfoRowChangeEvent" msprop:Generator_RowEvHandlerName="dacellinfoRowChangeEventHandler" msprop:Generator_TableClassName="dacellinfoDataTable" msprop:Generator_TableVarName="tabledacellinfo" msprop:Generator_RowDeletingName="dacellinfoRowDeleting" msprop:Generator_TablePropName="dacellinfo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_UserColumnName="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" type="xs:int" />
+              <xs:element name="CellName" msprop:Generator_UserColumnName="CellName" msprop:Generator_ColumnVarNameInTable="columnCellName" msprop:Generator_ColumnPropNameInRow="CellName" msprop:Generator_ColumnPropNameInTable="CellNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CellLevel1" msprop:Generator_UserColumnName="CellLevel1" msprop:Generator_ColumnVarNameInTable="columnCellLevel1" msprop:Generator_ColumnPropNameInRow="CellLevel1" msprop:Generator_ColumnPropNameInTable="CellLevel1Column" type="xs:string" minOccurs="0" />
+              <xs:element name="CellLevel2" msprop:Generator_UserColumnName="CellLevel2" msprop:Generator_ColumnVarNameInTable="columnCellLevel2" msprop:Generator_ColumnPropNameInRow="CellLevel2" msprop:Generator_ColumnPropNameInTable="CellLevel2Column" type="xs:string" minOccurs="0" />
+              <xs:element name="Level1Name" msprop:Generator_UserColumnName="Level1Name" msprop:Generator_ColumnVarNameInTable="columnLevel1Name" msprop:Generator_ColumnPropNameInRow="Level1Name" msprop:Generator_ColumnPropNameInTable="Level1NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Level2Name" msprop:Generator_UserColumnName="Level2Name" msprop:Generator_ColumnVarNameInTable="columnLevel2Name" msprop:Generator_ColumnPropNameInRow="Level2Name" msprop:Generator_ColumnPropNameInTable="Level2NameColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dacellfamily" msprop:Generator_UserTableName="dacellfamily" msprop:Generator_RowDeletedName="dacellfamilyRowDeleted" msprop:Generator_RowChangedName="dacellfamilyRowChanged" msprop:Generator_RowClassName="dacellfamilyRow" msprop:Generator_RowChangingName="dacellfamilyRowChanging" msprop:Generator_RowEvArgName="dacellfamilyRowChangeEvent" msprop:Generator_RowEvHandlerName="dacellfamilyRowChangeEventHandler" msprop:Generator_TableClassName="dacellfamilyDataTable" msprop:Generator_TableVarName="tabledacellfamily" msprop:Generator_RowDeletingName="dacellfamilyRowDeleting" msprop:Generator_TablePropName="dacellfamily">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CellCode" msprop:Generator_UserColumnName="CellCode" msprop:Generator_ColumnVarNameInTable="columnCellCode" msprop:Generator_ColumnPropNameInRow="CellCode" msprop:Generator_ColumnPropNameInTable="CellCodeColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="CellName" msprop:Generator_UserColumnName="CellName" msprop:Generator_ColumnVarNameInTable="columnCellName" msprop:Generator_ColumnPropNameInRow="CellName" msprop:Generator_ColumnPropNameInTable="CellNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FamilyCode" msprop:Generator_UserColumnName="FamilyCode" msprop:Generator_ColumnVarNameInTable="columnFamilyCode" msprop:Generator_ColumnPropNameInRow="FamilyCode" msprop:Generator_ColumnPropNameInTable="FamilyCodeColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Address" msprop:Generator_UserColumnName="Address" msprop:Generator_ColumnVarNameInTable="columnAddress" msprop:Generator_ColumnPropNameInRow="Address" msprop:Generator_ColumnPropNameInTable="AddressColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Home" msprop:Generator_UserColumnName="Home" msprop:Generator_ColumnVarNameInTable="columnHome" msprop:Generator_ColumnPropNameInRow="Home" msprop:Generator_ColumnPropNameInTable="HomeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Regdate" msprop:Generator_UserColumnName="Regdate" msprop:Generator_ColumnVarNameInTable="columnRegdate" msprop:Generator_ColumnPropNameInRow="Regdate" msprop:Generator_ColumnPropNameInTable="RegdateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Startdate" msprop:Generator_UserColumnName="Startdate" msprop:Generator_ColumnVarNameInTable="columnStartdate" msprop:Generator_ColumnPropNameInRow="Startdate" msprop:Generator_ColumnPropNameInTable="StartdateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="MemberName" msprop:Generator_UserColumnName="MemberName" msprop:Generator_ColumnVarNameInTable="columnMemberName" msprop:Generator_ColumnPropNameInRow="MemberName" msprop:Generator_ColumnPropNameInTable="MemberNameColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="daMemberInfo" msprop:Generator_UserTableName="daMemberInfo" msprop:Generator_RowDeletedName="daMemberInfoRowDeleted" msprop:Generator_RowChangedName="daMemberInfoRowChanged" msprop:Generator_RowClassName="daMemberInfoRow" msprop:Generator_RowChangingName="daMemberInfoRowChanging" msprop:Generator_RowEvArgName="daMemberInfoRowChangeEvent" msprop:Generator_RowEvHandlerName="daMemberInfoRowChangeEventHandler" msprop:Generator_TableClassName="daMemberInfoDataTable" msprop:Generator_TableVarName="tabledaMemberInfo" msprop:Generator_RowDeletingName="daMemberInfoRowDeleting" msprop:Generator_TablePropName="daMemberInfo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MemberID" msprop:Generator_UserColumnName="MemberID" msprop:Generator_ColumnVarNameInTable="columnMemberID" msprop:Generator_ColumnPropNameInRow="MemberID" msprop:Generator_ColumnPropNameInTable="MemberIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="FamilyCode" msprop:Generator_UserColumnName="FamilyCode" msprop:Generator_ColumnVarNameInTable="columnFamilyCode" msprop:Generator_ColumnPropNameInRow="FamilyCode" msprop:Generator_ColumnPropNameInTable="FamilyCodeColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Relationship" msprop:Generator_UserColumnName="Relationship" msprop:Generator_ColumnVarNameInTable="columnRelationship" msprop:Generator_ColumnPropNameInRow="Relationship" msprop:Generator_ColumnPropNameInTable="RelationshipColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Sex" msprop:Generator_UserColumnName="Sex" msprop:Generator_ColumnVarNameInTable="columnSex" msprop:Generator_ColumnPropNameInRow="Sex" msprop:Generator_ColumnPropNameInTable="SexColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Birthday" msprop:Generator_UserColumnName="Birthday" msprop:Generator_ColumnVarNameInTable="columnBirthday" msprop:Generator_ColumnPropNameInRow="Birthday" msprop:Generator_ColumnPropNameInTable="BirthdayColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Fellowship" msprop:Generator_UserColumnName="Fellowship" msprop:Generator_ColumnPropNameInRow="Fellowship" msprop:Generator_ColumnVarNameInTable="columnFellowship" msprop:Generator_ColumnPropNameInTable="FellowshipColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Baptism" msprop:Generator_UserColumnName="Baptism" msprop:Generator_ColumnVarNameInTable="columnBaptism" msprop:Generator_ColumnPropNameInRow="Baptism" msprop:Generator_ColumnPropNameInTable="BaptismColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CellPhone" msprop:Generator_UserColumnName="CellPhone" msprop:Generator_ColumnVarNameInTable="columnCellPhone" msprop:Generator_ColumnPropNameInRow="CellPhone" msprop:Generator_ColumnPropNameInTable="CellPhoneColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Job" msprop:Generator_UserColumnName="Job" msprop:Generator_ColumnVarNameInTable="columnJob" msprop:Generator_ColumnPropNameInRow="Job" msprop:Generator_ColumnPropNameInTable="JobColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Subdivision" msprop:Generator_UserColumnName="Subdivision" msprop:Generator_ColumnVarNameInTable="columnSubdivision" msprop:Generator_ColumnPropNameInRow="Subdivision" msprop:Generator_ColumnPropNameInTable="SubdivisionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MemberName" msprop:Generator_UserColumnName="MemberName" msprop:Generator_ColumnVarNameInTable="columnMemberName" msprop:Generator_ColumnPropNameInRow="MemberName" msprop:Generator_ColumnPropNameInTable="MemberNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Email" msprop:Generator_UserColumnName="Email" msprop:Generator_ColumnVarNameInTable="columnEmail" msprop:Generator_ColumnPropNameInRow="Email" msprop:Generator_ColumnPropNameInTable="EmailColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Picture" msprop:Generator_UserColumnName="Picture" msprop:Generator_ColumnVarNameInTable="columnPicture" msprop:Generator_ColumnPropNameInRow="Picture" msprop:Generator_ColumnPropNameInTable="PictureColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Status" msprop:Generator_UserColumnName="Status" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_ColumnPropNameInTable="StatusColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dacellinfo" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+    <xs:unique name="dacellfamilyKey2">
+      <xs:selector xpath=".//mstns:dacellfamily" />
+      <xs:field xpath="mstns:FamilyCode" />
+    </xs:unique>
+    <xs:unique name="DataTable1Key1">
+      <xs:selector xpath=".//mstns:daMemberInfo" />
+      <xs:field xpath="mstns:MemberID" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="dacellinfo_dacellfamily" msdata:parent="dacellinfo" msdata:child="dacellfamily" msdata:parentkey="ID" msdata:childkey="CellCode" msprop:Generator_UserRelationName="dacellinfo_dacellfamily" msprop:Generator_RelationVarName="relationdacellinfo_dacellfamily" msprop:Generator_UserChildTable="dacellfamily" msprop:Generator_UserParentTable="dacellinfo" msprop:Generator_ParentPropName="dacellinfoRow" msprop:Generator_ChildPropName="GetdacellfamilyRows" />
+      <msdata:Relationship name="dacellfamily_daMemberInfo" msdata:parent="dacellfamily" msdata:child="daMemberInfo" msdata:parentkey="FamilyCode" msdata:childkey="FamilyCode" msprop:Generator_UserRelationName="dacellfamily_daMemberInfo" msprop:Generator_RelationVarName="relationdacellfamily_daMemberInfo" msprop:Generator_UserChildTable="daMemberInfo" msprop:Generator_UserParentTable="dacellfamily" msprop:Generator_ParentPropName="dacellfamilyRow" msprop:Generator_ChildPropName="GetdaMemberInfoRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

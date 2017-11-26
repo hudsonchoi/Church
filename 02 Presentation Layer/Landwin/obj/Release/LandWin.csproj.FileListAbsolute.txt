@@ -1,0 +1,676 @@
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\LandWin.exe.config
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\LandWin.exe.manifest
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\LandWin.application
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\LandWin.exe
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\LandWin.pdb
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Dothan.dll
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Dothan.Library.dll
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Dothan.pdb
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_cellmember.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_baptism.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_cell.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_cellroles.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_Comment.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_division.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_donatetype.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_entrytype.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_family.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_fellowship.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_editdonator.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_jobtypes.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_ministry.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_rolesset.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_RptCells.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_searchdoner.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_selectdivision.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_serachmember.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_SetSubDivision.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_statuslabel.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_statuslog.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_subdivision.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_visittype.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_zipcode.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.FrmCash.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.FrmDivList.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.FrmDonateBookes.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.FrmExportExcel.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.FrmMemberVisitDetail.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.FrmMemberVisitList.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.FrmRoleList.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.FrmStatusChange.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.FrmUserEdit.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.FrmUsers.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.FrmViewStatusLog.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.frm_cell.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.frm_cellreport.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.frm_fellowship.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.frm_Main.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.frm_member.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.frm_MembersInfo.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.frm_ministry.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.frm_newdonates.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.LoginForm.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.member_new.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.Properties.Resources.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.WinPart.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.csproj.GenerateResource.Cache
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.exe.licenses
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.exe.manifest
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.application
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.exe
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.pdb
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\LandWin.Business.dll
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\LandWin.DataAccess.dll
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\LandWin.Shared.CrystalReports.dll
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\LandWin.Shared.DataSet.dll
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\LandWin.Shared.Interface.dll
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\LandWin.Business.pdb
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\LandWin.Shared.CrystalReports.pdb
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\LandWin.Shared.DataSet.pdb
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\LandWin.DataAccess.pdb
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\LandWin.Shared.Interface.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\LandWin.exe.config
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.exe
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.pdb
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.Frm_VistReport.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.Frm_ImageDownLoader.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\LandWin.exe.config
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.exe
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\LandWin.exe.manifest
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\LandWin.application
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\LandWin.exe
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\LandWin.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\Dothan.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\Dothan.Library.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\LandWin.Business.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\LandWin.DataAccess.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.CrystalReports.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.DataSet.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.Interface.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\LandWin.Business.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.CrystalReports.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.DataSet.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\LandWin.DataAccess.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\Dothan.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.Interface.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_baptism.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_cell.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_cellroles.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_Comment.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_division.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_donatetype.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_entrytype.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_family.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_fellowship.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_editdonator.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_jobtypes.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_ministry.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_rolesset.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_RptCells.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_searchdoner.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_selectdivision.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_SetSubDivision.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_statuslabel.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_statuslog.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_subdivision.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_visittype.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_zipcode.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.FrmCash.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.FrmDivList.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.FrmDonateBookes.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.FrmExportExcel.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.FrmMemberVisitDetail.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.FrmMemberVisitList.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.FrmRoleList.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.FrmStatusChange.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.FrmUserEdit.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.FrmUsers.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_cell.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_cellreport.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_fellowship.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_Main.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_member.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_MembersInfo.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_ministry.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_newdonates.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_VistReport.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.LoginForm.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.member_new.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.Properties.Resources.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.WinPart.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.csproj.GenerateResource.Cache
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.exe.licenses
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.exe.manifest
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.application
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_ministryroles.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.Frm_ministryroles.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_cellmember.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_baptism.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_cell.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_cellroles.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_Comment.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_division.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_donatetype.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_entrytype.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_family.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_fellowship.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_editdonator.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_importexcel.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_jobtypes.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_ministry.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_rolesset.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_RptCells.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_searchdoner.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_selectdivision.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_serachmember.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_SetSubDivision.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_statuslabel.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_statuslog.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_subdivision.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_visittype.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.dlg_zipcode.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.FrmCash.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.FrmDivList.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.FrmDonateBookes.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.FrmExportExcel.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.FrmMemberVisitDetail.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.FrmMemberVisitList.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.FrmRoleList.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.FrmStatusChange.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.FrmUserEdit.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.FrmUsers.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.FrmViewStatusLog.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.frm_cell.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.frm_cellreport.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.frm_fellowship.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.Frm_ImageDownLoader.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.frm_Main.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.frm_member.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.frm_MembersInfo.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.frm_ministry.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.Frm_ministryroles.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.frm_newdonates.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.Frm_VistReport.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.LoginForm.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.member_new.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.Properties.Resources.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.WinPart.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.csproj.GenerateResource.Cache
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.exe.licenses
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\LandWin.exe.manifest
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\LandWin.application
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\LandWin.exe
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\LandWin.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\Dothan.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\Dothan.Library.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\LandWin.Business.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\LandWin.DataAccess.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\LandWin.Shared.CrystalReports.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\LandWin.Shared.DataSet.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\LandWin.Shared.Interface.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\LandWin.Business.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\LandWin.Shared.CrystalReports.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\LandWin.Shared.DataSet.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\LandWin.DataAccess.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\Dothan.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Release\LandWin.Shared.Interface.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.exe.manifest
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.application
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.Frm_MembreDonate.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.TrustInfo.xml
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.Frm_SettingGridColumn.resources
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.frm_statusreport.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.Frm_MembreDonate.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.Frm_SettingGridColumn.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.frm_statusreport.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Release\LandWin.TrustInfo.xml
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\LandWin.exe.config
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.exe
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.pdb
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_baptism.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_cell.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_cellroles.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_Comment.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_division.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_donatetype.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_entrytype.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_family.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_fellowship.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_editdonator.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_jobtypes.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_ministry.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_rolesset.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_RptCells.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_searchdoner.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_selectdivision.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_SetSubDivision.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_statuslabel.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_statuslog.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_subdivision.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_visittype.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_zipcode.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.FrmUserEdit.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.FrmUsers.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_cell.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_cellreport.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_fellowship.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_Main.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_member.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_MembersInfo.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_ministry.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_newdonates.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_SettingGridColumn.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_statusreport.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_VistReport.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.LoginForm.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Properties.Resources.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.WinPart.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.csproj.GenerateResource.Cache
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.exe.licenses
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\LandWin.exe.manifest
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\LandWin.application
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\LandWin.exe
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\LandWin.pdb
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\Dothan.dll
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\Dothan.Library.dll
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\LandWin.Business.dll
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\LandWin.DataAccess.dll
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.CrystalReports.dll
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.DataSet.dll
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.Interface.dll
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.DataSet.pdb
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.CrystalReports.pdb
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\LandWin.Business.pdb
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\LandWin.DataAccess.pdb
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\Dothan.pdb
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.Interface.pdb
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.TrustInfo.xml
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.exe.manifest
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.application
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Office.dll
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\office.xml
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\obj\Release\LandWin.dlg_searchSameName.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\office.dll
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\office.xml
+C:\Users\JNS\Desktop\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_searchSameName.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\LandWin.exe.config
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.exe
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.pdb
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\LandWin.exe.manifest
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\LandWin.application
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\LandWin.exe
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\LandWin.pdb
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\Dothan.dll
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\Dothan.Library.dll
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\LandWin.Business.dll
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\LandWin.DataAccess.dll
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\LandWin.Shared.CrystalReports.dll
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\LandWin.Shared.DataSet.dll
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\LandWin.Shared.Interface.dll
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.dll
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\office.dll
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\Microsoft.Vbe.Interop.dll
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\office.xml
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\LandWin.Shared.DataSet.pdb
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\LandWin.Shared.CrystalReports.pdb
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\LandWin.Business.pdb
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\LandWin.DataAccess.pdb
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.xml
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\Dothan.pdb
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\bin\Release\LandWin.Shared.Interface.pdb
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_baptism.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_cell.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_cellroles.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_Comment.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_division.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_donatetype.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_entrytype.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_family.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_fellowship.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_editdonator.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_jobtypes.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_ministry.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_rolesset.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_RptCells.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_searchdoner.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_searchSameName.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_selectdivision.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_SetSubDivision.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_statuslabel.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_statuslog.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_subdivision.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_visittype.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_zipcode.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.FrmCash.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.FrmDivList.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.FrmDonateBookes.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.FrmExportExcel.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.FrmMemberVisitDetail.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.FrmMemberVisitList.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.FrmRoleList.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.FrmStatusChange.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.FrmUserEdit.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.FrmUsers.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.frm_cell.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.frm_cellreport.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.frm_fellowship.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.frm_Main.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.frm_member.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.frm_MembersInfo.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.Frm_MembreDonate.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.frm_ministry.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.Frm_ministryroles.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.frm_newdonates.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.Frm_SettingGridColumn.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.frm_statusreport.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.Frm_VistReport.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.LoginForm.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.member_new.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.Properties.Resources.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.WinPart.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.csproj.GenerateResource.Cache
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.exe.licenses
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.TrustInfo.xml
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.exe.manifest
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.application
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\LandWin.exe.config
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.exe
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_baptism.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_cell.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_cellroles.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_division.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_donatetype.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_entrytype.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_family.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_fellowship.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_editdonator.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_jobtypes.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_ministry.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_rolesset.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_RptCells.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_searchdoner.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_searchSameName.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_SetSubDivision.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_statuslabel.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_statuslog.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_subdivision.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_visittype.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_zipcode.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.FrmUserEdit.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.FrmUsers.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_cell.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_cellreport.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_fellowship.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_Main.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_member.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_MembersInfo.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_ministry.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_newdonates.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_SettingGridColumn.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_statusreport.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_VistReport.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.LoginForm.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Properties.Resources.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.WinPart.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.csproj.GenerateResource.Cache
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\LandWin.exe.manifest
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\LandWin.application
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\LandWin.exe
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\LandWin.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Library.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\LandWin.Business.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\LandWin.DataAccess.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.CrystalReports.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.DataSet.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.Interface.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\office.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\office.xml
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.DataSet.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.CrystalReports.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\LandWin.Business.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\LandWin.DataAccess.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\LandWin.Shared.Interface.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.TrustInfo.xml
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.exe.manifest
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.application
+H:\Dothan\Harvest\bin\Release\LandWin.exe.config
+H:\Dothan\Harvest\obj\Release\LandWin.exe
+H:\Dothan\Harvest\obj\Release\LandWin.pdb
+H:\Dothan\Harvest\bin\Release\LandWin.exe.manifest
+H:\Dothan\Harvest\bin\Release\LandWin.application
+H:\Dothan\Harvest\bin\Release\LandWin.exe
+H:\Dothan\Harvest\bin\Release\LandWin.pdb
+H:\Dothan\Harvest\bin\Release\Dothan.dll
+H:\Dothan\Harvest\bin\Release\Dothan.Library.dll
+H:\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+H:\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+H:\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+H:\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+H:\Dothan\Harvest\bin\Release\LandWin.Business.dll
+H:\Dothan\Harvest\bin\Release\LandWin.DataAccess.dll
+H:\Dothan\Harvest\bin\Release\LandWin.Shared.CrystalReports.dll
+H:\Dothan\Harvest\bin\Release\LandWin.Shared.DataSet.dll
+H:\Dothan\Harvest\bin\Release\LandWin.Shared.Interface.dll
+H:\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.dll
+H:\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+H:\Dothan\Harvest\bin\Release\LandWin.Shared.DataSet.pdb
+H:\Dothan\Harvest\bin\Release\LandWin.Shared.CrystalReports.pdb
+H:\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+H:\Dothan\Harvest\bin\Release\LandWin.Business.pdb
+H:\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+H:\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+H:\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+H:\Dothan\Harvest\bin\Release\LandWin.DataAccess.pdb
+H:\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.xml
+H:\Dothan\Harvest\bin\Release\Dothan.pdb
+H:\Dothan\Harvest\bin\Release\LandWin.Shared.Interface.pdb
+H:\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_cellmember.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_baptism.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_cell.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_cellroles.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_Comment.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_division.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_donatetype.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_entrytype.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_family.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_fellowship.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_editdonator.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_jobtypes.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_ministry.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_rolesset.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_RptCells.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_searchdoner.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_searchSameName.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_selectdivision.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_serachmember.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_SetSubDivision.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_statuslabel.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_statuslog.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_subdivision.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_visittype.resources
+H:\Dothan\Harvest\obj\Release\LandWin.dlg_zipcode.resources
+H:\Dothan\Harvest\obj\Release\LandWin.FrmCash.resources
+H:\Dothan\Harvest\obj\Release\LandWin.FrmDivList.resources
+H:\Dothan\Harvest\obj\Release\LandWin.FrmDonateBookes.resources
+H:\Dothan\Harvest\obj\Release\LandWin.FrmExportExcel.resources
+H:\Dothan\Harvest\obj\Release\LandWin.FrmMemberVisitDetail.resources
+H:\Dothan\Harvest\obj\Release\LandWin.FrmMemberVisitList.resources
+H:\Dothan\Harvest\obj\Release\LandWin.FrmRoleList.resources
+H:\Dothan\Harvest\obj\Release\LandWin.FrmStatusChange.resources
+H:\Dothan\Harvest\obj\Release\LandWin.FrmUserEdit.resources
+H:\Dothan\Harvest\obj\Release\LandWin.FrmUsers.resources
+H:\Dothan\Harvest\obj\Release\LandWin.FrmViewStatusLog.resources
+H:\Dothan\Harvest\obj\Release\LandWin.frm_cell.resources
+H:\Dothan\Harvest\obj\Release\LandWin.frm_cellreport.resources
+H:\Dothan\Harvest\obj\Release\LandWin.frm_fellowship.resources
+H:\Dothan\Harvest\obj\Release\LandWin.Frm_ImageDownLoader.resources
+H:\Dothan\Harvest\obj\Release\LandWin.frm_Main.resources
+H:\Dothan\Harvest\obj\Release\LandWin.frm_member.resources
+H:\Dothan\Harvest\obj\Release\LandWin.frm_MembersInfo.resources
+H:\Dothan\Harvest\obj\Release\LandWin.Frm_MembreDonate.resources
+H:\Dothan\Harvest\obj\Release\LandWin.frm_ministry.resources
+H:\Dothan\Harvest\obj\Release\LandWin.Frm_ministryroles.resources
+H:\Dothan\Harvest\obj\Release\LandWin.frm_newdonates.resources
+H:\Dothan\Harvest\obj\Release\LandWin.Frm_SettingGridColumn.resources
+H:\Dothan\Harvest\obj\Release\LandWin.frm_statusreport.resources
+H:\Dothan\Harvest\obj\Release\LandWin.Frm_VistReport.resources
+H:\Dothan\Harvest\obj\Release\LandWin.LoginForm.resources
+H:\Dothan\Harvest\obj\Release\LandWin.member_new.resources
+H:\Dothan\Harvest\obj\Release\LandWin.Properties.Resources.resources
+H:\Dothan\Harvest\obj\Release\LandWin.WinPart.resources
+H:\Dothan\Harvest\obj\Release\LandWin.csproj.GenerateResource.Cache
+H:\Dothan\Harvest\obj\Release\LandWin.exe.licenses
+H:\Dothan\Harvest\obj\Release\LandWin.TrustInfo.xml
+H:\Dothan\Harvest\obj\Release\LandWin.exe.manifest
+H:\Dothan\Harvest\obj\Release\LandWin.application
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_searchSameName.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_MembreDonate.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_SettingGridColumn.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.frm_statusreport.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.TrustInfo.xml
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_fellowmemberlist.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_cellemberlistcs.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_ministrymemberlist.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_fellowmemberlist.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_cellemberlistcs.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_ministrymemberlist.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_familylist.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_familylist.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_familylist.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_fellowmemberlist.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_cellemberlistcs.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_ministrymemberlist.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_AddressChange.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_searchmember.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_familylist.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_fellowmemberlist.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_cellemberlistcs.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.dlg_ministrymemberlist.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.Frm_AddressChange.resources
+\\JOSHUAKIM-PC\Users\Public\Dothan\Harvest\obj\Release\LandWin.Frm_searchmember.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_searchmember.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_SpliteFamily.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_searchmember.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_SpliteFamily.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Dlg_Cash.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Dlg_DivList.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_DonateBookes.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_ExportExcel.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_MemberVisitDetail.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_MemberVisitList.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_RoleList.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_StatusChange.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Dlg_ChangeFamilyID.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_DonateDetails.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Dlg_Ministryroles.resources
+C:\Users\JNS\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_NewMember.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\TelerikData.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.BasicForm.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_churchinfo.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_Comment.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Dlg_Cash.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Dlg_DivList.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_Calendar.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_ChangeFamilyOwner.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_ColumnSetting.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_Course.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_CourseAssignID.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_DonateBookes.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_DonateConfig.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_DonateSetting.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_EditVisitReport.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_ExportExcel.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_Home.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_ListName.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_MemberListFiles.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_MemberVisitDetail.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_MemberVisitList.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_Progress.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_ReportInfo.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_RoleList.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_StatusChange.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_DonateDetails.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.dlg_ministryroles.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.Frm_NewMember.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\LandWin.SortColumnsForm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Release\LandWin.exe.config
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Release\LandWin.exe
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Release\LandWin.pdb

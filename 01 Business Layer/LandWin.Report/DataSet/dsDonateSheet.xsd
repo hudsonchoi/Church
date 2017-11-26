@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsDonateSheet" targetNamespace="http://tempuri.org/dsDonateSheet.xsd" xmlns:mstns="http://tempuri.org/dsDonateSheet.xsd" xmlns="http://tempuri.org/dsDonateSheet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsDonateSheet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsDonateSheet" msprop:Generator_DataSetName="dsDonateSheet" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtSummary" msprop:Generator_UserTableName="dtSummary" msprop:Generator_RowDeletedName="dtSummaryRowDeleted" msprop:Generator_RowChangedName="dtSummaryRowChanged" msprop:Generator_RowClassName="dtSummaryRow" msprop:Generator_RowChangingName="dtSummaryRowChanging" msprop:Generator_RowEvArgName="dtSummaryRowChangeEvent" msprop:Generator_RowEvHandlerName="dtSummaryRowChangeEventHandler" msprop:Generator_TableClassName="dtSummaryDataTable" msprop:Generator_TableVarName="tabledtSummary" msprop:Generator_RowDeletingName="dtSummaryRowDeleting" msprop:Generator_TablePropName="dtSummary">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DonateType" msprop:Generator_UserColumnName="DonateType" msprop:Generator_ColumnVarNameInTable="columnDonateType" msprop:Generator_ColumnPropNameInRow="DonateType" msprop:Generator_ColumnPropNameInTable="DonateTypeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="RegDate" msprop:Generator_UserColumnName="RegDate" msprop:Generator_ColumnVarNameInTable="columnRegDate" msprop:Generator_ColumnPropNameInRow="RegDate" msprop:Generator_ColumnPropNameInTable="RegDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_UserColumnName="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ID" msprop:Generator_UserColumnName="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" type="xs:int" />
+              <xs:element name="hundred" msprop:Generator_UserColumnName="hundred" msprop:Generator_ColumnPropNameInRow="hundred" msprop:Generator_ColumnVarNameInTable="columnhundred" msprop:Generator_ColumnPropNameInTable="hundredColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="fifty" msprop:Generator_UserColumnName="fifty" msprop:Generator_ColumnPropNameInRow="fifty" msprop:Generator_ColumnVarNameInTable="columnfifty" msprop:Generator_ColumnPropNameInTable="fiftyColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="twenty" msprop:Generator_UserColumnName="twenty" msprop:Generator_ColumnPropNameInRow="twenty" msprop:Generator_ColumnVarNameInTable="columntwenty" msprop:Generator_ColumnPropNameInTable="twentyColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="ten" msprop:Generator_UserColumnName="ten" msprop:Generator_ColumnPropNameInRow="ten" msprop:Generator_ColumnVarNameInTable="columnten" msprop:Generator_ColumnPropNameInTable="tenColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="five" msprop:Generator_UserColumnName="five" msprop:Generator_ColumnPropNameInRow="five" msprop:Generator_ColumnVarNameInTable="columnfive" msprop:Generator_ColumnPropNameInTable="fiveColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="one" msprop:Generator_UserColumnName="one" msprop:Generator_ColumnPropNameInRow="one" msprop:Generator_ColumnVarNameInTable="columnone" msprop:Generator_ColumnPropNameInTable="oneColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Recorder" msprop:Generator_UserColumnName="Recorder" msprop:Generator_ColumnPropNameInRow="Recorder" msprop:Generator_ColumnVarNameInTable="columnRecorder" msprop:Generator_ColumnPropNameInTable="RecorderColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PaidType" msprop:Generator_UserColumnName="PaidType" msprop:Generator_ColumnPropNameInRow="PaidType" msprop:Generator_ColumnVarNameInTable="columnPaidType" msprop:Generator_ColumnPropNameInTable="PaidTypeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="coins" msprop:Generator_UserColumnName="coins" msprop:Generator_ColumnVarNameInTable="columncoins" msprop:Generator_ColumnPropNameInRow="coins" msprop:Generator_ColumnPropNameInTable="coinsColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="checks" msprop:Generator_UserColumnName="checks" msprop:Generator_ColumnPropNameInRow="checks" msprop:Generator_ColumnVarNameInTable="columnchecks" msprop:Generator_ColumnPropNameInTable="checksColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtDonatelist" msprop:Generator_UserTableName="dtDonatelist" msprop:Generator_RowDeletedName="dtDonatelistRowDeleted" msprop:Generator_RowChangedName="dtDonatelistRowChanged" msprop:Generator_RowClassName="dtDonatelistRow" msprop:Generator_RowChangingName="dtDonatelistRowChanging" msprop:Generator_RowEvArgName="dtDonatelistRowChangeEvent" msprop:Generator_RowEvHandlerName="dtDonatelistRowChangeEventHandler" msprop:Generator_TableClassName="dtDonatelistDataTable" msprop:Generator_TableVarName="tabledtDonatelist" msprop:Generator_RowDeletingName="dtDonatelistRowDeleting" msprop:Generator_TablePropName="dtDonatelist">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BookId" msprop:Generator_UserColumnName="BookId" msprop:Generator_ColumnPropNameInRow="BookId" msprop:Generator_ColumnVarNameInTable="columnBookId" msprop:Generator_ColumnPropNameInTable="BookIdColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Donator" msprop:Generator_UserColumnName="Donator" msprop:Generator_ColumnPropNameInRow="Donator" msprop:Generator_ColumnVarNameInTable="columnDonator" msprop:Generator_ColumnPropNameInTable="DonatorColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Amount" msprop:Generator_UserColumnName="Amount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInTable="AmountColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MemberID" msprop:Generator_UserColumnName="MemberID" msprop:Generator_ColumnPropNameInRow="MemberID" msprop:Generator_ColumnVarNameInTable="columnMemberID" msprop:Generator_ColumnPropNameInTable="MemberIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="MoneyType" msprop:Generator_UserColumnName="MoneyType" msprop:Generator_ColumnVarNameInTable="columnMoneyType" msprop:Generator_ColumnPropNameInRow="MoneyType" msprop:Generator_ColumnPropNameInTable="MoneyTypeColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="dtSummaryKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dtSummary" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="dtSummary_dtDonatelist" msdata:parent="dtSummary" msdata:child="dtDonatelist" msdata:parentkey="ID" msdata:childkey="BookId" msprop:Generator_UserRelationName="dtSummary_dtDonatelist" msprop:Generator_RelationVarName="relationdtSummary_dtDonatelist" msprop:Generator_UserChildTable="dtDonatelist" msprop:Generator_UserParentTable="dtSummary" msprop:Generator_ParentPropName="dtSummaryRow" msprop:Generator_ChildPropName="GetdtDonatelistRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

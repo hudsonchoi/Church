@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F722F019-4688-4B28-BAE9-BE1E1066D003}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dothan.Library</RootNamespace>
+    <AssemblyName>Dothan.Library</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bizCourse\CourseInfo.cs" />
+    <Compile Include="bizDonate\MemberDonateInfo.cs" />
+    <Compile Include="bizCommon\Address.cs" />
+    <Compile Include="bizAdmin\Baptism.cs" />
+    <Compile Include="bizAdmin\Baptisms.cs" />
+    <Compile Include="bizAdmin\EntryType.cs" />
+    <Compile Include="bizAdmin\EntryTypes.cs" />
+    <Compile Include="bizAdmin\StatusTypes.cs" />
+    <Compile Include="bizAdmin\SubDivision.cs" />
+    <Compile Include="bizAdmin\SubDivisions.cs" />
+    <Compile Include="bizAdmin\User.cs" />
+    <Compile Include="bizAdmin\UserList.cs" />
+    <Compile Include="bizAdmin\UserInfo.cs" />
+    <Compile Include="bizAdmin\VisitType.cs" />
+    <Compile Include="bizAdmin\VisitTypes.cs" />
+    <Compile Include="bizCell\Cell.cs" />
+    <Compile Include="bizCell\CellList.cs" />
+    <Compile Include="bizCell\CellMember.cs" />
+    <Compile Include="bizCell\CellMembers.cs" />
+    <Compile Include="bizCell\CellRole.cs" />
+    <Compile Include="bizCell\CellRoleList.cs" />
+    <Compile Include="bizCell\CellRoles.cs" />
+    <Compile Include="bizCell\Cells.cs" />
+    <Compile Include="bizAdmin\ChurchInfo.cs" />
+    <Compile Include="bizCommon\CityList.cs" />
+    <Compile Include="bizDonate\YearList.cs" />
+    <Compile Include="bizDonate\MemberDonateList.cs" />
+    <Compile Include="bizCommon\TypeList.cs" />
+    <Compile Include="bizFellowship\FellowshipInfo.cs" />
+    <Compile Include="bizMember\Comment.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\CommentInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\CommentList.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\FamilyInfo.cs" />
+    <Compile Include="bizMember\FamilyList.cs" />
+    <Compile Include="bizMember\Member.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\MemberCell.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\MemberCells.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\MemberCourse.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\MemberCourses.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\MemberFellowship.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\MemberFellowships.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\MemberInfoBase.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\MemberList.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\MemberMinistry.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\MemberMinistrys.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\MemberInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMemberVisit\MemberVisit.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizCommon\StateList.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\StatusLog.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\StatusLogList.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\StatusMemberInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizMember\StatusMemberList.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bizReport\ReportDataAccess.cs" />
+    <Compile Include="Manager\Configurations.cs" />
+    <Compile Include="bizCourse\Course.cs" />
+    <Compile Include="bizCourse\CourseList.cs" />
+    <Compile Include="bizCourse\CourseMember.cs" />
+    <Compile Include="bizCourse\CourseMembers.cs" />
+    <Compile Include="bizCourse\Courses.cs" />
+    <Compile Include="Manager\Database.cs" />
+    <Compile Include="bizDonate\Donate.cs" />
+    <Compile Include="bizDonate\DonateBookInfo.cs" />
+    <Compile Include="bizDonate\DonateBookList.cs" />
+    <Compile Include="bizDonate\DonateInfo.cs" />
+    <Compile Include="bizDonate\DonateMember.cs" />
+    <Compile Include="bizDonate\DonateMemberHistory.cs" />
+    <Compile Include="bizDonate\DonateMemberInfo.cs" />
+    <Compile Include="bizDonate\DonateMemberList.cs" />
+    <Compile Include="bizDonate\DonateBook.cs" />
+    <Compile Include="bizDonate\Donates.cs" />
+    <Compile Include="bizDonate\DonateType.cs" />
+    <Compile Include="bizDonate\DonateTypeList.cs" />
+    <Compile Include="bizDonate\DonateTypes.cs" />
+    <Compile Include="bizDonate\DonateUsers.cs" />
+    <Compile Include="bizDonate\MemberDonate.cs" />
+    <Compile Include="bizFellowship\Fellowship.cs" />
+    <Compile Include="bizCommon\StatusList.cs" />
+    <Compile Include="bizFellowship\FellowshipMember.cs" />
+    <Compile Include="bizFellowship\FellowshipMembers.cs" />
+    <Compile Include="bizFellowship\FellowshipsList.cs" />
+    <Compile Include="bizFellowship\Fellowships.cs" />
+    <Compile Include="bizAdmin\JobType.cs" />
+    <Compile Include="bizAdmin\JobTypes.cs" />
+    <Compile Include="Manager\FileLog.cs" />
+    <Compile Include="Manager\FtpApi.cs" />
+    <Compile Include="bizCommon\GridViewAutoSizeList.cs" />
+    <Compile Include="bizCommon\MarriageList.cs" />
+    <Compile Include="bizDonate\MemberDonates.cs" />
+    <Compile Include="bizMinistry\Ministry.cs" />
+    <Compile Include="bizMinistry\MinistryList.cs" />
+    <Compile Include="bizMinistry\MinistryMember.cs" />
+    <Compile Include="bizMinistry\MinistryMembers.cs" />
+    <Compile Include="bizMinistry\MinistryRole.cs" />
+    <Compile Include="bizMinistry\MinistryRoleList.cs" />
+    <Compile Include="bizMinistry\MinistryRoles.cs" />
+    <Compile Include="bizMinistry\Ministrys.cs" />
+    <Compile Include="bizDonate\MoneyTypes.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="bizAdmin\StatusType.cs" />
+    <Compile Include="bizReport\DonateReport.cs" />
+    <Compile Include="bizAdmin\RoleList.cs" />
+    <Compile Include="bizCell\CellReport.cs" />
+    <Compile Include="bizCell\CellReportInfo.cs" />
+    <Compile Include="bizCell\CellReportList.cs" />
+    <Compile Include="bizCell\CellReportDetail.cs" />
+    <Compile Include="bizCell\CellReportDetails.cs" />
+    <Compile Include="Security\CRIdentity.cs" />
+    <Compile Include="Security\CRPrincipal.cs" />
+    <Compile Include="Security\PTIdentity.cs" />
+    <Compile Include="Security\PTPrincipal.cs" />
+    <Compile Include="bizCommon\SexList.cs" />
+    <Compile Include="bizCommon\SubdivisionList.cs" />
+    <Compile Include="bizMemberVisit\VisitRecorders.cs" />
+    <Compile Include="bizMemberVisit\VisitReportInfo.cs" />
+    <Compile Include="bizMemberVisit\VisitReportList.cs" />
+    <Compile Include="bizCommon\ZipcodeInfo.cs" />
+    <Compile Include="bizCommon\ZipcodeList.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\DataSources\Address.datasource" />
+    <None Include="Properties\DataSources\CellRoles.datasource" />
+    <None Include="Properties\DataSources\Cells.datasource" />
+    <None Include="Properties\DataSources\Dothan.Library.bizCommon.TypeList.datasource" />
+    <None Include="Properties\DataSources\Members.datasource" />
+    <None Include="Properties\DataSources\Ministrys.datasource" />
+    <None Include="Properties\DataSources\RptCell.datasource" />
+    <None Include="Properties\DataSources\RptCellList.datasource" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\00 Framework Layer\Dothan\Dothan.csproj">
+      <Project>{A87513BD-E0C4-4FAE-851F-1B5BBEF5171E}</Project>
+      <Name>Dothan</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandWeb", "LandWeb\LandWeb.csproj", "{A3B752D4-57F1-4C0A-B752-001C50815F5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandWeb.Tests", "LandWeb.Tests\LandWeb.Tests.csproj", "{0B85652C-60BA-4820-B561-85D414F87418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandWeb.Model", "LandWeb.Model\LandWeb.Model.csproj", "{0A13CE01-6CEA-49A0-AE37-9E8C56987EB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3B752D4-57F1-4C0A-B752-001C50815F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B752D4-57F1-4C0A-B752-001C50815F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B752D4-57F1-4C0A-B752-001C50815F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B752D4-57F1-4C0A-B752-001C50815F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B85652C-60BA-4820-B561-85D414F87418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B85652C-60BA-4820-B561-85D414F87418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B85652C-60BA-4820-B561-85D414F87418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B85652C-60BA-4820-B561-85D414F87418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A13CE01-6CEA-49A0-AE37-9E8C56987EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A13CE01-6CEA-49A0-AE37-9E8C56987EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A13CE01-6CEA-49A0-AE37-9E8C56987EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A13CE01-6CEA-49A0-AE37-9E8C56987EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

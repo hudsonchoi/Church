@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsReportInfo" targetNamespace="http://tempuri.org/dsReportInfo.xsd" xmlns:mstns="http://tempuri.org/dsReportInfo.xsd" xmlns="http://tempuri.org/dsReportInfo.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsReportInfo" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dsReportInfo" msprop:Generator_UserDSName="dsReportInfo" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tbReportInfo" msprop:Generator_UserTableName="tbReportInfo" msprop:Generator_RowDeletedName="tbReportInfoRowDeleted" msprop:Generator_TableClassName="tbReportInfoDataTable" msprop:Generator_RowChangedName="tbReportInfoRowChanged" msprop:Generator_RowClassName="tbReportInfoRow" msprop:Generator_RowChangingName="tbReportInfoRowChanging" msprop:Generator_RowEvArgName="tbReportInfoRowChangeEvent" msprop:Generator_RowEvHandlerName="tbReportInfoRowChangeEventHandler" msprop:Generator_TablePropName="tbReportInfo" msprop:Generator_TableVarName="tabletbReportInfo" msprop:Generator_RowDeletingName="tbReportInfoRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="HdrCompany" msprop:Generator_UserColumnName="HdrCompany" msprop:Generator_ColumnPropNameInRow="HdrCompany" msprop:Generator_ColumnVarNameInTable="columnHdrCompany" msprop:Generator_ColumnPropNameInTable="HdrCompanyColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="HdrReportTitle" msprop:Generator_UserColumnName="HdrReportTitle" msprop:Generator_ColumnPropNameInRow="HdrReportTitle" msprop:Generator_ColumnVarNameInTable="columnHdrReportTitle" msprop:Generator_ColumnPropNameInTable="HdrReportTitleColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="HdrSubTitle1" msprop:Generator_UserColumnName="HdrSubTitle1" msprop:Generator_ColumnPropNameInRow="HdrSubTitle1" msprop:Generator_ColumnVarNameInTable="columnHdrSubTitle1" msprop:Generator_ColumnPropNameInTable="HdrSubTitle1Column" type="xs:string" minOccurs="0" />
+              <xs:element name="HdrSubTitle2" msprop:Generator_UserColumnName="HdrSubTitle2" msprop:Generator_ColumnPropNameInRow="HdrSubTitle2" msprop:Generator_ColumnVarNameInTable="columnHdrSubTitle2" msprop:Generator_ColumnPropNameInTable="HdrSubTitle2Column" type="xs:string" minOccurs="0" />
+              <xs:element name="UserID" msprop:Generator_UserColumnName="UserID" msprop:Generator_ColumnPropNameInRow="UserID" msprop:Generator_ColumnVarNameInTable="columnUserID" msprop:Generator_ColumnPropNameInTable="UserIDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FtrRunBy" msprop:Generator_UserColumnName="FtrRunBy" msprop:Generator_ColumnPropNameInRow="FtrRunBy" msprop:Generator_ColumnVarNameInTable="columnFtrRunBy" msprop:Generator_ColumnPropNameInTable="FtrRunByColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FtrVersion" msprop:Generator_UserColumnName="FtrVersion" msprop:Generator_ColumnPropNameInRow="FtrVersion" msprop:Generator_ColumnVarNameInTable="columnFtrVersion" msprop:Generator_ColumnPropNameInTable="FtrVersionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FtrFootNotes" msprop:Generator_UserColumnName="FtrFootNotes" msprop:Generator_ColumnPropNameInRow="FtrFootNotes" msprop:Generator_ColumnVarNameInTable="columnFtrFootNotes" msprop:Generator_ColumnPropNameInTable="FtrFootNotesColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FtrDataSource" msprop:Generator_UserColumnName="FtrDataSource" msprop:Generator_ColumnPropNameInRow="FtrDataSource" msprop:Generator_ColumnVarNameInTable="columnFtrDataSource" msprop:Generator_ColumnPropNameInTable="FtrDataSourceColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

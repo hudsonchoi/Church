@@ -1,0 +1,1372 @@
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\LandWin.exe.config
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\LandWin.exe.manifest
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\LandWin.application
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\LandWin.exe
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\LandWin.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\Dothan.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\Dothan.Library.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\Dothan.Report.BusinessObject.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\Dothan.Report.CrystalReportsTools.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\Dothan.Report.DataAccess.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\Dothan.Report.RemoteAccess.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\LandWin.Business.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\LandWin.DataAccess.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\LandWin.Shared.CrystalReports.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\LandWin.Shared.DataSet.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\LandWin.Shared.Interface.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\TelerikData.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\Dothan.Report.BusinessObject.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\LandWin.Business.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\LandWin.Shared.CrystalReports.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\LandWin.Shared.DataSet.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\Dothan.Library.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\Dothan.Report.RemoteAccess.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\Dothan.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\Dothan.Report.DataAccess.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\LandWin.DataAccess.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\bin\Debug\LandWin.Shared.Interface.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.BasicForm.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_baptism.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_cell.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_cellroles.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_churchinfo.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_division.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_donatetype.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_entrytype.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_family.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_familylist.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_fellowmemberlist.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_fellowship.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_editdonator.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_jobtypes.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_cellemberlistcs.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_ministry.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_ministrymemberlist.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_rolesset.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_RptCells.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_searchdoner.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_searchSameName.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_SetSubDivision.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_statuslabel.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_statuslog.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_subdivision.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_visittype.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_zipcode.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Dlg_Cash.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Dlg_DivList.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Calendar.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_ChangeFamilyOwner.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_ColumnSetting.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Course.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_CourseAssignID.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateBookes.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateConfig.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateSetting.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_EditVisitReport.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_ExportExcel.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Home.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_ListName.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_MemberListFiles.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_MemberVisitDetail.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_MemberVisitList.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Progress.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_ReportInfo.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_RoleList.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_StatusChange.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.FrmUserEdit.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.FrmUsers.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Cell.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_CellReport.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Fellowship.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Main.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Member.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.frm_MembersInfo.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateDetails.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Ministry.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_ministryroles.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_NewDonates.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Searchmember.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_SettingGridColumn.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_SpliteFamily.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_StatusReport.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_VistReport.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.LoginForm.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_NewMember.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Properties.Resources.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.SortColumnsForm.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.WinPart.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.csproj.GenerateResource.Cache
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.exe.licenses
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.TrustInfo.xml
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.exe.manifest
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.application
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.exe
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.pdb
+D:\Document\Dothan\Harvest\bin\Debug\LandWin.exe.config
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.exe
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.pdb
+D:\Document\Dothan\Harvest\obj\Debug\ResolveAssemblyReference.cache
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.BasicForm.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_baptism.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_cell.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_cellroles.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_churchinfo.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_division.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_donatetype.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_entrytype.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_family.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_familylist.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_fellowmemberlist.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_fellowship.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_editdonator.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_jobtypes.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_cellemberlistcs.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_ministry.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_ministrymemberlist.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_rolesset.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_RptCells.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_searchdoner.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_searchSameName.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_selectdivision.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_SetSubDivision.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_statuslabel.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_statuslog.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_subdivision.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_visittype.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_zipcode.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Dlg_Cash.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Dlg_DivList.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_Calendar.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_ChangeFamilyOwner.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_ColumnSetting.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_Course.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_CourseAssignID.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateBookes.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateConfig.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateSetting.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_EditVisitReport.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_ExportExcel.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_Home.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_ListName.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_MemberListFiles.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_MemberVisitDetail.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_MemberVisitList.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_Progress.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_ReportInfo.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_RoleList.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_StatusChange.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.FrmUserEdit.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.FrmUsers.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_Cell.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_CellReport.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_Fellowship.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_Main.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_Member.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.frm_MembersInfo.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateDetails.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_Ministry.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.dlg_ministryroles.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_NewDonates.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_Searchmember.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_SettingGridColumn.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_SpliteFamily.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_StatusReport.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_VistReport.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.LoginForm.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_NewMember.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Properties.Resources.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.SortColumnsForm.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.WinPart.resources
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.csproj.GenerateResource.Cache
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.exe.licenses
+D:\Document\Dothan\Harvest\bin\Debug\LandWin.exe.manifest
+D:\Document\Dothan\Harvest\bin\Debug\LandWin.application
+D:\Document\Dothan\Harvest\bin\Debug\LandWin.exe
+D:\Document\Dothan\Harvest\bin\Debug\LandWin.pdb
+D:\Document\Dothan\Harvest\bin\Debug\Dothan.dll
+D:\Document\Dothan\Harvest\bin\Debug\Dothan.Library.dll
+D:\Document\Dothan\Harvest\bin\Debug\Dothan.Report.BusinessObject.dll
+D:\Document\Dothan\Harvest\bin\Debug\Dothan.Report.CrystalReportsTools.dll
+D:\Document\Dothan\Harvest\bin\Debug\Dothan.Report.DataAccess.dll
+D:\Document\Dothan\Harvest\bin\Debug\Dothan.Report.RemoteAccess.dll
+D:\Document\Dothan\Harvest\bin\Debug\LandWin.Business.dll
+D:\Document\Dothan\Harvest\bin\Debug\LandWin.DataAccess.dll
+D:\Document\Dothan\Harvest\bin\Debug\LandWin.Shared.CrystalReports.dll
+D:\Document\Dothan\Harvest\bin\Debug\LandWin.Shared.DataSet.dll
+D:\Document\Dothan\Harvest\bin\Debug\LandWin.Shared.Interface.dll
+D:\Document\Dothan\Harvest\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Document\Dothan\Harvest\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Document\Dothan\Harvest\bin\Debug\office.dll
+D:\Document\Dothan\Harvest\bin\Debug\Dothan.Report.BusinessObject.pdb
+D:\Document\Dothan\Harvest\bin\Debug\LandWin.Business.pdb
+D:\Document\Dothan\Harvest\bin\Debug\LandWin.Shared.CrystalReports.pdb
+D:\Document\Dothan\Harvest\bin\Debug\Dothan.Report.CrystalReportsTools.pdb
+D:\Document\Dothan\Harvest\bin\Debug\LandWin.Shared.DataSet.pdb
+D:\Document\Dothan\Harvest\bin\Debug\Dothan.Library.pdb
+D:\Document\Dothan\Harvest\bin\Debug\Dothan.Report.RemoteAccess.pdb
+D:\Document\Dothan\Harvest\bin\Debug\Dothan.pdb
+D:\Document\Dothan\Harvest\bin\Debug\Dothan.Report.DataAccess.pdb
+D:\Document\Dothan\Harvest\bin\Debug\LandWin.DataAccess.pdb
+D:\Document\Dothan\Harvest\bin\Debug\office.xml
+D:\Document\Dothan\Harvest\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Document\Dothan\Harvest\bin\Debug\LandWin.Shared.Interface.pdb
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.TrustInfo.xml
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.exe.manifest
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.application
+D:\Document\Dothan\Harvest\obj\Debug\LandWin.Frm_Comment.resources
+D:\Document\Dothan\Harvest\bin\Debug\TelerikData.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\LandWin.exe.config
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.exe
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.BasicForm.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_baptism.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_cell.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_cellroles.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_churchinfo.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Comment.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_division.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_donatetype.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_entrytype.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_family.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_familylist.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_fellowmemberlist.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_fellowship.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_editdonator.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_jobtypes.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_cellemberlistcs.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_ministry.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_ministrymemberlist.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_rolesset.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_RptCells.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_searchdoner.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_searchSameName.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_selectdivision.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_SetSubDivision.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_statuslabel.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_statuslog.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_subdivision.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_visittype.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_zipcode.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Dlg_Cash.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Dlg_DivList.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Calendar.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_ChangeFamilyOwner.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_ColumnSetting.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Course.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_CourseAssignID.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateBookes.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateConfig.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateSetting.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_EditVisitReport.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_ExportExcel.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Home.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_ListName.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_MemberListFiles.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_MemberVisitDetail.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_MemberVisitList.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Progress.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_ReportInfo.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_RoleList.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_StatusChange.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.FrmUserEdit.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.FrmUsers.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Cell.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_CellReport.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Fellowship.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Main.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Member.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.frm_MembersInfo.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateDetails.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Ministry.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_ministryroles.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_NewDonates.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Searchmember.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_SettingGridColumn.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_SpliteFamily.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_StatusReport.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_VistReport.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.LoginForm.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_NewMember.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.Properties.Resources.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.SortColumnsForm.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.WinPart.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.csproj.GenerateResource.Cache
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.exe.licenses
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\LandWin.exe.manifest
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\LandWin.application
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\LandWin.exe
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\LandWin.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\Dothan.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\Dothan.Library.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\Dothan.Report.BusinessObject.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\Dothan.Report.CrystalReportsTools.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\Dothan.Report.DataAccess.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\Dothan.Report.RemoteAccess.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\LandWin.Business.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\LandWin.DataAccess.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\LandWin.Shared.CrystalReports.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\LandWin.Shared.DataSet.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\LandWin.Shared.Interface.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\TelerikData.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\Dothan.Report.BusinessObject.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\LandWin.Business.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\LandWin.Shared.CrystalReports.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\LandWin.Shared.DataSet.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\Dothan.Library.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\Dothan.Report.RemoteAccess.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\Dothan.Report.DataAccess.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\LandWin.DataAccess.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\Dothan.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\bin\Debug\LandWin.Shared.Interface.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.TrustInfo.xml
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.exe.manifest
+C:\Users\Luxgem_IT\Documents\Dothan\Harvest\obj\Debug\LandWin.application
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\LandWin.exe.config
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.exe
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.pdb
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.BasicForm.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_baptism.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_cell.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_cellroles.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_churchinfo.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Comment.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_division.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_donatetype.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_entrytype.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_family.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_familylist.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_fellowmemberlist.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_fellowship.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_editdonator.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_jobtypes.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_cellemberlistcs.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_ministry.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_ministrymemberlist.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_rolesset.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_RptCells.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_searchdoner.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_searchSameName.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_selectdivision.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_SetSubDivision.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_statuslabel.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_statuslog.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_subdivision.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_visittype.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_zipcode.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Dlg_Cash.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Dlg_DivList.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Calendar.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_ChangeFamilyOwner.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_ColumnSetting.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Course.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_CourseAssignID.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateBookes.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateConfig.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateSetting.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_EditVisitReport.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_ExportExcel.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Home.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_ListName.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_MemberListFiles.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_MemberVisitDetail.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_MemberVisitList.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Progress.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_ReportInfo.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_RoleList.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_StatusChange.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.FrmUserEdit.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.FrmUsers.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Cell.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_CellReport.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Fellowship.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Main.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Member.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.frm_MembersInfo.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateDetails.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Ministry.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.dlg_ministryroles.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_NewDonates.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_Searchmember.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_SettingGridColumn.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_SpliteFamily.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_StatusReport.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_VistReport.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.LoginForm.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Frm_NewMember.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.Properties.Resources.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.SortColumnsForm.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.WinPart.resources
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.exe.licenses
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\LandWin.exe.manifest
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\LandWin.application
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\LandWin.exe
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\LandWin.pdb
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\Dothan.dll
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\Dothan.Library.dll
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\Dothan.Report.BusinessObject.dll
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\Dothan.Report.CrystalReportsTools.dll
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\Dothan.Report.DataAccess.dll
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\Dothan.Report.RemoteAccess.dll
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\LandWin.Business.dll
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\LandWin.DataAccess.dll
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\LandWin.Shared.CrystalReports.dll
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\LandWin.Shared.DataSet.dll
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\LandWin.Shared.Interface.dll
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\TelerikData.dll
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\office.dll
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\Dothan.Report.BusinessObject.pdb
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\LandWin.Business.pdb
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\LandWin.Shared.CrystalReports.pdb
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\LandWin.Shared.DataSet.pdb
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\Dothan.Library.pdb
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\Dothan.Report.RemoteAccess.pdb
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\Dothan.Report.DataAccess.pdb
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\LandWin.DataAccess.pdb
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\office.xml
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\Dothan.pdb
+C:\Users\Public\Documents\Dothan\Harvest\bin\Debug\LandWin.Shared.Interface.pdb
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.TrustInfo.xml
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.exe.manifest
+C:\Users\Public\Documents\Dothan\Harvest\obj\Debug\LandWin.application
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\LandWin.exe.config
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\LandWin.exe.manifest
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\LandWin.application
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\LandWin.exe
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\LandWin.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\Dothan.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\Dothan.Library.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\Dothan.Report.BusinessObject.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\Dothan.Report.CrystalReportsTools.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\Dothan.Report.DataAccess.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\Dothan.Report.RemoteAccess.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\LandWin.Business.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\LandWin.DataAccess.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\LandWin.Shared.CrystalReports.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\LandWin.Shared.DataSet.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\LandWin.Shared.Interface.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\TelerikData.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\office.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\Dothan.Report.BusinessObject.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\LandWin.Business.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\LandWin.Shared.CrystalReports.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\LandWin.Shared.DataSet.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\Dothan.Library.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\Dothan.Report.RemoteAccess.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\Dothan.Report.DataAccess.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\LandWin.DataAccess.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\office.xml
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\Dothan.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Debug\LandWin.Shared.Interface.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.BasicForm.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_baptism.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_cell.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_cellroles.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_churchinfo.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Comment.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_division.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_donatetype.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_entrytype.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_family.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_familylist.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_fellowmemberlist.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_fellowship.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_editdonator.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_jobtypes.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_cellemberlistcs.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_ministry.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_ministrymemberlist.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_rolesset.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_RptCells.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_searchdoner.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_searchSameName.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_SetSubDivision.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_statuslabel.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_statuslog.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_subdivision.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_visittype.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_zipcode.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Dlg_Cash.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Dlg_DivList.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Calendar.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_ChangeFamilyOwner.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_ColumnSetting.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Course.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_CourseAssignID.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateBookes.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateConfig.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateSetting.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_EditVisitReport.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_ExportExcel.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Home.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_ListName.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_MemberListFiles.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_MemberVisitDetail.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_MemberVisitList.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Progress.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_ReportInfo.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_RoleList.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_StatusChange.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.FrmUserEdit.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.FrmUsers.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Cell.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_CellReport.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Fellowship.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Main.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Member.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.frm_MembersInfo.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_DonateDetails.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Ministry.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.dlg_ministryroles.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_NewDonates.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Searchmember.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_SettingGridColumn.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_SpliteFamily.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_StatusReport.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_VistReport.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.LoginForm.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_NewMember.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.Properties.Resources.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.SortColumnsForm.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.WinPart.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.csproj.GenerateResource.Cache
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.TrustInfo.xml
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.exe.manifest
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.application
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.exe
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Debug\LandWin.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Harvest\obj\Debug\LandWin.Frm_Comment.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.config
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.manifest
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\bin\Debug\LandWin.application
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\bin\Debug\LandWin.pdb
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\bin\Debug\Dothan.dll
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.dll
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.dll
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\bin\Debug\office.dll
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\bin\Debug\office.xml
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.pdb
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.pdb
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\bin\Debug\Dothan.pdb
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\ResolveAssemblyReference.cache
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.BaptismsFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ConfigFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.JobTypeFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.LoginFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.MainForm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Properties.Resources.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.WinPart.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.csproj.GenerateResource.Cache
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.licenses
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.TrustInfo.xml
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.manifest
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.application
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.pdb
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.CellRolesFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ChurchInfoFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.EntryTypeFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.UserFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.SubDivisionFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.VisitTypesFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.UserPart.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.StatusTypeFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.MinistryRoleFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.HomePart.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberListPart.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.FellowshipPart.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipListFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CalendarFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ImportFromExcelFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberSearchFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MinistryListFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MinistryPart.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellPart.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.VisitReportPart.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CourseListFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CellListFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.MemberVisitDetailFrm.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ProgressDialog.resources
+E:\00Project\Project\Dothan\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellReportPart.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\ResolveAssemblyReference.cache
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.BaptismsFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.CellRolesFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ChurchInfoFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ConfigFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberStatusPart.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateHistoryFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FamilyAddFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipLookupFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SpliteFamilyFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusEditFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.StatusTypeFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.EntryTypeFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.JobTypeFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.MinistryRoleFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.SubDivisionFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.UserFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.VisitTypesFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.LoginFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.MainForm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellPart.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellReportPart.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateManagePart.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateReports.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EditVisitReportPart.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EducationPart.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.FellowshipPart.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.HomePart.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberListPart.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MinistryPart.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.UserPart.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.VisitReportPart.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.WinPart.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CalendarFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CellListFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ChangeFamilyOwnerFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CommentFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CourseListFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateMemberSearchFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateSummaryFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.OpenListFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberInfoFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.MemberVisitDetailFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MinistryListFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipListFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ImportFromExcelFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberSearchFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ProgressDialog.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SearchSameNameFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusLogViewFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ZipcodeFrm.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.csproj.GenerateResource.Cache
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.config
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.manifest
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Debug\LandWin.application
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Debug\LandWin.pdb
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Debug\Dothan.dll
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.dll
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.dll
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Debug\office.dll
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Debug\office.xml
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.pdb
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.pdb
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\bin\Debug\Dothan.pdb
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Properties.Resources.resources
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.licenses
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.TrustInfo.xml
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.manifest
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.application
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.pdb
+E:\00Project\Project\DothanV2\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.DonateTypeFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.config
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.pdb
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\ResolveAssemblyReference.cache
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.BaptismsFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.CellRolesFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ChurchInfoFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ConfigFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.DonateTypeFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberStatusPart.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateHistoryFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FamilyAddFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipLookupFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SpliteFamilyFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusEditFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.StatusTypeFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.EntryTypeFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.JobTypeFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.MinistryRoleFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.SubDivisionFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.UserFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.VisitTypesFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.LoginFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.MainForm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellPart.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellReportPart.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateManagePart.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateReports.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EditVisitReportPart.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EducationPart.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.FellowshipPart.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.HomePart.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberListPart.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MinistryPart.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.UserPart.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.VisitReportPart.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Properties.Resources.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.WinPart.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CalendarFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CellListFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ChangeFamilyOwnerFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CommentFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CourseListFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateMemberSearchFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateSummaryFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.OpenListFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberInfoFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.MemberVisitDetailFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MinistryListFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipListFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ImportFromExcelFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberSearchFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ProgressDialog.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SearchSameNameFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusLogViewFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ZipcodeFrm.resources
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.csproj.GenerateResource.Cache
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.licenses
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.manifest
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\bin\Debug\LandWin.application
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\bin\Debug\LandWin.pdb
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\bin\Debug\Dothan.dll
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.dll
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.dll
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\bin\Debug\office.dll
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\bin\Debug\office.xml
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.pdb
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.pdb
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\bin\Debug\Dothan.pdb
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.TrustInfo.xml
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.manifest
+G:\00Project\Project\DothanV2 (2)\02 Presentation Layer\Landwin\obj\Debug\LandWin.application
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.config
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.pdb
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.manifest
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\bin\Debug\LandWin.application
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\bin\Debug\LandWin.pdb
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\bin\Debug\Dothan.dll
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.dll
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.dll
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\bin\Debug\office.dll
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\bin\Debug\office.xml
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.pdb
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.pdb
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\bin\Debug\Dothan.pdb
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\ResolveAssemblyReference.cache
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.BaptismsFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.CellRolesFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ChurchInfoFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ConfigFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.DonateTypeFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberStatusPart.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateHistoryFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FamilyAddFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipLookupFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SpliteFamilyFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusEditFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.StatusTypeFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.EntryTypeFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.JobTypeFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.MinistryRoleFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.SubDivisionFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.UserFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.VisitTypesFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.LoginFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.MainForm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellPart.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellReportPart.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateManagePart.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateReports.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EditVisitReportPart.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EducationPart.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.FellowshipPart.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.HomePart.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberListPart.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MinistryPart.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.UserPart.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.VisitReportPart.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Properties.Resources.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.WinPart.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CalendarFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CellListFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ChangeFamilyOwnerFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CommentFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CourseListFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateMemberSearchFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateSummaryFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.OpenListFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberInfoFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.MemberVisitDetailFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MinistryListFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipListFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ImportFromExcelFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberSearchFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ProgressDialog.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SearchSameNameFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusLogViewFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ZipcodeFrm.resources
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.csproj.GenerateResource.Cache
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.licenses
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.TrustInfo.xml
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.manifest
+G:\00Project\Project\DothanV2_20150211\02 Presentation Layer\Landwin\obj\Debug\LandWin.application
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.config
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.pdb
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.manifest
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\bin\Debug\LandWin.application
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\bin\Debug\LandWin.pdb
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\bin\Debug\Dothan.dll
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.dll
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.dll
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\bin\Debug\office.dll
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\bin\Debug\office.xml
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.pdb
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.pdb
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\bin\Debug\Dothan.pdb
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\ResolveAssemblyReference.cache
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.BaptismsFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.CellRolesFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ChurchInfoFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ConfigFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.DonateTypeFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberStatusPart.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateHistoryFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FamilyAddFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipLookupFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SpliteFamilyFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusEditFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.StatusTypeFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.EntryTypeFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.JobTypeFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.MinistryRoleFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.SubDivisionFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.UserFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.VisitTypesFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.LoginFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.MainForm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellPart.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellReportPart.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateManagePart.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateReports.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EditVisitReportPart.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EducationPart.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.FellowshipPart.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.HomePart.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberListPart.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MinistryPart.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.UserPart.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.VisitReportPart.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Properties.Resources.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.WinPart.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CalendarFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CellListFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ChangeFamilyOwnerFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CommentFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CourseListFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateMemberSearchFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateSummaryFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.OpenListFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberInfoFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.MemberVisitDetailFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MinistryListFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipListFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ImportFromExcelFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberSearchFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ProgressDialog.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SearchSameNameFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusLogViewFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ZipcodeFrm.resources
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.csproj.GenerateResource.Cache
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.licenses
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.TrustInfo.xml
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.manifest
+G:\00Project\Project\DothanV2_20150221\02 Presentation Layer\Landwin\obj\Debug\LandWin.application
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.config
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.pdb
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.manifest
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\bin\Debug\LandWin.application
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\bin\Debug\LandWin.pdb
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\bin\Debug\Dothan.dll
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.dll
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.dll
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\bin\Debug\office.dll
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\bin\Debug\office.xml
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.pdb
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.pdb
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\bin\Debug\Dothan.pdb
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\ResolveAssemblyReference.cache
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.BaptismsFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.CellRolesFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ChurchInfoFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ConfigFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.DonateTypeFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberStatusPart.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateHistoryFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FamilyAddFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipLookupFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SpliteFamilyFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusEditFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.StatusTypeFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.EntryTypeFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.JobTypeFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.MinistryRoleFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.SubDivisionFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.UserFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.VisitTypesFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.LoginFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.MainForm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellPart.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellReportPart.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateManagePart.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateReports.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EditVisitReportPart.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EducationPart.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.FellowshipPart.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.HomePart.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberListPart.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MinistryPart.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.UserPart.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.VisitReportPart.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Properties.Resources.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.WinPart.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CalendarFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CellListFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ChangeFamilyOwnerFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CommentFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CourseListFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateMemberSearchFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateSummaryFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.OpenListFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberInfoFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.MemberVisitDetailFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MinistryListFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipListFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ImportFromExcelFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberSearchFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ProgressDialog.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SearchSameNameFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusLogViewFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ZipcodeFrm.resources
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.csproj.GenerateResource.Cache
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.licenses
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.TrustInfo.xml
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.manifest
+D:\DothanV2\DothanV2_20150307\02 Presentation Layer\Landwin\obj\Debug\LandWin.application
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.config
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.pdb
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.manifest
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\bin\Debug\LandWin.application
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\bin\Debug\LandWin.pdb
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\bin\Debug\Dothan.dll
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.dll
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.dll
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\bin\Debug\office.dll
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\bin\Debug\office.xml
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.pdb
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.pdb
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\bin\Debug\Dothan.pdb
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.BaptismsFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.CellRolesFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ChurchInfoFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ConfigFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.DonateTypeFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberStatusPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateHistoryFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FamilyAddFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipLookupFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SpliteFamilyFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusEditFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.StatusTypeFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.EntryTypeFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.JobTypeFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.MinistryRoleFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.SubDivisionFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.UserFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.VisitTypesFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.LoginFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.MainForm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellReportPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateManagePart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateReports.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EditVisitReportPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EducationPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.FellowshipPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.HomePart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberListPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MinistryPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.UserPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.VisitReportPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Properties.Resources.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.WinPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CalendarFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CellListFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ChangeFamilyOwnerFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CommentFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CourseListFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateMemberSearchFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateSummaryFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.OpenListFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberInfoFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.MemberVisitDetailFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MinistryListFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipListFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ImportFromExcelFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberSearchFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ProgressDialog.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SearchSameNameFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusLogViewFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ZipcodeFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.csproj.GenerateResource.Cache
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.licenses
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.TrustInfo.xml
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.manifest
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\02 Presentation Layer\Landwin\obj\Debug\LandWin.application
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.BaptismsFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.CellRolesFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ChurchInfoFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ConfigFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.DonateTypeFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberStatusPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateHistoryFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FamilyAddFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipLookupFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SpliteFamilyFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusEditFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.StatusTypeFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.EntryTypeFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.JobTypeFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.MinistryRoleFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.SubDivisionFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.UserFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.VisitTypesFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.LoginFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.MainForm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellReportPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateManagePart.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateReports.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EditVisitReportPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EducationPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.FellowshipPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.HomePart.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberListPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MinistryPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.UserPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.VisitReportPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Properties.Resources.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.WinPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CalendarFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CellListFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ChangeFamilyOwnerFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CommentFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CourseListFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateMemberSearchFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateSummaryFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.OpenListFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberInfoFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.MemberVisitDetailFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MinistryListFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipListFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ImportFromExcelFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberSearchFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ProgressDialog.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SearchSameNameFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusLogViewFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ZipcodeFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.csproj.GenerateResource.Cache
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.licenses
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.config
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.manifest
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\bin\Debug\LandWin.application
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\bin\Debug\LandWin.pdb
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\bin\Debug\Dothan.dll
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.dll
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.dll
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\bin\Debug\office.dll
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\bin\Debug\office.xml
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.pdb
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.pdb
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\bin\Debug\Dothan.pdb
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.TrustInfo.xml
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.manifest
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.application
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\02 Presentation Layer\Landwin\obj\Debug\LandWin.pdb
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.config
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.pdb
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.manifest
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\bin\Debug\LandWin.application
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\bin\Debug\LandWin.pdb
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\bin\Debug\Dothan.dll
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.dll
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.dll
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\bin\Debug\office.dll
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\bin\Debug\office.xml
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.pdb
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.pdb
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\bin\Debug\Dothan.pdb
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.BaptismsFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.CellRolesFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ChurchInfoFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ConfigFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.DonateTypeFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberStatusPart.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateHistoryFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FamilyAddFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipLookupFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SpliteFamilyFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusEditFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.StatusTypeFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.EntryTypeFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.JobTypeFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.MinistryRoleFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.SubDivisionFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.UserFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.VisitTypesFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.LoginFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.MainForm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellPart.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellReportPart.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateManagePart.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateReports.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EditVisitReportPart.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EducationPart.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.FellowshipPart.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.HomePart.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberListPart.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MinistryPart.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.UserPart.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.VisitReportPart.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Properties.Resources.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.WinPart.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CalendarFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CellListFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ChangeFamilyOwnerFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CommentFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CourseListFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateMemberSearchFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateSummaryFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.OpenListFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberInfoFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.MemberVisitDetailFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MinistryListFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipListFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ImportFromExcelFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberSearchFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ProgressDialog.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SearchSameNameFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusLogViewFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ZipcodeFrm.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.csproj.GenerateResource.Cache
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.licenses
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.TrustInfo.xml
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.manifest
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\02 Presentation Layer\Landwin\obj\Debug\LandWin.application
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.config
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.manifest
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\bin\Debug\LandWin.application
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\bin\Debug\LandWin.pdb
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\bin\Debug\Dothan.dll
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.dll
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.dll
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\bin\Debug\office.dll
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\bin\Debug\office.xml
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.pdb
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.pdb
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\bin\Debug\Dothan.pdb
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.BaptismsFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.CellRolesFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ChurchInfoFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ConfigFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.DonateTypeFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberStatusPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateHistoryFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FamilyAddFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipLookupFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SpliteFamilyFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusEditFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.StatusTypeFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.EntryTypeFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.JobTypeFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.MinistryRoleFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.SubDivisionFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.UserFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.VisitTypesFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.LoginFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.MainForm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellReportPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateManagePart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateReports.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EditVisitReportPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EducationPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.FellowshipPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.HomePart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberListPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MinistryPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.UserPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.VisitReportPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Properties.Resources.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.WinPart.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CalendarFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CellListFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ChangeFamilyOwnerFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CommentFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CourseListFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateMemberSearchFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateSummaryFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.OpenListFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberInfoFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.MemberVisitDetailFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MinistryListFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipListFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ImportFromExcelFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberSearchFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ProgressDialog.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SearchSameNameFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusLogViewFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ZipcodeFrm.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.csproj.GenerateResource.Cache
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.licenses
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.TrustInfo.xml
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.manifest
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.application
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe
+C:\Projects\Source\LandWinApp_DonateApp_Gold\02 Presentation Layer\Landwin\obj\Debug\LandWin.pdb
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.BaptismsFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.CellRolesFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ChurchInfoFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.ConfigFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.DonateTypeFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberStatusPart.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateHistoryFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FamilyAddFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipLookupFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SpliteFamilyFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusEditFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.StatusTypeFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.EntryTypeFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.JobTypeFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.MinistryRoleFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.SubDivisionFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.UserFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Configuration.VisitTypesFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.LoginFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.MainForm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellPart.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.CellReportPart.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateManagePart.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.DonateReports.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EditVisitReportPart.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.EducationPart.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.FellowshipPart.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.HomePart.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MemberListPart.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.MinistryPart.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.UserPart.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.VisitReportPart.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Properties.Resources.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Modules.WinPart.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CalendarFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CellListFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ChangeFamilyOwnerFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CommentFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.CourseListFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateMemberSearchFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.DonateSummaryFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.OpenListFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberInfoFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.MemberVisitDetailFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MinistryListFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.FellowshipListFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ImportFromExcelFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.MemberSearchFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ProgressDialog.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.SearchSameNameFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.StatusLogViewFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.Tools.ZipcodeFrm.resources
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.csproj.GenerateResource.Cache
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.licenses
+C:\Projects\LandWin\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.config
+C:\Projects\LandWin\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe.manifest
+C:\Projects\LandWin\02 Presentation Layer\Landwin\bin\Debug\LandWin.application
+C:\Projects\LandWin\02 Presentation Layer\Landwin\bin\Debug\LandWin.exe
+C:\Projects\LandWin\02 Presentation Layer\Landwin\bin\Debug\LandWin.pdb
+C:\Projects\LandWin\02 Presentation Layer\Landwin\bin\Debug\Dothan.dll
+C:\Projects\LandWin\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.dll
+C:\Projects\LandWin\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.dll
+C:\Projects\LandWin\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Projects\LandWin\02 Presentation Layer\Landwin\bin\Debug\office.dll
+C:\Projects\LandWin\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Projects\LandWin\02 Presentation Layer\Landwin\bin\Debug\office.xml
+C:\Projects\LandWin\02 Presentation Layer\Landwin\bin\Debug\Dothan.Library.pdb
+C:\Projects\LandWin\02 Presentation Layer\Landwin\bin\Debug\LandWin.Report.pdb
+C:\Projects\LandWin\02 Presentation Layer\Landwin\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Projects\LandWin\02 Presentation Layer\Landwin\bin\Debug\Dothan.pdb
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.TrustInfo.xml
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe.manifest
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.application
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.exe
+C:\Projects\LandWin\02 Presentation Layer\Landwin\obj\Debug\LandWin.pdb

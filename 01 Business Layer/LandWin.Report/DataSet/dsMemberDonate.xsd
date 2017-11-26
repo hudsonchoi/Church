@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsMemberDonate" targetNamespace="http://tempuri.org/dsMemberDonate.xsd" xmlns:mstns="http://tempuri.org/dsMemberDonate.xsd" xmlns="http://tempuri.org/dsMemberDonate.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsMemberDonate" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsMemberDonate" msprop:Generator_DataSetName="dsMemberDonate" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtMemberInfo" msprop:Generator_UserTableName="dtMemberInfo" msprop:Generator_RowDeletedName="dtMemberInfoRowDeleted" msprop:Generator_RowChangedName="dtMemberInfoRowChanged" msprop:Generator_RowClassName="dtMemberInfoRow" msprop:Generator_RowChangingName="dtMemberInfoRowChanging" msprop:Generator_RowEvArgName="dtMemberInfoRowChangeEvent" msprop:Generator_RowEvHandlerName="dtMemberInfoRowChangeEventHandler" msprop:Generator_TableClassName="dtMemberInfoDataTable" msprop:Generator_TableVarName="tabledtMemberInfo" msprop:Generator_RowDeletingName="dtMemberInfoRowDeleting" msprop:Generator_TablePropName="dtMemberInfo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MemberId" msprop:Generator_UserColumnName="MemberId" msprop:Generator_ColumnPropNameInRow="MemberId" msprop:Generator_ColumnVarNameInTable="columnMemberId" msprop:Generator_ColumnPropNameInTable="MemberIdColumn" type="xs:int" />
+              <xs:element name="Name" msprop:Generator_UserColumnName="Name" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInTable="NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Address" msprop:Generator_UserColumnName="Address" msprop:Generator_ColumnPropNameInRow="Address" msprop:Generator_ColumnVarNameInTable="columnAddress" msprop:Generator_ColumnPropNameInTable="AddressColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="City" msprop:Generator_UserColumnName="City" msprop:Generator_ColumnPropNameInRow="City" msprop:Generator_ColumnVarNameInTable="columnCity" msprop:Generator_ColumnPropNameInTable="CityColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="State" msprop:Generator_UserColumnName="State" msprop:Generator_ColumnPropNameInRow="State" msprop:Generator_ColumnVarNameInTable="columnState" msprop:Generator_ColumnPropNameInTable="StateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Zipcode" msprop:Generator_UserColumnName="Zipcode" msprop:Generator_ColumnPropNameInRow="Zipcode" msprop:Generator_ColumnVarNameInTable="columnZipcode" msprop:Generator_ColumnPropNameInTable="ZipcodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Startdate" msprop:Generator_UserColumnName="Startdate" msprop:Generator_ColumnPropNameInRow="Startdate" msprop:Generator_ColumnVarNameInTable="columnStartdate" msprop:Generator_ColumnPropNameInTable="StartdateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Enddate" msprop:Generator_UserColumnName="Enddate" msprop:Generator_ColumnPropNameInRow="Enddate" msprop:Generator_ColumnVarNameInTable="columnEnddate" msprop:Generator_ColumnPropNameInTable="EnddateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Issuedate" msprop:Generator_UserColumnName="Issuedate" msprop:Generator_ColumnPropNameInRow="Issuedate" msprop:Generator_ColumnVarNameInTable="columnIssuedate" msprop:Generator_ColumnPropNameInTable="IssuedateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ChurchId" msprop:Generator_UserColumnName="ChurchId" msprop:Generator_ColumnPropNameInRow="ChurchId" msprop:Generator_ColumnVarNameInTable="columnChurchId" msprop:Generator_ColumnPropNameInTable="ChurchIdColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Spouse" msprop:Generator_UserColumnName="Spouse" msprop:Generator_ColumnVarNameInTable="columnSpouse" msprop:Generator_ColumnPropNameInRow="Spouse" msprop:Generator_ColumnPropNameInTable="SpouseColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtDonateDetail" msprop:Generator_UserTableName="dtDonateDetail" msprop:Generator_RowDeletedName="dtDonateDetailRowDeleted" msprop:Generator_RowChangedName="dtDonateDetailRowChanged" msprop:Generator_RowClassName="dtDonateDetailRow" msprop:Generator_RowChangingName="dtDonateDetailRowChanging" msprop:Generator_RowEvArgName="dtDonateDetailRowChangeEvent" msprop:Generator_RowEvHandlerName="dtDonateDetailRowChangeEventHandler" msprop:Generator_TableClassName="dtDonateDetailDataTable" msprop:Generator_TableVarName="tabledtDonateDetail" msprop:Generator_RowDeletingName="dtDonateDetailRowDeleting" msprop:Generator_TablePropName="dtDonateDetail">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MemberId" msprop:Generator_UserColumnName="MemberId" msprop:Generator_ColumnPropNameInRow="MemberId" msprop:Generator_ColumnVarNameInTable="columnMemberId" msprop:Generator_ColumnPropNameInTable="MemberIdColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="DonateDate" msprop:Generator_UserColumnName="DonateDate" msprop:Generator_ColumnPropNameInRow="DonateDate" msprop:Generator_ColumnVarNameInTable="columnDonateDate" msprop:Generator_ColumnPropNameInTable="DonateDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Amount" msprop:Generator_UserColumnName="Amount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInTable="AmountColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Id" msprop:Generator_UserColumnName="Id" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInTable="IdColumn" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtChurch" msprop:Generator_UserTableName="dtChurch" msprop:Generator_RowDeletedName="dtChurchRowDeleted" msprop:Generator_RowChangedName="dtChurchRowChanged" msprop:Generator_RowClassName="dtChurchRow" msprop:Generator_RowChangingName="dtChurchRowChanging" msprop:Generator_RowEvArgName="dtChurchRowChangeEvent" msprop:Generator_RowEvHandlerName="dtChurchRowChangeEventHandler" msprop:Generator_TableClassName="dtChurchDataTable" msprop:Generator_TableVarName="tabledtChurch" msprop:Generator_RowDeletingName="dtChurchRowDeleting" msprop:Generator_TablePropName="dtChurch">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ChurchId" msprop:Generator_UserColumnName="ChurchId" msprop:Generator_ColumnPropNameInRow="ChurchId" msprop:Generator_ColumnVarNameInTable="columnChurchId" msprop:Generator_ColumnPropNameInTable="ChurchIdColumn" type="xs:int" />
+              <xs:element name="Address" msprop:Generator_UserColumnName="Address" msprop:Generator_ColumnPropNameInRow="Address" msprop:Generator_ColumnVarNameInTable="columnAddress" msprop:Generator_ColumnPropNameInTable="AddressColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="City" msprop:Generator_UserColumnName="City" msprop:Generator_ColumnPropNameInRow="City" msprop:Generator_ColumnVarNameInTable="columnCity" msprop:Generator_ColumnPropNameInTable="CityColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="State" msprop:Generator_UserColumnName="State" msprop:Generator_ColumnPropNameInRow="State" msprop:Generator_ColumnVarNameInTable="columnState" msprop:Generator_ColumnPropNameInTable="StateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Zipcode" msprop:Generator_UserColumnName="Zipcode" msprop:Generator_ColumnPropNameInRow="Zipcode" msprop:Generator_ColumnVarNameInTable="columnZipcode" msprop:Generator_ColumnPropNameInTable="ZipcodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Tax_Id" msprop:Generator_UserColumnName="Tax_Id" msprop:Generator_ColumnPropNameInRow="Tax_Id" msprop:Generator_ColumnVarNameInTable="columnTax_Id" msprop:Generator_ColumnPropNameInTable="Tax_IdColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Signature" msprop:Generator_UserColumnName="Signature" msprop:Generator_ColumnPropNameInRow="Signature" msprop:Generator_ColumnVarNameInTable="columnSignature" msprop:Generator_ColumnPropNameInTable="SignatureColumn" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="Signer" msprop:Generator_UserColumnName="Signer" msprop:Generator_ColumnPropNameInRow="Signer" msprop:Generator_ColumnVarNameInTable="columnSigner" msprop:Generator_ColumnPropNameInTable="SignerColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ChurchName" msprop:Generator_UserColumnName="ChurchName" msprop:Generator_ColumnPropNameInRow="ChurchName" msprop:Generator_ColumnVarNameInTable="columnChurchName" msprop:Generator_ColumnPropNameInTable="ChurchNameColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dtMemberInfo" />
+      <xs:field xpath="mstns:MemberId" />
+    </xs:unique>
+    <xs:unique name="dtDonateDetail_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dtDonateDetail" />
+      <xs:field xpath="mstns:Id" />
+    </xs:unique>
+    <xs:unique name="dtChurch_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dtChurch" />
+      <xs:field xpath="mstns:ChurchId" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="dtMemberInfo_dtDonateDetail" msdata:parent="dtMemberInfo" msdata:child="dtDonateDetail" msdata:parentkey="MemberId" msdata:childkey="MemberId" msprop:Generator_UserRelationName="dtMemberInfo_dtDonateDetail" msprop:Generator_RelationVarName="relationdtMemberInfo_dtDonateDetail" msprop:Generator_UserChildTable="dtDonateDetail" msprop:Generator_UserParentTable="dtMemberInfo" msprop:Generator_ParentPropName="dtMemberInfoRow" msprop:Generator_ChildPropName="GetdtDonateDetailRows" />
+      <msdata:Relationship name="dtChurch_dtMemberInfo" msdata:parent="dtChurch" msdata:child="dtMemberInfo" msdata:parentkey="ChurchId" msdata:childkey="ChurchId" msprop:Generator_UserRelationName="dtChurch_dtMemberInfo" msprop:Generator_RelationVarName="relationdtChurch_dtMemberInfo" msprop:Generator_UserChildTable="dtMemberInfo" msprop:Generator_UserParentTable="dtChurch" msprop:Generator_ParentPropName="dtChurchRow" msprop:Generator_ChildPropName="GetdtMemberInfoRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

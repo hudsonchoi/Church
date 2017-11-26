@@ -1,0 +1,886 @@
+E:\Dothan\Harvest\bin\Release\Harvest.exe.config
+E:\Dothan\Harvest\obj\Release\Harvest.exe
+E:\Dothan\Harvest\obj\Release\Harvest.pdb
+E:\Dothan\Harvest\bin\Release\Harvest.exe.manifest
+E:\Dothan\Harvest\bin\Release\Harvest.application
+E:\Dothan\Harvest\bin\Release\Harvest.exe
+E:\Dothan\Harvest\bin\Release\Harvest.pdb
+E:\Dothan\Harvest\bin\Release\Dothan.dll
+E:\Dothan\Harvest\bin\Release\Dothan.Library.dll
+E:\Dothan\Harvest\bin\Release\Dothan.pdb
+E:\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+E:\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+E:\Dothan\Harvest\obj\Release\Harvest.dlg_baptism.resources
+E:\Dothan\Harvest\obj\Release\Harvest.dlg_cell.resources
+E:\Dothan\Harvest\obj\Release\Harvest.dlg_cellroles.resources
+E:\Dothan\Harvest\obj\Release\Harvest.dlg_division.resources
+E:\Dothan\Harvest\obj\Release\Harvest.dlg_donatetype.resources
+E:\Dothan\Harvest\obj\Release\Harvest.dlg_fellowship.resources
+E:\Dothan\Harvest\obj\Release\Harvest.dlg_ministry.resources
+E:\Dothan\Harvest\obj\Release\Harvest.dlg_minsitry_roles.resources
+E:\Dothan\Harvest\obj\Release\Harvest.dlg_serachmember.resources
+E:\Dothan\Harvest\obj\Release\Harvest.dlg_statuslabel.resources
+E:\Dothan\Harvest\obj\Release\Harvest.dlg_subdivision.resources
+E:\Dothan\Harvest\obj\Release\Harvest.dlg_zipcode.resources
+E:\Dothan\Harvest\obj\Release\Harvest.frm_cell.resources
+E:\Dothan\Harvest\obj\Release\Harvest.frm_fellowship.resources
+E:\Dothan\Harvest\obj\Release\Harvest.frm_Main.resources
+E:\Dothan\Harvest\obj\Release\Harvest.frm_ministry.resources
+E:\Dothan\Harvest\obj\Release\Harvest.LoginForm.resources
+E:\Dothan\Harvest\obj\Release\Harvest.member_new.resources
+E:\Dothan\Harvest\obj\Release\Harvest.Properties.Resources.resources
+E:\Dothan\Harvest\obj\Release\Harvest.WinPart.resources
+E:\Dothan\Harvest\obj\Release\Harvest.csproj.GenerateResource.Cache
+E:\Dothan\Harvest\obj\Release\Harvest.exe.manifest
+E:\Dothan\Harvest\obj\Release\Harvest.application
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.exe.config
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.exe
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.pdb
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_baptism.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_cell.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_cellroles.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_division.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_donatetype.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_entrytype.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_family.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_fellowship.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_editdonator.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_ministry.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_minsitry_roles.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_rolesset.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_searchdoner.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_selectdivision.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_serachmember.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_statuslabel.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_subdivision.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_zipcode.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.FrmCash.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.frm_cell.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.frm_fellowship.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.frm_Main.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.frm_member.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.frm_memberinfo.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.frm_ministry.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.frm_newdonates.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.LoginForm.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.member_new.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.Properties.Resources.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.WinPart.resources
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.csproj.GenerateResource.Cache
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.exe.manifest
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.application
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.exe
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.pdb
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.dll
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Library.dll
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.Business.dll
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.DataAccess.dll
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.dll
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.dll
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.dll
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.pdb
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.DataAccess.pdb
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.pdb
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.Business.pdb
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.pdb
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.pdb
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.exe.manifest
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.application
+C:\Users\Developer\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.FrmUsers.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Harvest.exe.config
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.exe
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.pdb
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_baptism.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_cell.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_cellroles.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_division.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_donatetype.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_entrytype.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_family.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_fellowship.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_editdonator.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_ministry.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_minsitry_roles.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_rolesset.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_searchdoner.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_selectdivision.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_serachmember.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_statuslabel.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_subdivision.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.dlg_zipcode.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.FrmCash.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.FrmUserEdit.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.FrmUsers.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.frm_cell.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.frm_fellowship.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.frm_Main.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.frm_member.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.frm_memberinfo.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.frm_ministry.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.frm_newdonates.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.LoginForm.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.member_new.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.Properties.Resources.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.WinPart.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.csproj.GenerateResource.Cache
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Harvest.exe.manifest
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Harvest.application
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Harvest.exe
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Harvest.pdb
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Dothan.dll
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Dothan.Library.dll
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Harvest.Business.dll
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Harvest.DataAccess.dll
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.dll
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.dll
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.dll
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.pdb
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Harvest.DataAccess.pdb
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.pdb
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Harvest.Business.pdb
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.pdb
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\bin\Release\Dothan.pdb
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.exe.manifest
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.application
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.exe.config
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.exe
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.pdb
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_baptism.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_cell.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_cellroles.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_division.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_donatetype.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_entrytype.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_family.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_fellowship.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_editdonator.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_ministry.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_minsitry_roles.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_rolesset.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_searchdoner.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_selectdivision.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_serachmember.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_statuslabel.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_subdivision.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.dlg_zipcode.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.FrmCash.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.FrmRoleList.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.FrmUserEdit.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.FrmUsers.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.frm_cell.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.frm_fellowship.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.frm_Main.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.frm_member.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.frm_memberinfo.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.frm_ministry.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.frm_newdonates.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.LoginForm.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.member_new.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.Properties.Resources.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.WinPart.resources
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.csproj.GenerateResource.Cache
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.exe.manifest
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.application
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.exe
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.pdb
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.dll
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Library.dll
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.Business.dll
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.DataAccess.dll
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.dll
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.dll
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.dll
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.pdb
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.DataAccess.pdb
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.pdb
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.Business.pdb
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.pdb
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\bin\Release\Dothan.pdb
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.exe.manifest
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.application
+C:\Users\Luxgem_IT\Documents\Projects\Dothan\Harvest\obj\Release\Harvest.FrmDivList.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.FrmDivList.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.FrmDonateBookes.resources
+D:\Project\Dothan1-NJChodae\021511\Dothan\Harvest\obj\Release\Harvest.FrmRoleList.resources
+E:\021511\Dothan\Harvest\bin\Release\Harvest.exe.config
+E:\021511\Dothan\Harvest\obj\Release\Harvest.exe
+E:\021511\Dothan\Harvest\obj\Release\Harvest.pdb
+E:\021511\Dothan\Harvest\bin\Release\Harvest.exe.manifest
+E:\021511\Dothan\Harvest\bin\Release\Harvest.application
+E:\021511\Dothan\Harvest\bin\Release\Harvest.exe
+E:\021511\Dothan\Harvest\bin\Release\Harvest.pdb
+E:\021511\Dothan\Harvest\bin\Release\Dothan.dll
+E:\021511\Dothan\Harvest\bin\Release\Dothan.Library.dll
+E:\021511\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+E:\021511\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+E:\021511\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+E:\021511\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+E:\021511\Dothan\Harvest\bin\Release\Harvest.Business.dll
+E:\021511\Dothan\Harvest\bin\Release\Harvest.DataAccess.dll
+E:\021511\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.dll
+E:\021511\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.dll
+E:\021511\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.dll
+E:\021511\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+E:\021511\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.pdb
+E:\021511\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+E:\021511\Dothan\Harvest\bin\Release\Harvest.DataAccess.pdb
+E:\021511\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.pdb
+E:\021511\Dothan\Harvest\bin\Release\Harvest.Business.pdb
+E:\021511\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+E:\021511\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+E:\021511\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.pdb
+E:\021511\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+E:\021511\Dothan\Harvest\bin\Release\Dothan.pdb
+E:\021511\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_baptism.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_cell.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_cellroles.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_division.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_donatetype.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_entrytype.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_family.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_fellowship.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_editdonator.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_ministry.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_minsitry_roles.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_rolesset.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_searchdoner.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_selectdivision.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_serachmember.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_statuslabel.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_subdivision.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_zipcode.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.FrmCash.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.FrmDivList.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.FrmDonateBookes.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.FrmRoleList.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.FrmUserEdit.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.FrmUsers.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.frm_cell.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.frm_fellowship.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.frm_Main.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.frm_member.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.frm_ministry.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.frm_newdonates.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.LoginForm.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.member_new.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.Properties.Resources.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.WinPart.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.csproj.GenerateResource.Cache
+E:\021511\Dothan\Harvest\obj\Release\Harvest.exe.manifest
+E:\021511\Dothan\Harvest\obj\Release\Harvest.application
+H:\021511\Dothan\Harvest\bin\Release\Harvest.exe.config
+H:\021511\Dothan\Harvest\obj\Release\Harvest.exe
+H:\021511\Dothan\Harvest\obj\Release\Harvest.pdb
+H:\021511\Dothan\Harvest\bin\Release\Harvest.exe.manifest
+H:\021511\Dothan\Harvest\bin\Release\Harvest.application
+H:\021511\Dothan\Harvest\bin\Release\Harvest.exe
+H:\021511\Dothan\Harvest\bin\Release\Harvest.pdb
+H:\021511\Dothan\Harvest\bin\Release\Dothan.dll
+H:\021511\Dothan\Harvest\bin\Release\Dothan.Library.dll
+H:\021511\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+H:\021511\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+H:\021511\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+H:\021511\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+H:\021511\Dothan\Harvest\bin\Release\Harvest.Business.dll
+H:\021511\Dothan\Harvest\bin\Release\Harvest.DataAccess.dll
+H:\021511\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.dll
+H:\021511\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.dll
+H:\021511\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.dll
+H:\021511\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+H:\021511\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.pdb
+H:\021511\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+H:\021511\Dothan\Harvest\bin\Release\Harvest.DataAccess.pdb
+H:\021511\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.pdb
+H:\021511\Dothan\Harvest\bin\Release\Harvest.Business.pdb
+H:\021511\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+H:\021511\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+H:\021511\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.pdb
+H:\021511\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+H:\021511\Dothan\Harvest\bin\Release\Dothan.pdb
+H:\021511\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_baptism.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_cell.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_cellroles.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_division.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_donatetype.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_entrytype.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_family.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_fellowship.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_editdonator.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_ministry.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_minsitry_roles.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_rolesset.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_searchdoner.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_selectdivision.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_serachmember.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_statuslabel.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_subdivision.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_zipcode.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.FrmCash.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.FrmDivList.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.FrmDonateBookes.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.FrmRoleList.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.FrmUserEdit.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.FrmUsers.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.frm_cell.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.frm_fellowship.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.frm_Main.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.frm_member.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.frm_ministry.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.frm_newdonates.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.LoginForm.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.member_new.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.Properties.Resources.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.WinPart.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.csproj.GenerateResource.Cache
+H:\021511\Dothan\Harvest\obj\Release\Harvest.exe.manifest
+H:\021511\Dothan\Harvest\obj\Release\Harvest.application
+H:\021511\Dothan\Harvest\obj\Release\Harvest.FrmPictureUploader.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_jobtypes.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.FrmPictureUploader.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_jobtypes.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.FrmStatusChange.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.FrmStatusChange.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.FrmViewStatusLog.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.frm_MembersInfo.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberExportExcel.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_visittype.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberVisitList.resources
+H:\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberVisitDetail.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.dlg_visittype.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberExportExcel.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberVisitDetail.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberVisitList.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.FrmViewStatusLog.resources
+E:\021511\Dothan\Harvest\obj\Release\Harvest.frm_MembersInfo.resources
+D:\Project\021511\Dothan\Harvest\bin\Release\Harvest.exe.config
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.exe
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.pdb
+D:\Project\021511\Dothan\Harvest\bin\Release\Harvest.exe.manifest
+D:\Project\021511\Dothan\Harvest\bin\Release\Harvest.application
+D:\Project\021511\Dothan\Harvest\bin\Release\Harvest.exe
+D:\Project\021511\Dothan\Harvest\bin\Release\Harvest.pdb
+D:\Project\021511\Dothan\Harvest\bin\Release\Dothan.dll
+D:\Project\021511\Dothan\Harvest\bin\Release\Dothan.Library.dll
+D:\Project\021511\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+D:\Project\021511\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+D:\Project\021511\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+D:\Project\021511\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+D:\Project\021511\Dothan\Harvest\bin\Release\Harvest.Business.dll
+D:\Project\021511\Dothan\Harvest\bin\Release\Harvest.DataAccess.dll
+D:\Project\021511\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.dll
+D:\Project\021511\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.dll
+D:\Project\021511\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.dll
+D:\Project\021511\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+D:\Project\021511\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.pdb
+D:\Project\021511\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+D:\Project\021511\Dothan\Harvest\bin\Release\Harvest.DataAccess.pdb
+D:\Project\021511\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.pdb
+D:\Project\021511\Dothan\Harvest\bin\Release\Harvest.Business.pdb
+D:\Project\021511\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+D:\Project\021511\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+D:\Project\021511\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.pdb
+D:\Project\021511\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+D:\Project\021511\Dothan\Harvest\bin\Release\Dothan.pdb
+D:\Project\021511\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_baptism.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_cell.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_cellroles.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_division.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_donatetype.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_entrytype.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_family.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_fellowship.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_editdonator.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_jobtypes.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_ministry.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_minsitry_roles.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_rolesset.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_searchdoner.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_selectdivision.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_serachmember.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_statuslabel.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_subdivision.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_visittype.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_zipcode.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.FrmCash.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.FrmDivList.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.FrmDonateBookes.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberExportExcel.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberVisitDetail.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberVisitList.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.FrmRoleList.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.FrmStatusChange.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.FrmUserEdit.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.FrmUsers.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.FrmViewStatusLog.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.frm_cell.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.frm_fellowship.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.frm_Main.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.frm_member.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.frm_MembersInfo.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.frm_ministry.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.frm_newdonates.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.LoginForm.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.member_new.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.Properties.Resources.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.WinPart.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.csproj.GenerateResource.Cache
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.exe.manifest
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.application
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Harvest.exe.config
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.exe
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.pdb
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_baptism.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_cell.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_cellroles.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_division.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_donatetype.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_entrytype.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_family.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_fellowship.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_editdonator.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_jobtypes.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_ministry.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_minsitry_roles.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_rolesset.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_searchdoner.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_selectdivision.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_serachmember.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_statuslabel.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_subdivision.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_visittype.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_zipcode.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.FrmCash.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.FrmDivList.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.FrmDonateBookes.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberVisitDetail.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberVisitList.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.FrmRoleList.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.FrmStatusChange.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.FrmUserEdit.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.FrmUsers.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.FrmViewStatusLog.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.frm_cell.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.frm_fellowship.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.frm_Main.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.frm_member.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.frm_MembersInfo.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.frm_ministry.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.frm_newdonates.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.LoginForm.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.member_new.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.Properties.Resources.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.WinPart.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.csproj.GenerateResource.Cache
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Harvest.exe.manifest
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Harvest.application
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Harvest.exe
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Harvest.pdb
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Dothan.dll
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Dothan.Library.dll
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Harvest.Business.dll
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Harvest.DataAccess.dll
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.dll
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.dll
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.dll
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.pdb
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Harvest.DataAccess.pdb
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.pdb
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Harvest.Business.pdb
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.pdb
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Dothan.pdb
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.exe.manifest
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.application
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_SetSubDivision.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.dlg_SetSubDivision.resources
+D:\Project\021511\Dothan\Harvest\obj\Release\Harvest.FrmDonateWeekly.resources
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.exe.config
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.exe
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.pdb
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.exe.manifest
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.application
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.exe
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.pdb
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.dll
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Library.dll
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.Business.dll
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.DataAccess.dll
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.dll
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.dll
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.dll
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.pdb
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.DataAccess.pdb
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.pdb
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.Business.pdb
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.pdb
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.pdb
+E:\Dothan\021511\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_baptism.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_cell.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_cellroles.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_division.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_donatetype.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_entrytype.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_family.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_fellowship.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_editdonator.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_jobtypes.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_ministry.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_minsitry_roles.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_rolesset.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_searchdoner.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_selectdivision.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_serachmember.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_SetSubDivision.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_statuslabel.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_subdivision.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_visittype.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_zipcode.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmCash.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmDivList.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmDonateBookes.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberExportExcel.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberVisitDetail.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberVisitList.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmRoleList.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmStatusChange.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmUserEdit.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmUsers.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmViewStatusLog.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.frm_cell.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.frm_fellowship.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.frm_Main.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.frm_member.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.frm_MembersInfo.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.frm_ministry.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.frm_newdonates.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.LoginForm.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.member_new.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.Properties.Resources.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.WinPart.resources
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.csproj.GenerateResource.Cache
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.exe.manifest
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.application
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.exe.config
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.exe
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.pdb
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.exe.manifest
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.application
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.exe
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.pdb
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.dll
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Library.dll
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.Business.dll
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.DataAccess.dll
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.dll
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.dll
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.dll
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.pdb
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.DataAccess.pdb
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.pdb
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.Business.pdb
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.pdb
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Dothan.pdb
+H:\Dothan\021511\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_baptism.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_cell.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_cellroles.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_division.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_donatetype.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_entrytype.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_family.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_fellowship.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_editdonator.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_jobtypes.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_ministry.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_minsitry_roles.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_rolesset.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_searchdoner.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_selectdivision.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_serachmember.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_SetSubDivision.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_statuslabel.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_subdivision.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_visittype.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_zipcode.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmCash.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmDivList.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmDonateBookes.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberExportExcel.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberVisitDetail.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmMemberVisitList.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmRoleList.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmStatusChange.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmUserEdit.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmUsers.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmViewStatusLog.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.frm_cell.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.frm_fellowship.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.frm_Main.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.frm_member.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.frm_MembersInfo.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.frm_ministry.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.frm_newdonates.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.LoginForm.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.member_new.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.Properties.Resources.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.WinPart.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.csproj.GenerateResource.Cache
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.exe.manifest
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.application
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.dll
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Microsoft.Vbe.Interop.dll
+H:\Dothan\021511\Dothan\Harvest\bin\Release\office.dll
+H:\Dothan\021511\Dothan\Harvest\bin\Release\office.xml
+H:\Dothan\021511\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.xml
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmExportExcel.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.csproj.ResolveComReference.cache
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.csproj.ResolveComReference.cache
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Microsoft.Vbe.Interop.dll
+E:\Dothan\021511\Dothan\Harvest\bin\Release\office.dll
+E:\Dothan\021511\Dothan\Harvest\bin\Release\office.xml
+E:\Dothan\021511\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.xml
+E:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.FrmExportExcel.resources
+H:\Dothan\021511\Dothan\Harvest\obj\Release\Harvest.dlg_cellmember.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Harvest.exe.config
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.csproj.ResolveComReference.cache
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.exe
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Harvest.exe.manifest
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Harvest.application
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Harvest.exe
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Harvest.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Dothan.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Dothan.Library.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Harvest.Business.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Harvest.DataAccess.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Harvest.DataAccess.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Harvest.Business.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\Dothan.pdb
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_cellmember.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_baptism.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_cell.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_cellroles.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_Comment.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_division.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_donatetype.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_entrytype.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_family.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_fellowship.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_editdonator.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_jobtypes.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_ministry.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_minsitry_roles.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_rolesset.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_RptCells.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_searchdoner.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_selectdivision.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_serachmember.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_SetSubDivision.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_statuslabel.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_subdivision.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_visittype.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.dlg_zipcode.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.FrmCash.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.FrmDivList.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.FrmDonateBookes.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.FrmExportExcel.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.FrmMemberVisitDetail.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.FrmMemberVisitList.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.FrmRoleList.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.FrmStatusChange.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.FrmUserEdit.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.FrmUsers.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.FrmViewStatusLog.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.frm_cell.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.frm_fellowship.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.frm_Main.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.frm_member.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.frm_MembersInfo.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.frm_ministry.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.frm_newdonates.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.LoginForm.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.member_new.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.Properties.Resources.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.WinPart.resources
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.csproj.GenerateResource.Cache
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.exe.manifest
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\obj\Release\Harvest.application
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\SortedDataGridView.dll
+C:\Users\Luxgem_IT\Documents\Dothan\Dothan\Harvest\bin\Release\SortedDataGridView.pdb
+D:\Project\Dothan1-NJChodae\Dothan\Harvest\bin\Release\Harvest.exe
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_cellmember.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_Comment.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_importexcel.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_RptCells.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.dlg_statuslog.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\obj\Release\Harvest.FrmExportExcel.resources
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Luxgem_IT\Documents\021511\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Harvest.exe.config
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.exe
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_cellmember.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_baptism.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_cell.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_cellroles.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_Comment.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_division.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_donatetype.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_entrytype.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_family.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_fellowship.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_editdonator.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_importexcel.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_jobtypes.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_ministry.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_minsitry_roles.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_rolesset.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_RptCells.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_searchdoner.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_selectdivision.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_serachmember.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_SetSubDivision.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_statuslabel.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_statuslog.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_subdivision.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_visittype.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.dlg_zipcode.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.FrmCash.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.FrmDivList.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.FrmDonateBookes.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.FrmExportExcel.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.FrmMemberVisitDetail.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.FrmMemberVisitList.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.FrmRoleList.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.FrmStatusChange.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.FrmUserEdit.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.FrmUsers.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.FrmViewStatusLog.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.frm_cell.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.frm_cellreport.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.frm_fellowship.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.frm_Main.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.frm_member.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.frm_MembersInfo.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.frm_ministry.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.frm_newdonates.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.LoginForm.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.member_new.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.Properties.Resources.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.WinPart.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.csproj.GenerateResource.Cache
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Harvest.exe.manifest
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Harvest.application
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Harvest.exe
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Harvest.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Library.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Harvest.Business.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Harvest.DataAccess.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\office.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.CrystalReportsTools.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Harvest.Shared.CrystalReports.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.BusinessObject.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Harvest.DataAccess.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Harvest.Shared.Interface.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Harvest.Business.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Library.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.RemoteAccess.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Harvest.Shared.DataSet.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.Report.DataAccess.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\office.xml
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\bin\Release\Dothan.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.exe.manifest
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.application
+C:\Users\Joshua Kim\Desktop\Dothan\Harvest\obj\Release\Harvest.exe.licenses

@@ -1,0 +1,209 @@
+﻿body 
+{
+	background-image:url(images/bg_top.gif);
+	background-repeat:repeat-x;
+	height: 100%;
+	font-size: 100%;
+	margin: 0 0 0 0;
+	padding: 0;
+	font-family: 맑은고딕, 돋움, Verdana, sans-serif;
+	text-align: center;
+	text-decoration: none;
+}
+.page
+{
+	width:809px;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.loginheader
+{
+background-image:url(images/login_img.jpg);
+background-repeat:no-repeat;
+	width:630px;
+	height:444px;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.loginmain
+{
+
+	width:630px;
+	height:284px;
+	padding-top:160px;
+}
+.header1
+{
+	background-image:url(images/pwchange_img.jpg);
+background-repeat:no-repeat;
+	width:630px;
+	height:444px;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.ListHeaderstyle
+{
+		background-image:url(images/bg_list_title.gif);
+	background-repeat:repeat-x;
+	font-family:맑은 고딕,돋움;
+	font-size: 10pt;
+	border-collapse:collapse; 
+	line-height:30px;
+    font-weight: bold;
+    color : #ffffff;
+}
+
+.ContentList
+{
+	background-color : #ffffff;
+	font-family:맑은 고딕,돋움;
+	font-size: 10pt;
+	padding:0.5em 0em 0.5em 0.5em;
+	 border-bottom: 1px solid #ccc;
+}
+
+.ContentBox
+{
+	background-color : #ffffff;
+	font-family:맑은 고딕,돋움;
+	font-size: 10pt;
+	line-height:28px;
+	border-bottom: 1px solid #ccc;
+	
+	 border-right: 1px solid #ccc;
+	 border-collapse:collapse; 
+}
+.reportHeader
+{
+	color : #595454;
+	background-color : #eaf6d0;
+	font-family:맑은 고딕,돋움;
+	font-size: 10pt;
+	line-height:28px;
+	font-weight:bold;
+	 border-bottom: 1px solid #ccc;
+	 
+	 border-right: 1px solid #ccc;
+	 border-collapse:collapse; 
+}
+.tableHeader
+{ 
+	border-top: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	
+}
+	
+.tableleft
+{
+	border-left: 1px solid #ccc;
+}	
+.contextheader2
+{
+	 border-top: 1px solid #ccc;
+	 border-left: 1px solid #ccc;
+}
+
+.inputArea   
+{
+	
+	 border-collapse:collapse; 
+	 border: 0;
+	 padding-left: 5px;
+     font-size  : 10pt;
+   
+     display: block;
+      font-family:맑은 고딕,돋움;
+} 
+.contextstyle2
+{
+	 padding: 2px,2px,2px,5px; 
+}
+.mGrid {    
+    width: 100%;    
+    background-color: #fff;      
+    border: 1px solid #ccc;    
+    border-collapse:collapse;    
+}   
+.mGrid td {    
+    padding: 0px,0px,0px,5px;    
+    font-family:맑은 고딕,돋움;
+    border: 1px solid #ccc;     
+    color : #333;    
+    font-size: 10pt;
+	height:28px;
+}
+.mGrid Label
+{
+	 padding: 2px,0px,2px,5px;
+	line-height:17px;
+}   
+.StyleContext2
+{
+	 padding: 2px,0px,2px,5px;
+}
+.mGrid th {    
+    color : #595454;
+	background-color : #eaf6d0;
+	font-family:맑은 고딕,돋움;
+	font-size: 10pt;
+	line-height:28px;
+	font-weight:bold;
+    border-left:1px solid #ccc;   
+}   
+.ContentBox1
+{
+	background-color : #ffffff;
+	font-family:맑은 고딕,돋움;
+	font-size: 10pt;
+	line-height:28px;
+	border-bottom: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	 border-right: 1px solid #ccc;
+	 border-collapse:collapse; 
+}
+.ContentBox2
+{
+	background-color : #eaf6d0;
+	font-family:맑은 고딕,돋움;
+	font-size: 10pt;
+	line-height:28px;
+	border-bottom: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	 border-right: 1px solid #ccc;
+	 border-collapse:collapse; 
+}
+.ContentBox3
+{
+	background-color : #22b00c;
+		font-family:맑은 고딕,돋움;
+	font-size: 10pt;
+	border-collapse:collapse; 
+	line-height:30px;
+    font-weight: bold;
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+	 border-right: 1px solid #ccc;
+    color : #ffffff;
+}
+.ContentBox4
+{
+	background-color : #22b00c;
+		font-family:맑은 고딕,돋움;
+	font-size: 10pt;
+	border-collapse:collapse; 
+	line-height:30px;
+    font-weight: bold;
+    color : #ffffff;
+}
+.stylelabel
+{
+		font-family:맑은 고딕,돋움;
+	font-size: 10pt;
+	 color : #333;
+}

@@ -1,0 +1,128 @@
+D:\Project\Dothan1-NJChodae\Dothan\Dothan\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Dothan1-NJChodae\Dothan\Dothan\obj\Debug\Dothan.Properties.Resources.resources
+D:\Project\Dothan1-NJChodae\Dothan\Dothan\obj\Debug\Dothan.csproj.GenerateResource.Cache
+D:\Project\Dothan1-NJChodae\Dothan\Dothan\bin\Debug\Dothan.dll
+D:\Project\Dothan1-NJChodae\Dothan\Dothan\bin\Debug\Dothan.pdb
+D:\Project\Dothan1-NJChodae\Dothan\Dothan\obj\Debug\Dothan.dll
+D:\Project\Dothan1-NJChodae\Dothan\Dothan\obj\Debug\Dothan.pdb
+D:\Project\Dothan1-NJChodae\Dothan\Dothan\bin\Debug\Dothan.dll.config
+C:\Users\JNS\Desktop\Dothan\Dothan\bin\Debug\Dothan.dll.config
+C:\Users\JNS\Desktop\Dothan\Dothan\bin\Debug\Dothan.dll
+C:\Users\JNS\Desktop\Dothan\Dothan\bin\Debug\Dothan.pdb
+C:\Users\JNS\Desktop\Dothan\Dothan\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JNS\Desktop\Dothan\Dothan\obj\Debug\Dothan.Properties.Resources.resources
+C:\Users\JNS\Desktop\Dothan\Dothan\obj\Debug\Dothan.csproj.GenerateResource.Cache
+C:\Users\JNS\Desktop\Dothan\Dothan\obj\Debug\Dothan.dll
+C:\Users\JNS\Desktop\Dothan\Dothan\obj\Debug\Dothan.pdb
+D:\Document\Dothan\Dothan\bin\Debug\Dothan.dll.config
+D:\Document\Dothan\Dothan\bin\Debug\Dothan.dll
+D:\Document\Dothan\Dothan\bin\Debug\Dothan.pdb
+D:\Document\Dothan\Dothan\obj\Debug\ResolveAssemblyReference.cache
+D:\Document\Dothan\Dothan\obj\Debug\Dothan.Properties.Resources.resources
+D:\Document\Dothan\Dothan\obj\Debug\Dothan.csproj.GenerateResource.Cache
+D:\Document\Dothan\Dothan\obj\Debug\Dothan.dll
+D:\Document\Dothan\Dothan\obj\Debug\Dothan.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Dothan\bin\Debug\Dothan.dll.config
+C:\Users\Joshua Kim\Desktop\Dothan\Dothan\bin\Debug\Dothan.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Dothan\bin\Debug\Dothan.pdb
+C:\Users\Joshua Kim\Desktop\Dothan\Dothan\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joshua Kim\Desktop\Dothan\Dothan\obj\Debug\Dothan.Properties.Resources.resources
+C:\Users\Joshua Kim\Desktop\Dothan\Dothan\obj\Debug\Dothan.csproj.GenerateResource.Cache
+C:\Users\Joshua Kim\Desktop\Dothan\Dothan\obj\Debug\Dothan.dll
+C:\Users\Joshua Kim\Desktop\Dothan\Dothan\obj\Debug\Dothan.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Dothan\bin\Debug\Dothan.dll.config
+C:\Users\Luxgem_IT\Desktop\Dothan\Dothan\bin\Debug\Dothan.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Dothan\bin\Debug\Dothan.pdb
+C:\Users\Luxgem_IT\Desktop\Dothan\Dothan\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luxgem_IT\Desktop\Dothan\Dothan\obj\Debug\Dothan.Properties.Resources.resources
+C:\Users\Luxgem_IT\Desktop\Dothan\Dothan\obj\Debug\Dothan.csproj.GenerateResource.Cache
+C:\Users\Luxgem_IT\Desktop\Dothan\Dothan\obj\Debug\Dothan.dll
+C:\Users\Luxgem_IT\Desktop\Dothan\Dothan\obj\Debug\Dothan.pdb
+E:\00Project\Dothan_04_20\Dothan\bin\Debug\Dothan.dll.config
+E:\00Project\Dothan_04_20\Dothan\bin\Debug\Dothan.dll
+E:\00Project\Dothan_04_20\Dothan\bin\Debug\Dothan.pdb
+E:\00Project\Dothan_04_20\Dothan\obj\Debug\ResolveAssemblyReference.cache
+E:\00Project\Dothan_04_20\Dothan\obj\Debug\Dothan.Properties.Resources.resources
+E:\00Project\Dothan_04_20\Dothan\obj\Debug\Dothan.csproj.GenerateResource.Cache
+E:\00Project\Dothan_04_20\Dothan\obj\Debug\Dothan.dll
+E:\00Project\Dothan_04_20\Dothan\obj\Debug\Dothan.pdb
+E:\00Project\Project\Dothan\00 Framework Layer\Dothan\bin\Debug\Dothan.dll.config
+E:\00Project\Project\Dothan\00 Framework Layer\Dothan\bin\Debug\Dothan.dll
+E:\00Project\Project\Dothan\00 Framework Layer\Dothan\bin\Debug\Dothan.pdb
+E:\00Project\Project\Dothan\00 Framework Layer\Dothan\obj\Debug\ResolveAssemblyReference.cache
+E:\00Project\Project\Dothan\00 Framework Layer\Dothan\obj\Debug\Dothan.Properties.Resources.resources
+E:\00Project\Project\Dothan\00 Framework Layer\Dothan\obj\Debug\Dothan.csproj.GenerateResource.Cache
+E:\00Project\Project\Dothan\00 Framework Layer\Dothan\obj\Debug\Dothan.dll
+E:\00Project\Project\Dothan\00 Framework Layer\Dothan\obj\Debug\Dothan.pdb
+E:\00Project\Project\DothanV2\00 Framework Layer\Dothan\bin\Debug\Dothan.dll.config
+E:\00Project\Project\DothanV2\00 Framework Layer\Dothan\bin\Debug\Dothan.dll
+E:\00Project\Project\DothanV2\00 Framework Layer\Dothan\bin\Debug\Dothan.pdb
+E:\00Project\Project\DothanV2\00 Framework Layer\Dothan\obj\Debug\ResolveAssemblyReference.cache
+E:\00Project\Project\DothanV2\00 Framework Layer\Dothan\obj\Debug\Dothan.Properties.Resources.resources
+E:\00Project\Project\DothanV2\00 Framework Layer\Dothan\obj\Debug\Dothan.csproj.GenerateResource.Cache
+E:\00Project\Project\DothanV2\00 Framework Layer\Dothan\obj\Debug\Dothan.dll
+E:\00Project\Project\DothanV2\00 Framework Layer\Dothan\obj\Debug\Dothan.pdb
+G:\00Project\Project\DothanV2 (2)\00 Framework Layer\Dothan\bin\Debug\Dothan.dll.config
+G:\00Project\Project\DothanV2 (2)\00 Framework Layer\Dothan\bin\Debug\Dothan.dll
+G:\00Project\Project\DothanV2 (2)\00 Framework Layer\Dothan\bin\Debug\Dothan.pdb
+G:\00Project\Project\DothanV2 (2)\00 Framework Layer\Dothan\obj\Debug\ResolveAssemblyReference.cache
+G:\00Project\Project\DothanV2 (2)\00 Framework Layer\Dothan\obj\Debug\Dothan.Properties.Resources.resources
+G:\00Project\Project\DothanV2 (2)\00 Framework Layer\Dothan\obj\Debug\Dothan.csproj.GenerateResource.Cache
+G:\00Project\Project\DothanV2 (2)\00 Framework Layer\Dothan\obj\Debug\Dothan.dll
+G:\00Project\Project\DothanV2 (2)\00 Framework Layer\Dothan\obj\Debug\Dothan.pdb
+G:\00Project\Project\DothanV2_20150221\00 Framework Layer\Dothan\bin\Debug\Dothan.dll.config
+G:\00Project\Project\DothanV2_20150221\00 Framework Layer\Dothan\bin\Debug\Dothan.dll
+G:\00Project\Project\DothanV2_20150221\00 Framework Layer\Dothan\bin\Debug\Dothan.pdb
+G:\00Project\Project\DothanV2_20150221\00 Framework Layer\Dothan\obj\Debug\ResolveAssemblyReference.cache
+G:\00Project\Project\DothanV2_20150221\00 Framework Layer\Dothan\obj\Debug\Dothan.Properties.Resources.resources
+G:\00Project\Project\DothanV2_20150221\00 Framework Layer\Dothan\obj\Debug\Dothan.csproj.GenerateResource.Cache
+G:\00Project\Project\DothanV2_20150221\00 Framework Layer\Dothan\obj\Debug\Dothan.dll
+G:\00Project\Project\DothanV2_20150221\00 Framework Layer\Dothan\obj\Debug\Dothan.pdb
+D:\DothanV2\DothanV2_20150307\00 Framework Layer\Dothan\bin\Debug\Dothan.dll.config
+D:\DothanV2\DothanV2_20150307\00 Framework Layer\Dothan\bin\Debug\Dothan.dll
+D:\DothanV2\DothanV2_20150307\00 Framework Layer\Dothan\bin\Debug\Dothan.pdb
+D:\DothanV2\DothanV2_20150307\00 Framework Layer\Dothan\obj\Debug\ResolveAssemblyReference.cache
+D:\DothanV2\DothanV2_20150307\00 Framework Layer\Dothan\obj\Debug\Dothan.Properties.Resources.resources
+D:\DothanV2\DothanV2_20150307\00 Framework Layer\Dothan\obj\Debug\Dothan.csproj.GenerateResource.Cache
+D:\DothanV2\DothanV2_20150307\00 Framework Layer\Dothan\obj\Debug\Dothan.dll
+D:\DothanV2\DothanV2_20150307\00 Framework Layer\Dothan\obj\Debug\Dothan.pdb
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\00 Framework Layer\Dothan\bin\Debug\Dothan.dll.config
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\00 Framework Layer\Dothan\bin\Debug\Dothan.dll
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\00 Framework Layer\Dothan\bin\Debug\Dothan.pdb
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\00 Framework Layer\Dothan\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\00 Framework Layer\Dothan\obj\Debug\Dothan.Properties.Resources.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\00 Framework Layer\Dothan\obj\Debug\Dothan.csproj.GenerateResource.Cache
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\00 Framework Layer\Dothan\obj\Debug\Dothan.dll
+C:\Projects\Source\LandWinApp_DonateApp_Gold3.1.0\00 Framework Layer\Dothan\obj\Debug\Dothan.pdb
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\00 Framework Layer\Dothan\bin\Debug\Dothan.dll.config
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\00 Framework Layer\Dothan\bin\Debug\Dothan.dll
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\00 Framework Layer\Dothan\bin\Debug\Dothan.pdb
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\00 Framework Layer\Dothan\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\00 Framework Layer\Dothan\obj\Debug\Dothan.Properties.Resources.resources
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\00 Framework Layer\Dothan\obj\Debug\Dothan.csproj.GenerateResource.Cache
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\00 Framework Layer\Dothan\obj\Debug\Dothan.dll
+C:\Projects\Source\LandWinApp_DonateApp_GoldBad\00 Framework Layer\Dothan\obj\Debug\Dothan.pdb
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\00 Framework Layer\Dothan\bin\Debug\Dothan.dll.config
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\00 Framework Layer\Dothan\bin\Debug\Dothan.dll
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\00 Framework Layer\Dothan\bin\Debug\Dothan.pdb
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\00 Framework Layer\Dothan\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\00 Framework Layer\Dothan\obj\Debug\Dothan.Properties.Resources.resources
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\00 Framework Layer\Dothan\obj\Debug\Dothan.csproj.GenerateResource.Cache
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\00 Framework Layer\Dothan\obj\Debug\Dothan.dll
+D:\Project\LandWinApp_DonateApp_Gold3.2.9\00 Framework Layer\Dothan\obj\Debug\Dothan.pdb
+C:\Projects\Source\LandWinApp_DonateApp_Gold\00 Framework Layer\Dothan\bin\Debug\Dothan.dll.config
+C:\Projects\Source\LandWinApp_DonateApp_Gold\00 Framework Layer\Dothan\bin\Debug\Dothan.dll
+C:\Projects\Source\LandWinApp_DonateApp_Gold\00 Framework Layer\Dothan\bin\Debug\Dothan.pdb
+C:\Projects\Source\LandWinApp_DonateApp_Gold\00 Framework Layer\Dothan\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Source\LandWinApp_DonateApp_Gold\00 Framework Layer\Dothan\obj\Debug\Dothan.Properties.Resources.resources
+C:\Projects\Source\LandWinApp_DonateApp_Gold\00 Framework Layer\Dothan\obj\Debug\Dothan.csproj.GenerateResource.Cache
+C:\Projects\Source\LandWinApp_DonateApp_Gold\00 Framework Layer\Dothan\obj\Debug\Dothan.dll
+C:\Projects\Source\LandWinApp_DonateApp_Gold\00 Framework Layer\Dothan\obj\Debug\Dothan.pdb
+C:\Projects\LandWin\00 Framework Layer\Dothan\bin\Debug\Dothan.dll.config
+C:\Projects\LandWin\00 Framework Layer\Dothan\bin\Debug\Dothan.dll
+C:\Projects\LandWin\00 Framework Layer\Dothan\bin\Debug\Dothan.pdb
+C:\Projects\LandWin\00 Framework Layer\Dothan\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\LandWin\00 Framework Layer\Dothan\obj\Debug\Dothan.Properties.Resources.resources
+C:\Projects\LandWin\00 Framework Layer\Dothan\obj\Debug\Dothan.csproj.GenerateResource.Cache
+C:\Projects\LandWin\00 Framework Layer\Dothan\obj\Debug\Dothan.dll
+C:\Projects\LandWin\00 Framework Layer\Dothan\obj\Debug\Dothan.pdb

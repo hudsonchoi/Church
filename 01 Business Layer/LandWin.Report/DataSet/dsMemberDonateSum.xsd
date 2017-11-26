@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsMemberDonateSum" targetNamespace="http://tempuri.org/dsMemberDonateSum.xsd" xmlns:mstns="http://tempuri.org/dsMemberDonateSum.xsd" xmlns="http://tempuri.org/dsMemberDonateSum.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsMemberDonateSum" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dsMemberDonateSum" msprop:Generator_UserDSName="dsMemberDonateSum" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtMemberdonatesum" msprop:Generator_UserTableName="dtMemberdonatesum" msprop:Generator_RowDeletedName="dtMemberdonatesumRowDeleted" msprop:Generator_TableClassName="dtMemberdonatesumDataTable" msprop:Generator_RowChangedName="dtMemberdonatesumRowChanged" msprop:Generator_RowClassName="dtMemberdonatesumRow" msprop:Generator_RowChangingName="dtMemberdonatesumRowChanging" msprop:Generator_RowEvArgName="dtMemberdonatesumRowChangeEvent" msprop:Generator_RowEvHandlerName="dtMemberdonatesumRowChangeEventHandler" msprop:Generator_TablePropName="dtMemberdonatesum" msprop:Generator_TableVarName="tabledtMemberdonatesum" msprop:Generator_RowDeletingName="dtMemberdonatesumRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Name" msprop:Generator_UserColumnName="Name" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInTable="NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="En_first" msprop:Generator_UserColumnName="En_first" msprop:Generator_ColumnPropNameInRow="En_first" msprop:Generator_ColumnVarNameInTable="columnEn_first" msprop:Generator_ColumnPropNameInTable="En_firstColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="En_last" msprop:Generator_UserColumnName="En_last" msprop:Generator_ColumnPropNameInRow="En_last" msprop:Generator_ColumnVarNameInTable="columnEn_last" msprop:Generator_ColumnPropNameInTable="En_lastColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Address" msprop:Generator_UserColumnName="Address" msprop:Generator_ColumnPropNameInRow="Address" msprop:Generator_ColumnVarNameInTable="columnAddress" msprop:Generator_ColumnPropNameInTable="AddressColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="City" msprop:Generator_UserColumnName="City" msprop:Generator_ColumnPropNameInRow="City" msprop:Generator_ColumnVarNameInTable="columnCity" msprop:Generator_ColumnPropNameInTable="CityColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Statecode" msprop:Generator_UserColumnName="Statecode" msprop:Generator_ColumnPropNameInRow="Statecode" msprop:Generator_ColumnVarNameInTable="columnStatecode" msprop:Generator_ColumnPropNameInTable="StatecodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Zipcode" msprop:Generator_UserColumnName="Zipcode" msprop:Generator_ColumnPropNameInRow="Zipcode" msprop:Generator_ColumnVarNameInTable="columnZipcode" msprop:Generator_ColumnPropNameInTable="ZipcodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FellowshipName" msprop:Generator_UserColumnName="FellowshipName" msprop:Generator_ColumnPropNameInRow="FellowshipName" msprop:Generator_ColumnVarNameInTable="columnFellowshipName" msprop:Generator_ColumnPropNameInTable="FellowshipNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Type1" msprop:Generator_UserColumnName="Type1" msprop:Generator_ColumnPropNameInRow="Type1" msprop:Generator_ColumnVarNameInTable="columnType1" msprop:Generator_ColumnPropNameInTable="Type1Column" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Type2" msprop:Generator_UserColumnName="Type2" msprop:Generator_ColumnPropNameInRow="Type2" msprop:Generator_ColumnVarNameInTable="columnType2" msprop:Generator_ColumnPropNameInTable="Type2Column" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Type3" msprop:Generator_UserColumnName="Type3" msprop:Generator_ColumnPropNameInRow="Type3" msprop:Generator_ColumnVarNameInTable="columnType3" msprop:Generator_ColumnPropNameInTable="Type3Column" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Type4" msprop:Generator_UserColumnName="Type4" msprop:Generator_ColumnPropNameInRow="Type4" msprop:Generator_ColumnVarNameInTable="columnType4" msprop:Generator_ColumnPropNameInTable="Type4Column" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Type5" msprop:Generator_UserColumnName="Type5" msprop:Generator_ColumnPropNameInRow="Type5" msprop:Generator_ColumnVarNameInTable="columnType5" msprop:Generator_ColumnPropNameInTable="Type5Column" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Type6" msprop:Generator_UserColumnName="Type6" msprop:Generator_ColumnPropNameInRow="Type6" msprop:Generator_ColumnVarNameInTable="columnType6" msprop:Generator_ColumnPropNameInTable="Type6Column" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_UserColumnName="Total" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInTable="TotalColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MemberID" msprop:Generator_UserColumnName="MemberID" msprop:Generator_ColumnPropNameInRow="MemberID" msprop:Generator_ColumnVarNameInTable="columnMemberID" msprop:Generator_ColumnPropNameInTable="MemberIDColumn" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dtMemberdonatesum" />
+      <xs:field xpath="mstns:MemberID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

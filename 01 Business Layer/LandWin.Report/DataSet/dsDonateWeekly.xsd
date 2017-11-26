@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsDonateWeekly" targetNamespace="http://tempuri.org/dsDonateWeekly.xsd" xmlns:mstns="http://tempuri.org/dsDonateWeekly.xsd" xmlns="http://tempuri.org/dsDonateWeekly.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsDonateWeekly" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsDonateWeekly" msprop:Generator_DataSetName="dsDonateWeekly" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dsDonates" msprop:Generator_UserTableName="dsDonates" msprop:Generator_RowDeletedName="dsDonatesRowDeleted" msprop:Generator_RowChangedName="dsDonatesRowChanged" msprop:Generator_RowClassName="dsDonatesRow" msprop:Generator_RowChangingName="dsDonatesRowChanging" msprop:Generator_RowEvArgName="dsDonatesRowChangeEvent" msprop:Generator_RowEvHandlerName="dsDonatesRowChangeEventHandler" msprop:Generator_TableClassName="dsDonatesDataTable" msprop:Generator_TableVarName="tabledsDonates" msprop:Generator_RowDeletingName="dsDonatesRowDeleting" msprop:Generator_TablePropName="dsDonates">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="code" msprop:Generator_UserColumnName="code" msprop:Generator_ColumnPropNameInRow="code" msprop:Generator_ColumnVarNameInTable="columncode" msprop:Generator_ColumnPropNameInTable="codeColumn" type="xs:int" />
+              <xs:element name="Amount" msprop:Generator_UserColumnName="Amount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInTable="AmountColumn" type="xs:decimal" default="0" minOccurs="0" />
+              <xs:element name="hundred" msprop:Generator_UserColumnName="hundred" msprop:Generator_ColumnPropNameInRow="hundred" msprop:Generator_ColumnVarNameInTable="columnhundred" msprop:Generator_ColumnPropNameInTable="hundredColumn" type="xs:int" default="0" minOccurs="0" />
+              <xs:element name="fifty" msprop:Generator_UserColumnName="fifty" msprop:Generator_ColumnPropNameInRow="fifty" msprop:Generator_ColumnVarNameInTable="columnfifty" msprop:Generator_ColumnPropNameInTable="fiftyColumn" type="xs:int" default="0" minOccurs="0" />
+              <xs:element name="twenty" msprop:Generator_UserColumnName="twenty" msprop:Generator_ColumnPropNameInRow="twenty" msprop:Generator_ColumnVarNameInTable="columntwenty" msprop:Generator_ColumnPropNameInTable="twentyColumn" type="xs:int" default="0" minOccurs="0" />
+              <xs:element name="ten" msprop:Generator_UserColumnName="ten" msprop:Generator_ColumnPropNameInRow="ten" msprop:Generator_ColumnVarNameInTable="columnten" msprop:Generator_ColumnPropNameInTable="tenColumn" type="xs:int" default="0" minOccurs="0" />
+              <xs:element name="five" msprop:Generator_UserColumnName="five" msprop:Generator_ColumnPropNameInRow="five" msprop:Generator_ColumnVarNameInTable="columnfive" msprop:Generator_ColumnPropNameInTable="fiveColumn" type="xs:int" default="0" minOccurs="0" />
+              <xs:element name="one" msprop:Generator_UserColumnName="one" msprop:Generator_ColumnPropNameInRow="one" msprop:Generator_ColumnVarNameInTable="columnone" msprop:Generator_ColumnPropNameInTable="oneColumn" type="xs:int" default="0" minOccurs="0" />
+              <xs:element name="coins" msprop:Generator_UserColumnName="coins" msprop:Generator_ColumnPropNameInRow="coins" msprop:Generator_ColumnVarNameInTable="columncoins" msprop:Generator_ColumnPropNameInTable="coinsColumn" type="xs:decimal" default="0" minOccurs="0" />
+              <xs:element name="checks" msprop:Generator_UserColumnName="checks" msprop:Generator_ColumnPropNameInRow="checks" msprop:Generator_ColumnVarNameInTable="columnchecks" msprop:Generator_ColumnPropNameInTable="checksColumn" type="xs:decimal" default="0" minOccurs="0" />
+              <xs:element name="RootName" msprop:Generator_UserColumnName="RootName" msprop:Generator_ColumnVarNameInTable="columnRootName" msprop:Generator_ColumnPropNameInRow="RootName" msprop:Generator_ColumnPropNameInTable="RootNameColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dsDonates" />
+      <xs:field xpath="mstns:code" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

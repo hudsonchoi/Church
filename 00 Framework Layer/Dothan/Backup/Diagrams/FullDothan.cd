@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dothan.Core.BindableBase">
+    <Position X="2" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAACIAAAIAAAgIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\BindableBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dothan.Core.BusinessBase">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAgBAA8ACAATnCTIEAlISEiUBJHgAAEAIFCBAQAgKEA=</HashCode>
+      <FileName>Core\BusinessBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dothan.Core.ObjCloner">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Core\ObjCloner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dothan.Core.ReadOnlyBindingList&lt;C&gt;">
+    <Position X="10.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAABAAQAAAAAAAAQCAAAAAEIAAAAAAAAAA=</HashCode>
+      <FileName>Core\ReadOnlyBindingList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dothan.Core.UndoableBase">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIEAAAAAAAAAQAAIoBEAAAAAAAAAAAAABAEAAAAAA=</HashCode>
+      <FileName>Core\UndoableBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Dothan.Core.IBusinessObj">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\IBusinessObj.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dothan.Core.ICommandObj">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\ICommandObj.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dothan.Core.IEditableCollection">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\IEditableCollection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dothan.Core.IReadOnlyCollection">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\IReadOnlyCollection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dothan.Core.IReadOnlyObj">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\IReadOnlyObj.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dothan.Core.IUndoableObj">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Core\IUndoableObj.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

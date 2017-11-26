@@ -1,0 +1,739 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="FullName" xml:space="preserve">
+    <value>교인이름</value>
+  </data>
+  <data name="No_SelectedRow" xml:space="preserve">
+    <value>선택된 내용이 없습니다.</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="arrow_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\arrow_left.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Error_Save" xml:space="preserve">
+    <value>Error Saving</value>
+  </data>
+  <data name="Fellowship_Manage" xml:space="preserve">
+    <value>직분 관리</value>
+  </data>
+  <data name="CourseName" xml:space="preserve">
+    <value>강의명</value>
+  </data>
+  <data name="City" xml:space="preserve">
+    <value>도시명</value>
+  </data>
+  <data name="print" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Print.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cell_name" xml:space="preserve">
+    <value>순명</value>
+  </data>
+  <data name="Roles" xml:space="preserve">
+    <value>직책</value>
+  </data>
+  <data name="ministry_24x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ministry_24x24.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="No_result" xml:space="preserve">
+    <value>요청하신 맴버를 찾을 수가 없습니다. </value>
+  </data>
+  <data name="Sex" xml:space="preserve">
+    <value>성별</value>
+  </data>
+  <data name="CellReport_Manage" xml:space="preserve">
+    <value>순 보고서 관리</value>
+  </data>
+  <data name="DonateInsertError" xml:space="preserve">
+    <value>입력하신 헌금내용이 정확하지 않습니다.  다시 입력해 주시길 바랍니다.</value>
+  </data>
+  <data name="Verify_userid" xml:space="preserve">
+    <value>Verifying UserID and Password</value>
+  </data>
+  <data name="undo_16x16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\undo_16x16.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cell_Manage" xml:space="preserve">
+    <value>순 관리</value>
+  </data>
+  <data name="MemberDonate" xml:space="preserve">
+    <value>개인별 헌금내역 관리</value>
+  </data>
+  <data name="merge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\merge.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Delete_Ask" xml:space="preserve">
+    <value>정말 삭제 하시겠습니까?  </value>
+  </data>
+  <data name="BindingNavigatorDeleteItem" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BindingNavigatorDeleteItem.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ErrorMessage_loginCaption" xml:space="preserve">
+    <value>Login Failed</value>
+  </data>
+  <data name="Member" xml:space="preserve">
+    <value>교인</value>
+  </data>
+  <data name="close_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\close_icon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FamilyAddrssBook" xml:space="preserve">
+    <value>세대별 주소록</value>
+  </data>
+  <data name="Church_Name" xml:space="preserve">
+    <value>뉴저지초대교회</value>
+  </data>
+  <data name="Duplicated_Insert" xml:space="preserve">
+    <value>이미 입력한 교인입니다.</value>
+  </data>
+  <data name="close_page" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\close_page.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Question_DeleteFamily" xml:space="preserve">
+    <value>가족 전체를 지우시겠습니까? ("Do you want to delete family member")</value>
+  </data>
+  <data name="Fellowship_regdate" xml:space="preserve">
+    <value>임직일</value>
+  </data>
+  <data name="logo_church" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo_church.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vistaSearch" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vistaSearch.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>주소</value>
+  </data>
+  <data name="search_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\search_icon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Calendar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Calendar.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bt_cancel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bt_cancel.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="edu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\edu.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sort" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sort.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Remove_16x16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Remove_16x16.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Add_32X32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Add_32X32.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save_24x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Save_24x24.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ErrorMessage_UnAuthorized" xml:space="preserve">
+    <value>현재 이 기능을 사용할 권항이 없습니다. Administrator 에게 문의하시길 바랍니다.</value>
+  </data>
+  <data name="print_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\print_icon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StartDate" xml:space="preserve">
+    <value>시작일</value>
+  </data>
+  <data name="loading" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\loading.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reset_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reset_icon.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Download" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Download.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Transfer_24x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Transfer_24x24.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="login_cross" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\login_cross.JPG;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Duplicated_assign" xml:space="preserve">
+    <value>이미 등록된 교인입니다.</value>
+  </data>
+  <data name="Sync1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sync1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ErrorMessage_SqlException" xml:space="preserve">
+    <value>현재 데이타 베이스에 연결 할수가 없습니다. 잠시 후 다시 시도해 주시길 바랍니다.</value>
+  </data>
+  <data name="Contents" xml:space="preserve">
+    <value>심방 내용</value>
+  </data>
+  <data name="Document_16x16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Document_16x16.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Is_duplicate_date" xml:space="preserve">
+    <value>이미 입력되어 있는 헌금입니다. 다시 확인해 주시길 바랍니다.</value>
+  </data>
+  <data name="Celldate" xml:space="preserve">
+    <value>순모임 일자</value>
+  </data>
+  <data name="Baptism" xml:space="preserve">
+    <value>세례</value>
+  </data>
+  <data name="Login_fail" xml:space="preserve">
+    <value>사용자 ID 와 Password 가 일치하지 않습니다.  확인하시고 Login 하시길 바랍니다.</value>
+  </data>
+  <data name="No_SelectedCell" xml:space="preserve">
+    <value>선택하신 순이 없습니다. 순을 선택해 주시길 바랍니다.</value>
+  </data>
+  <data name="ChangeFamilyQue" xml:space="preserve">
+    <value>세대주 변경을 하시겠습니까?</value>
+  </data>
+  <data name="Remove_32x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Remove_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ministry_Manage" xml:space="preserve">
+    <value>사역 관리</value>
+  </data>
+  <data name="check_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\check_icon.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="toolStripIcon4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\toolStripIcon4.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Education_Manage" xml:space="preserve">
+    <value>교육 관리</value>
+  </data>
+  <data name="User_24x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\User_24x24.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Undo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Undo.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Relationship" xml:space="preserve">
+    <value>관계</value>
+  </data>
+  <data name="Boss" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Boss.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="import_file" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\import_file.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VisitPastor" xml:space="preserve">
+    <value>인도자</value>
+  </data>
+  <data name="Move1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Move1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Invalid_Memberid" xml:space="preserve">
+    <value>존재하지 않는 맴버 ID  입니다.  </value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>교인상태</value>
+  </data>
+  <data name="ErrorMessage_login" xml:space="preserve">
+    <value>We're sorry, but you used an User ID and/or password that doesn't match our records. Please try again. (아이디 와 페스워드를 확인해 주시길 바랍니다.)</value>
+  </data>
+  <data name="VisitDate" xml:space="preserve">
+    <value>심방 일자</value>
+  </data>
+  <data name="Select_SubDiv_message" xml:space="preserve">
+    <value>소속을 선택해 주세요 </value>
+  </data>
+  <data name="import_file1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\import_file.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Find_16x16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Find_16x16.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="home_24x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\home_24x24.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NewMember" xml:space="preserve">
+    <value>새가족</value>
+  </data>
+  <data name="Fmilay" xml:space="preserve">
+    <value>세대주명</value>
+  </data>
+  <data name="Baptism_Date" xml:space="preserve">
+    <value>세례년도</value>
+  </data>
+  <data name="collapes_icon_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\collapes_icon_right.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DonateAmountError" xml:space="preserve">
+    <value>입력하신 금액 과 총계와 맞지 않습니다. </value>
+  </data>
+  <data name="collapes_icon_left1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\collapes_icon_left.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ko_name" xml:space="preserve">
+    <value>한글 이름</value>
+  </data>
+  <data name="edu_16x16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\edu_16x16.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Member_id" xml:space="preserve">
+    <value>교인번호</value>
+  </data>
+  <data name="filter_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\filter_icon1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Save.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Single" xml:space="preserve">
+    <value>미혼</value>
+  </data>
+  <data name="Configuration" xml:space="preserve">
+    <value>환경 설정</value>
+  </data>
+  <data name="Cancel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cancel.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="collapes_icon_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\collapes_icon_left.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="documents" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\documents.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Success_Save" xml:space="preserve">
+    <value>업데이트가 완료 되었습니다.</value>
+  </data>
+  <data name="Initial_Page" xml:space="preserve">
+    <value>Main</value>
+  </data>
+  <data name="collapse_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\collapse_icon.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="msIcon2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\msIcon2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RegDate" xml:space="preserve">
+    <value>등록일</value>
+  </data>
+  <data name="Sync" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sync.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Move" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Move.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Statecode" xml:space="preserve">
+    <value>주명</value>
+  </data>
+  <data name="Writedate" xml:space="preserve">
+    <value>기록일</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>이메일</value>
+  </data>
+  <data name="edit_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\edit_icon.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="donate_24x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\donate_24x24.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leader" xml:space="preserve">
+    <value>인도자</value>
+  </data>
+  <data name="Save_32x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Save_32x32.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Donate_Manage" xml:space="preserve">
+    <value>헌금 관리</value>
+  </data>
+  <data name="Users_Management" xml:space="preserve">
+    <value>사용자 설정</value>
+  </data>
+  <data name="MinistryRole" xml:space="preserve">
+    <value>사역직책</value>
+  </data>
+  <data name="Visit_Manage" xml:space="preserve">
+    <value>심방 관리</value>
+  </data>
+  <data name="Division" xml:space="preserve">
+    <value>분류</value>
+  </data>
+  <data name="Song" xml:space="preserve">
+    <value>찬송가</value>
+  </data>
+  <data name="Previous" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Previous.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Current_FamilyOwner" xml:space="preserve">
+    <value>현재 세대주 입니다.</value>
+  </data>
+  <data name="bg_login" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bg_login.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Member_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Member_icon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Question_DeleteComfirm" xml:space="preserve">
+    <value>교인 정보가 다 지워집니다. </value>
+  </data>
+  <data name="splite_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\splite_icon.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Modify" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Modify.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitButton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitButton.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="edu_16x161" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\edu_16x16.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Prayer" xml:space="preserve">
+    <value>기도자</value>
+  </data>
+  <data name="search2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\search2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Attendents" xml:space="preserve">
+    <value>참석자</value>
+  </data>
+  <data name="Gear Alt_24x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gear Alt_24x24.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="No_Authorized" xml:space="preserve">
+    <value>권한이 없습니다.</value>
+  </data>
+  <data name="Cell_modify" xml:space="preserve">
+    <value>순정보 수정</value>
+  </data>
+  <data name="Print_InvVisitReport" xml:space="preserve">
+    <value>개인심방내역 </value>
+  </data>
+  <data name="Department" xml:space="preserve">
+    <value>소속</value>
+  </data>
+  <data name="Married" xml:space="preserve">
+    <value>기혼</value>
+  </data>
+  <data name="ErrorMassage_UnAuthorized" xml:space="preserve">
+    <value>현재 이 기능을 사용할 권한이 없습니다. Adminstrator 에게 문의하시길 바랍니다.</value>
+  </data>
+  <data name="CellPlace" xml:space="preserve">
+    <value>순모임 장소</value>
+  </data>
+  <data name="Spouse" xml:space="preserve">
+    <value>배우자</value>
+  </data>
+  <data name="MinistryName" xml:space="preserve">
+    <value>사역명</value>
+  </data>
+  <data name="Load" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Load.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Enddate" xml:space="preserve">
+    <value>종료일</value>
+  </data>
+  <data name="Cell_Setting" xml:space="preserve">
+    <value>순 설정</value>
+  </data>
+  <data name="login_page_background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\login_page_background.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ministry" xml:space="preserve">
+    <value>사역</value>
+  </data>
+  <data name="Closeandsave" xml:space="preserve">
+    <value>변경된 사항을 저장하기 않고 닫으시겠습니까?</value>
+  </data>
+  <data name="Cellphone" xml:space="preserve">
+    <value>휴대폰</value>
+  </data>
+  <data name="view_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\view_icon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Enter_your_zipcode" xml:space="preserve">
+    <value>유효하지 않는 Zipcode 입니다.</value>
+  </data>
+  <data name="Users_24x241" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Users_24x241.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Age" xml:space="preserve">
+    <value>나이</value>
+  </data>
+  <data name="Find" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Find.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Err_Duplicated" xml:space="preserve">
+    <value>이미 등록되어 있습니다. </value>
+  </data>
+  <data name="Duplicated_cellrole" xml:space="preserve">
+    <value>이미 Assign 된 직책입니다.</value>
+  </data>
+  <data name="Remove_24x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Remove_24x24.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Check_DonateType" xml:space="preserve">
+    <value>헌금 종류를 선택해 주시길 바랍니다. </value>
+  </data>
+  <data name="Transfer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Transfer.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="export_excel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\export_excel.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Status_Manage" xml:space="preserve">
+    <value>제적 관리</value>
+  </data>
+  <data name="bg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bg.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="merge_16x16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\merge_16x16.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Add_16X16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Add_16X16.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="member_24x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\member_24x24.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Print_VisitReport" xml:space="preserve">
+    <value>심방내역 리스트</value>
+  </data>
+  <data name="NoPhoto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\10015.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bg1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bg1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DonateBookes" xml:space="preserve">
+    <value>헌금 내역부</value>
+  </data>
+  <data name="Validate_memberid" xml:space="preserve">
+    <value>교인번호를 입력해 주시길 바랍니다.</value>
+  </data>
+  <data name="Homephone" xml:space="preserve">
+    <value>집전화</value>
+  </data>
+  <data name="ErrorMessage_Invalid" xml:space="preserve">
+    <value>현재 데이타가 유효하지 않습니다.   확인해 주시길 바랍니다.</value>
+  </data>
+  <data name="List" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\List.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CompleteDate" xml:space="preserve">
+    <value>수료일</value>
+  </data>
+  <data name="En_Name" xml:space="preserve">
+    <value>영어이름</value>
+  </data>
+  <data name="Job" xml:space="preserve">
+    <value>직업</value>
+  </data>
+  <data name="Baptism_Setting" xml:space="preserve">
+    <value>세례 설정</value>
+  </data>
+  <data name="NewDonate" xml:space="preserve">
+    <value>헌금 입력 </value>
+  </data>
+  <data name="Donate" xml:space="preserve">
+    <value>헌금</value>
+  </data>
+  <data name="Users_24x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Users_24x24.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BindingNavigatorAddNewItem" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BindingNavigatorAddNewItem.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VisitType" xml:space="preserve">
+    <value>심방 종류</value>
+  </data>
+  <data name="HouseHolder" xml:space="preserve">
+    <value>세대주</value>
+  </data>
+  <data name="Birthday" xml:space="preserve">
+    <value>생년월일</value>
+  </data>
+  <data name="Questions_Delete" xml:space="preserve">
+    <value>정보를 지우시겠습니까? </value>
+  </data>
+  <data name="expand_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\expand_icon.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bible" xml:space="preserve">
+    <value>성경</value>
+  </data>
+  <data name="ribbon_close" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ribbon_close.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Is_not_donate_member" xml:space="preserve">
+    <value>등록되어 있지 않은 교인입니다.</value>
+  </data>
+  <data name="Question_DeleteMember" xml:space="preserve">
+    <value>교인 정보를 지우시겠습니까?("Are you sure to delete member")</value>
+  </data>
+  <data name="Upload" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Upload.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ErrorMessage_General" xml:space="preserve">
+    <value>An Unexpected error occured. Please contact a Administrator</value>
+  </data>
+  <data name="transfer_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\transfer_icon.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Subdivision" xml:space="preserve">
+    <value>교적구분</value>
+  </data>
+  <data name="donate_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\donate_icon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="First_name" xml:space="preserve">
+    <value>이름</value>
+  </data>
+  <data name="Last_name" xml:space="preserve">
+    <value>성</value>
+  </data>
+  <data name="Member_Manage" xml:space="preserve">
+    <value>교인 관리</value>
+  </data>
+  <data name="Cell" xml:space="preserve">
+    <value>순</value>
+  </data>
+  <data name="Load_16x16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Load_16x16.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Add_24x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Add_24x24.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fellowship" xml:space="preserve">
+    <value>직분</value>
+  </data>
+  <data name="bt_login" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bt_login.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Invalid_Name" xml:space="preserve">
+    <value>존재하지 않는 이름입니다.</value>
+  </data>
+  <data name="Apply" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Apply.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Visit_Edit" xml:space="preserve">
+    <value>심방 내역 작성</value>
+  </data>
+  <data name="Application_Name" xml:space="preserve">
+    <value>교회 행정 관리 시스템</value>
+  </data>
+  <data name="donate_icon_16x116" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\donate_icon_16x116.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Error_AddFamilyOwner" xml:space="preserve">
+    <value>가족이 있는 세대주는 다른 세대로 이전 할 수가 없습니다.</value>
+  </data>
+</root>

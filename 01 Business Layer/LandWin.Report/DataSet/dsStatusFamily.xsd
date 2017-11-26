@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsStatusFamily" targetNamespace="http://tempuri.org/dsStatusFamily.xsd" xmlns:mstns="http://tempuri.org/dsStatusFamily.xsd" xmlns="http://tempuri.org/dsStatusFamily.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsStatusFamily" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dsStatusFamily" msprop:Generator_UserDSName="dsStatusFamily" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtStatusSum" msprop:Generator_UserTableName="dtStatusSum" msprop:Generator_RowDeletedName="dtStatusSumRowDeleted" msprop:Generator_TableClassName="dtStatusSumDataTable" msprop:Generator_RowChangedName="dtStatusSumRowChanged" msprop:Generator_RowClassName="dtStatusSumRow" msprop:Generator_RowChangingName="dtStatusSumRowChanging" msprop:Generator_RowEvArgName="dtStatusSumRowChangeEvent" msprop:Generator_RowEvHandlerName="dtStatusSumRowChangeEventHandler" msprop:Generator_TablePropName="dtStatusSum" msprop:Generator_TableVarName="tabledtStatusSum" msprop:Generator_RowDeletingName="dtStatusSumRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="No" msprop:Generator_UserColumnName="No" msprop:Generator_ColumnPropNameInRow="No" msprop:Generator_ColumnVarNameInTable="columnNo" msprop:Generator_ColumnPropNameInTable="NoColumn" type="xs:int" />
+              <xs:element name="FamilyId" msprop:Generator_UserColumnName="FamilyId" msprop:Generator_ColumnPropNameInRow="FamilyId" msprop:Generator_ColumnVarNameInTable="columnFamilyId" msprop:Generator_ColumnPropNameInTable="FamilyIdColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Name" msprop:Generator_UserColumnName="Name" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInTable="NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Address" msprop:Generator_UserColumnName="Address" msprop:Generator_ColumnPropNameInRow="Address" msprop:Generator_ColumnVarNameInTable="columnAddress" msprop:Generator_ColumnPropNameInTable="AddressColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="City" msprop:Generator_UserColumnName="City" msprop:Generator_ColumnPropNameInRow="City" msprop:Generator_ColumnVarNameInTable="columnCity" msprop:Generator_ColumnPropNameInTable="CityColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="State" msprop:Generator_UserColumnName="State" msprop:Generator_ColumnPropNameInRow="State" msprop:Generator_ColumnVarNameInTable="columnState" msprop:Generator_ColumnPropNameInTable="StateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Zipcode" msprop:Generator_UserColumnName="Zipcode" msprop:Generator_ColumnPropNameInRow="Zipcode" msprop:Generator_ColumnVarNameInTable="columnZipcode" msprop:Generator_ColumnPropNameInTable="ZipcodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Home" msprop:Generator_UserColumnName="Home" msprop:Generator_ColumnPropNameInRow="Home" msprop:Generator_ColumnVarNameInTable="columnHome" msprop:Generator_ColumnPropNameInTable="HomeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="EntryDate" msprop:Generator_UserColumnName="EntryDate" msprop:Generator_ColumnPropNameInRow="EntryDate" msprop:Generator_ColumnVarNameInTable="columnEntryDate" msprop:Generator_ColumnPropNameInTable="EntryDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Reasons" msprop:Generator_UserColumnName="Reasons" msprop:Generator_ColumnPropNameInRow="Reasons" msprop:Generator_ColumnVarNameInTable="columnReasons" msprop:Generator_ColumnPropNameInTable="ReasonsColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="StatusDate" msprop:Generator_UserColumnName="StatusDate" msprop:Generator_ColumnPropNameInRow="StatusDate" msprop:Generator_ColumnVarNameInTable="columnStatusDate" msprop:Generator_ColumnPropNameInTable="StatusDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="StatusName" msprop:Generator_UserColumnName="StatusName" msprop:Generator_ColumnPropNameInRow="StatusName" msprop:Generator_ColumnVarNameInTable="columnStatusName" msprop:Generator_ColumnPropNameInTable="StatusNameColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtFamilyInfo" msprop:Generator_UserTableName="dtFamilyInfo" msprop:Generator_RowDeletedName="dtFamilyInfoRowDeleted" msprop:Generator_TableClassName="dtFamilyInfoDataTable" msprop:Generator_RowChangedName="dtFamilyInfoRowChanged" msprop:Generator_RowClassName="dtFamilyInfoRow" msprop:Generator_RowChangingName="dtFamilyInfoRowChanging" msprop:Generator_RowEvArgName="dtFamilyInfoRowChangeEvent" msprop:Generator_RowEvHandlerName="dtFamilyInfoRowChangeEventHandler" msprop:Generator_TablePropName="dtFamilyInfo" msprop:Generator_TableVarName="tabledtFamilyInfo" msprop:Generator_RowDeletingName="dtFamilyInfoRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Relationship" msprop:Generator_UserColumnName="Relationship" msprop:Generator_ColumnPropNameInRow="Relationship" msprop:Generator_ColumnVarNameInTable="columnRelationship" msprop:Generator_ColumnPropNameInTable="RelationshipColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FamilyId" msprop:Generator_UserColumnName="FamilyId" msprop:Generator_ColumnPropNameInRow="FamilyId" msprop:Generator_ColumnVarNameInTable="columnFamilyId" msprop:Generator_ColumnPropNameInTable="FamilyIdColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Name" msprop:Generator_UserColumnName="Name" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInTable="NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BirthDate" msprop:Generator_UserColumnName="BirthDate" msprop:Generator_ColumnPropNameInRow="BirthDate" msprop:Generator_ColumnVarNameInTable="columnBirthDate" msprop:Generator_ColumnPropNameInTable="BirthDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Fellowship" msprop:Generator_UserColumnName="Fellowship" msprop:Generator_ColumnPropNameInRow="Fellowship" msprop:Generator_ColumnVarNameInTable="columnFellowship" msprop:Generator_ColumnPropNameInTable="FellowshipColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Baptism" msprop:Generator_UserColumnName="Baptism" msprop:Generator_ColumnPropNameInRow="Baptism" msprop:Generator_ColumnVarNameInTable="columnBaptism" msprop:Generator_ColumnPropNameInTable="BaptismColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Cellphone" msprop:Generator_UserColumnName="Cellphone" msprop:Generator_ColumnPropNameInRow="Cellphone" msprop:Generator_ColumnVarNameInTable="columnCellphone" msprop:Generator_ColumnPropNameInTable="CellphoneColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Subdiv" msprop:Generator_UserColumnName="Subdiv" msprop:Generator_ColumnPropNameInRow="Subdiv" msprop:Generator_ColumnVarNameInTable="columnSubdiv" msprop:Generator_ColumnPropNameInTable="SubdivColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Job" msprop:Generator_UserColumnName="Job" msprop:Generator_ColumnPropNameInRow="Job" msprop:Generator_ColumnVarNameInTable="columnJob" msprop:Generator_ColumnPropNameInTable="JobColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Email" msprop:Generator_UserColumnName="Email" msprop:Generator_ColumnPropNameInRow="Email" msprop:Generator_ColumnVarNameInTable="columnEmail" msprop:Generator_ColumnPropNameInTable="EmailColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Sex" msprop:Generator_UserColumnName="Sex" msprop:Generator_ColumnPropNameInRow="Sex" msprop:Generator_ColumnVarNameInTable="columnSex" msprop:Generator_ColumnPropNameInTable="SexColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MemberId" msprop:Generator_UserColumnName="MemberId" msprop:Generator_ColumnPropNameInRow="MemberId" msprop:Generator_ColumnVarNameInTable="columnMemberId" msprop:Generator_ColumnPropNameInTable="MemberIdColumn" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dtStatusSum" />
+      <xs:field xpath="mstns:No" />
+    </xs:unique>
+    <xs:unique name="dtFamilyInfo_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dtFamilyInfo" />
+      <xs:field xpath="mstns:MemberId" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="dtStatusSum_dtFamilyInfo" msdata:parent="dtStatusSum" msdata:child="dtFamilyInfo" msdata:parentkey="FamilyId" msdata:childkey="FamilyId" msprop:Generator_UserRelationName="dtStatusSum_dtFamilyInfo" msprop:Generator_RelationVarName="relationdtStatusSum_dtFamilyInfo" msprop:Generator_UserChildTable="dtFamilyInfo" msprop:Generator_UserParentTable="dtStatusSum" msprop:Generator_ParentPropName="dtStatusSumRow" msprop:Generator_ChildPropName="GetdtFamilyInfoRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

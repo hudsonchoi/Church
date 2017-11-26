@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="8" virtualPath="/HarvestWeb/global.asax" hash="ffffffffef7747a5" filehash="ffffbbb8a90d80b8" flags="150000" assembly="App_global.asax" type="ASP.global_asax">
+    <filedeps>
+        <filedep name="/HarvestWeb/global.asax" />
+    </filedeps>
+</preserve>

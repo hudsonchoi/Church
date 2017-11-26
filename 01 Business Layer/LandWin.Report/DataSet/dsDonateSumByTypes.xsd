@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsDonateSumByTypes" targetNamespace="http://tempuri.org/dsDonateSumByTypes.xsd" xmlns:mstns="http://tempuri.org/dsDonateSumByTypes.xsd" xmlns="http://tempuri.org/dsDonateSumByTypes.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsDonateSumByTypes" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsDonateSumByTypes" msprop:Generator_DataSetName="dsDonateSumByTypes" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtDontebook" msprop:Generator_UserTableName="dtDontebook" msprop:Generator_RowDeletedName="dtDontebookRowDeleted" msprop:Generator_RowChangedName="dtDontebookRowChanged" msprop:Generator_RowClassName="dtDontebookRow" msprop:Generator_RowChangingName="dtDontebookRowChanging" msprop:Generator_RowEvArgName="dtDontebookRowChangeEvent" msprop:Generator_RowEvHandlerName="dtDontebookRowChangeEventHandler" msprop:Generator_TableClassName="dtDontebookDataTable" msprop:Generator_TableVarName="tabledtDontebook" msprop:Generator_RowDeletingName="dtDontebookRowDeleting" msprop:Generator_TablePropName="dtDontebook">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="code" msprop:Generator_UserColumnName="code" msprop:Generator_ColumnPropNameInRow="code" msprop:Generator_ColumnVarNameInTable="columncode" msprop:Generator_ColumnPropNameInTable="codeColumn" type="xs:int" />
+              <xs:element name="name" msprop:Generator_UserColumnName="name" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInTable="nameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="rootcode" msprop:Generator_UserColumnName="rootcode" msprop:Generator_ColumnPropNameInRow="rootcode" msprop:Generator_ColumnVarNameInTable="columnrootcode" msprop:Generator_ColumnPropNameInTable="rootcodeColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Amount" msprop:Generator_UserColumnName="Amount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInTable="AmountColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="LEVEL" msprop:Generator_UserColumnName="LEVEL" msprop:Generator_ColumnPropNameInRow="LEVEL" msprop:Generator_ColumnVarNameInTable="columnLEVEL" msprop:Generator_ColumnPropNameInTable="LEVELColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="RootName" msprop:Generator_UserColumnName="RootName" msprop:Generator_ColumnVarNameInTable="columnRootName" msprop:Generator_ColumnPropNameInRow="RootName" msprop:Generator_ColumnPropNameInTable="RootNameColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:dtDontebook" />
+      <xs:field xpath="mstns:code" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
