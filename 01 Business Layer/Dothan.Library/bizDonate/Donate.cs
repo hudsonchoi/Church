@@ -176,6 +176,7 @@ namespace Dothan.Library.bizDonate
             _regdate = dr.GetSmartDate("donate_date",_regdate.EmptyIsMin);
             _username = (Dothan.ApplicationContext.User as Dothan.Library.Security.PTPrincipal).UserName;
             dr.GetBytes("lastchanged", 0, _lastchanged, 0, 8);
+            _memo = dr.GetString("memo");//v3.3.4 Display memo
             _idset = true;
             MarkOld();
         }
