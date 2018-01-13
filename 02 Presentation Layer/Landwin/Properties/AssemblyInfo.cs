@@ -33,11 +33,16 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 
-[assembly: AssemblyVersion("3.3.3")]
+[assembly: AssemblyVersion("3.3.4")]
+// 1/12/2018
+// * Change the location of recipient address in the charitable donation receipt letter
+[assembly: AssemblyFileVersion("3.3.4")]
+
+//[assembly: AssemblyVersion("3.3.3")]
 // 3/13/2017
 // * Bugfix: Update visit record
 // * Add 'Delete' to the visit part
-[assembly: AssemblyFileVersion("3.3.3")]
+//[assembly: AssemblyFileVersion("3.3.3")]
 
 //[assembly: AssemblyVersion("3.3.2")]
 //// 2/26/2017
