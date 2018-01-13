@@ -25,10 +25,10 @@
     <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
     <StartupObject>LandWin.Program</StartupObject>
     <DelaySign>false</DelaySign>
-    <PublishUrl>C:\Publish\</PublishUrl>
+    <PublishUrl>C:\Publish\LandWin\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
-    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateEnabled>false</UpdateEnabled>
     <UpdateMode>Foreground</UpdateMode>
     <UpdateInterval>7</UpdateInterval>
     <UpdateIntervalUnits>Days</UpdateIntervalUnits>
