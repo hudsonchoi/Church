@@ -33,12 +33,17 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 
-[assembly: AssemblyVersion("3.3.4")]
+[assembly: AssemblyVersion("3.3.5")]
+// 9/1/2018
+// * Change the FTP server from 192.168.1.240 to 192.168.9.3
+[assembly: AssemblyFileVersion("3.3.5")]
+
+//[assembly: AssemblyVersion("3.3.4")]
 // 1/12/2018
 // * Change the location of recipient address in the charitable donation receipt letter Rpt_DonateReceipt.rpt
 // * Show the memo data at the donate detail section Donate.cs
 // * Do not use house holder's last name for spouse last name in the donate receipt app_report.member_donate
-[assembly: AssemblyFileVersion("3.3.4")]
+//[assembly: AssemblyFileVersion("3.3.4")]
 
 //[assembly: AssemblyVersion("3.3.3")]
 // 3/13/2017

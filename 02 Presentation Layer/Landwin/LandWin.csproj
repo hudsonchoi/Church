@@ -35,13 +35,13 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <UpdateUrl>http://library.njchodae.net/LandWin/</UpdateUrl>
+    <UpdateUrl>http://library.njchodae.org/LandWin/</UpdateUrl>
     <ProductName>LandWin</ProductName>
     <PublisherName>Jinternet Soluctions</PublisherName>
     <WebPage>publish.htm</WebPage>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
     <ApplicationRevision>0</ApplicationRevision>
-    <ApplicationVersion>3.3.4.0</ApplicationVersion>
+    <ApplicationVersion>3.3.5.0</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
     <PublishWizardCompleted>true</PublishWizardCompleted>
