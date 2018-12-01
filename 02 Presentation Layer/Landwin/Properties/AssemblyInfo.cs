@@ -33,10 +33,14 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 
-[assembly: AssemblyVersion("3.3.5")]
+[assembly: AssemblyVersion("3.4.0")]
+// 12/1/2018 Update the course admin to save the new required fields for Chodae Academy
+[assembly: AssemblyFileVersion("3.4.0")]
+
+//[assembly: AssemblyVersion("3.3.5")]
 // 9/1/2018
 // * Change the FTP server from 192.168.1.240 to 192.168.9.3
-[assembly: AssemblyFileVersion("3.3.5")]
+//[assembly: AssemblyFileVersion("3.3.5")]
 
 //[assembly: AssemblyVersion("3.3.4")]
 // 1/12/2018

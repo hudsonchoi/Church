@@ -17,6 +17,10 @@ namespace Dothan.Library.bizCourse
         private int _total;
         private string _active;
         private SmartDate _regdate = new SmartDate();
+        private SmartDate _startdate = new SmartDate();
+        private SmartDate _enddate = new SmartDate();
+        private string _teacher = string.Empty;
+        private int _lecturePeriodWeek;
         private string _username = string.Empty;
         private byte[] _lastchanged = new byte[8];
 
@@ -109,6 +113,79 @@ namespace Dothan.Library.bizCourse
                 }
             }
         }
+
+        public string StartDate
+        {
+            get
+            {
+                return _startdate.Text;
+            }
+            set
+            {
+                CanWriteProperty(true);
+                if (value == null) value = string.Empty;
+                if (_startdate.Text != value)
+                {
+                    _startdate.Text = value;
+                    PropertyHasChanged();
+                }
+            }
+        }
+
+        public string EndDate
+        {
+            get
+            {
+                return _enddate.Text;
+            }
+            set
+            {
+                CanWriteProperty(true);
+                if (value == null) value = string.Empty;
+                if (_enddate.Text != value)
+                {
+                    _enddate.Text = value;
+                    PropertyHasChanged();
+                }
+            }
+        }
+
+        public string Teacher
+        {
+            get
+            {
+                return _teacher;
+            }
+            set
+            {
+                CanWriteProperty(true);
+                if (value == null) value = string.Empty;
+                if (_teacher != value)
+                {
+                    _teacher = value;
+                    PropertyHasChanged();
+                }
+            }
+        }
+
+        public int LecturePeriodWeek
+        {
+            get
+            {
+
+                return _lecturePeriodWeek;
+            }
+            set
+            {
+                CanWriteProperty(true);
+                if (!_lecturePeriodWeek.Equals(value))
+                {
+                    _lecturePeriodWeek = value;
+                    PropertyHasChanged();
+                }
+            }
+        }
+
         public string Sort
         {
             get;

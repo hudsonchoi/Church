@@ -50,6 +50,10 @@
             this.colName = new DevExpress.XtraGrid.Columns.GridColumn();
             this.colTotal = new DevExpress.XtraGrid.Columns.GridColumn();
             this.colRegDate = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colStartDate = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colEndDate = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colTeacher = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colNumWeek = new DevExpress.XtraGrid.Columns.GridColumn();
             this.colActive = new DevExpress.XtraGrid.Columns.GridColumn();
             this.colSort = new DevExpress.XtraGrid.Columns.GridColumn();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).BeginInit();
@@ -156,7 +160,7 @@
             this.gridControl1.Name = "gridControl1";
             this.gridControl1.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemLookUpEdit1});
-            this.gridControl1.Size = new System.Drawing.Size(514, 556);
+            this.gridControl1.Size = new System.Drawing.Size(772, 608);
             this.gridControl1.TabIndex = 4;
             this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView1});
@@ -172,6 +176,10 @@
             this.colName,
             this.colTotal,
             this.colRegDate,
+            this.colStartDate,
+            this.colEndDate,
+            this.colTeacher,
+            this.colNumWeek,
             this.colActive,
             this.colSort});
             this.gridView1.GridControl = this.gridControl1;
@@ -187,6 +195,7 @@
             this.colParentCode.Name = "colParentCode";
             this.colParentCode.Visible = true;
             this.colParentCode.VisibleIndex = 0;
+            this.colParentCode.Width = 83;
             // 
             // repositoryItemLookUpEdit1
             // 
@@ -228,13 +237,45 @@
             this.colRegDate.Visible = true;
             this.colRegDate.VisibleIndex = 3;
             // 
+            // colStartDate
+            // 
+            this.colStartDate.Caption = "Start Date";
+            this.colStartDate.FieldName = "StartDate";
+            this.colStartDate.Name = "colStartDate";
+            this.colStartDate.Visible = true;
+            this.colStartDate.VisibleIndex = 4;
+            // 
+            // colEndDate
+            // 
+            this.colEndDate.Caption = "End Date";
+            this.colEndDate.FieldName = "EndDate";
+            this.colEndDate.Name = "colEndDate";
+            this.colEndDate.Visible = true;
+            this.colEndDate.VisibleIndex = 5;
+            // 
+            // colTeacher
+            // 
+            this.colTeacher.Caption = "Teacher";
+            this.colTeacher.FieldName = "Teacher";
+            this.colTeacher.Name = "colTeacher";
+            this.colTeacher.Visible = true;
+            this.colTeacher.VisibleIndex = 6;
+            // 
+            // colNumWeek
+            // 
+            this.colNumWeek.Caption = "# of weeks";
+            this.colNumWeek.FieldName = "LecturePeriodWeek";
+            this.colNumWeek.Name = "colNumWeek";
+            this.colNumWeek.Visible = true;
+            this.colNumWeek.VisibleIndex = 7;
+            // 
             // colActive
             // 
             this.colActive.FieldName = "Active";
             this.colActive.Name = "colActive";
             this.colActive.OptionsColumn.ReadOnly = true;
             this.colActive.Visible = true;
-            this.colActive.VisibleIndex = 4;
+            this.colActive.VisibleIndex = 8;
             // 
             // colSort
             // 
@@ -249,7 +290,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(514, 590);
+            this.ClientSize = new System.Drawing.Size(772, 642);
             this.Controls.Add(this.gridControl1);
             this.Controls.Add(this.barDockControlLeft);
             this.Controls.Add(this.barDockControlRight);
@@ -300,6 +341,10 @@
         private DevExpress.XtraBars.BarEditItem barEditItem1;
         private DevExpress.XtraEditors.Repository.RepositoryItemRadioGroup repositoryItemRadioGroup1;
         private DevExpress.XtraGrid.Columns.GridColumn colSort;
+        private DevExpress.XtraGrid.Columns.GridColumn colStartDate;
+        private DevExpress.XtraGrid.Columns.GridColumn colEndDate;
+        private DevExpress.XtraGrid.Columns.GridColumn colTeacher;
+        private DevExpress.XtraGrid.Columns.GridColumn colNumWeek;
 
     }
 }
