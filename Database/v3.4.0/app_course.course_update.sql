@@ -1,31 +1,32 @@
-USE [ChoDae2]
+
+/****** Object:  StoredProcedure [app_course].[course_update]    Script Date: 12/1/2018 5:01:29 PM ******/
+DROP PROCEDURE [app_course].[course_update]
 GO
 
-/****** Object:  StoredProcedure [app_course].[course_insert]    Script Date: 12/1/2018 4:38:01 PM ******/
-DROP PROCEDURE [app_course].[course_insert]
-GO
-
-/****** Object:  StoredProcedure [app_course].[course_insert]    Script Date: 12/1/2018 4:38:01 PM ******/
+/****** Object:  StoredProcedure [app_course].[course_update]    Script Date: 12/1/2018 5:01:29 PM ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
 
-CREATE PROCEDURE [app_course].[course_insert]
+
+
+CREATE PROCEDURE [app_course].[course_update]
 (
 	@frk_n4ErrorCode		int				= null	OUTPUT
 ,	@frk_strErrorText		nvarchar(100)	= null	OUTPUT
 ,	@frk_isRequiresNewTransaction	bit		=	0
+,	@code					int		 = 0	
 ,	@parent_code			int		 = 0 
 ,	@regdate				datetime = null
 ,	@name					nvarchar(150)	=	null
 ,	@username				nvarchar(150)	=	null
+,	@lastchanged		    timestamp		=	null
 ,	@start_date				datetime = null
 ,	@end_date				datetime = null
 ,	@teacher_name			nvarchar(100) = null
 ,	@lecture_period_week	int = null
-,	@newid					int		=	0	OUTPUT
 ,	@newlastchanged			timestamp = null OUTPUT		
 ) WITH EXECUTE AS Self
 AS
@@ -49,48 +50,28 @@ AS
 -- {
 	-- initialize local variable statements here
 	-- {
+		Update  dbo.courses
+			Set
+				parent_code = @parent_code
+			,	name	=	@name
+			,	regdate	=	@regdate
+			,	update_date	=	GETDATE()
+			,	update_by	=	@username
+			,	row_status	=	'U'
+			,	start_date  = @start_date-- Add the Academy schema Landwin 3.4.0
+			,	end_date	= @end_date
+			,	teacher_name= @teacher_name
+			,	lecture_period_week = @lecture_period_week
+			Where
+				code = @code
+			And	lastchanged = @lastchanged
+			
 
-	if ( 0 = Len(ltrim(rtrim(@name))))
-		Begin 
-		 RAISERROR ('Error raised in name.', -- Message text.
-               16, -- Severity.
-               1 -- State.
-               );
-		End
-
-
-		Insert into dbo.courses
-		(
-				parent_code
-			,	name
-			,	regdate
-			,	update_date
-			,	update_by
-			,	row_status
-			,	start_date -- Add the Academy schema Landwin 3.4.0
-			,	end_date
-			,	teacher_name
-			,	lecture_period_week
-		)
-		Values
-		(
-				@parent_code
-			,	@name
-			,	@regdate
-			,	GETDATE()
-			,	@username
-			,	'C'
-			,	@start_date
-			,	@end_date
-			,	@teacher_name
-			,	@lecture_period_week
-		)
-
-		Select @newid = code
-			,	@newlastchanged = lastchanged
+		Select 
+				@newlastchanged = lastchanged
 			From dbo.courses
 			Where 
-				code = @@IDENTITY
+				code = @code
 -- }
 
 -- BEGIN FOOTER
@@ -135,7 +116,6 @@ AS
 	return @frk_n4ErrorCode
 
 -- }
-
 
 GO
 

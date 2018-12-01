@@ -282,6 +282,10 @@ namespace Dothan.Library.bizCourse
             cm.Parameters.AddWithValue("@regdate", _regdate.DBValue);
             cm.Parameters.AddWithValue("@username", _username);
             cm.Parameters.AddWithValue("@lastchanged", _lastchanged);
+            cm.Parameters.AddWithValue("@start_date", _startdate);
+            cm.Parameters.AddWithValue("@end_date", _enddate);
+            cm.Parameters.AddWithValue("@teacher_name", _teacher);
+            cm.Parameters.AddWithValue("@lecture_period_week", _lecturePeriodWeek);
             cm.Parameters.Add("@newlastchanged", SqlDbType.Timestamp).Direction = ParameterDirection.Output;
             cm.ExecuteNonQuery();
             _lastchanged = (byte[])cm.Parameters["@newlastchanged"].Value;
