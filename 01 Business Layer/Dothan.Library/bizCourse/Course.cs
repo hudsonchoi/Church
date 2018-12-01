@@ -17,12 +17,13 @@ namespace Dothan.Library.bizCourse
         private int _total;
         private string _active;
         private SmartDate _regdate = new SmartDate();
-        private SmartDate _startdate = new SmartDate();
-        private SmartDate _enddate = new SmartDate();
+        private DateTime _startdate = new DateTime();
+        private DateTime _enddate = new DateTime();
         private string _teacher = string.Empty;
         private int _lecturePeriodWeek;
         private string _username = string.Empty;
         private byte[] _lastchanged = new byte[8];
+  
 
         [System.ComponentModel.DataObjectField(true, true)]
         public int Code
@@ -114,37 +115,35 @@ namespace Dothan.Library.bizCourse
             }
         }
 
-        public string StartDate
+        public DateTime StartDate
         {
             get
             {
-                return _startdate.Text;
+                return _startdate;
             }
             set
             {
                 CanWriteProperty(true);
-                if (value == null) value = string.Empty;
-                if (_startdate.Text != value)
+                if (_startdate != value)
                 {
-                    _startdate.Text = value;
+                    _startdate = value;
                     PropertyHasChanged();
                 }
             }
         }
 
-        public string EndDate
+        public DateTime EndDate
         {
             get
             {
-                return _enddate.Text;
+                return _enddate;
             }
             set
             {
                 CanWriteProperty(true);
-                if (value == null) value = string.Empty;
-                if (_enddate.Text != value)
+                if (_enddate != value)
                 {
-                    _enddate.Text = value;
+                    _enddate = value;
                     PropertyHasChanged();
                 }
             }
@@ -186,6 +185,7 @@ namespace Dothan.Library.bizCourse
             }
         }
 
+
         public string Sort
         {
             get;
@@ -203,6 +203,7 @@ namespace Dothan.Library.bizCourse
         protected override void AddBusinessRules()
         {
                ValidationRules.AddRule(Validation.CommonRules.StringRequired, "Name");
+               ValidationRules.AddRule(Validation.CommonRules.StringRequired, "Teacher");
         }
         internal static Course Get(SafeDataReader dr)
         {
