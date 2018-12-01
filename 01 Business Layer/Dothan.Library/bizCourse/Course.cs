@@ -235,6 +235,10 @@ namespace Dothan.Library.bizCourse
             Sort = dr.GetString("sort");
             _regdate = dr.GetSmartDate("regdate", _regdate.EmptyIsMin);
             _regdate.FormatString = Configurations.DateFomating;
+            _startdate = dr.GetDateTime("start_date");
+            _enddate = dr.GetDateTime("end_date");
+            _teacher = dr.GetString("teacher_name");
+            _lecturePeriodWeek = 0;
             dr.GetBytes("lastchanged", 0, _lastchanged, 0, 8);
 
             _username = Dothan.ApplicationContext.User.Identity.Name;
