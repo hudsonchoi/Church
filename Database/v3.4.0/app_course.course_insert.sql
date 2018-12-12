@@ -1,6 +1,3 @@
-USE [ChoDae2]
-GO
-
 /****** Object:  StoredProcedure [app_course].[course_insert]    Script Date: 12/1/2018 4:38:01 PM ******/
 DROP PROCEDURE [app_course].[course_insert]
 GO
