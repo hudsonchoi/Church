@@ -57,6 +57,17 @@ IF NOT EXISTS (
   SELECT * 
   FROM   sys.columns 
   WHERE  object_id = OBJECT_ID(N'[dbo].[courses]') 
+         AND name = 'start_time'
+)
+BEGIN
+	ALTER TABLE courses 
+    ADD start_time datetime NULL
+END
+
+IF NOT EXISTS (
+  SELECT * 
+  FROM   sys.columns 
+  WHERE  object_id = OBJECT_ID(N'[dbo].[courses]') 
          AND name = 'day_of_week'
 )
 BEGIN
