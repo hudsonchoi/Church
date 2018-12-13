@@ -191,7 +191,7 @@ IF NOT EXISTS (
   SELECT * 
   FROM   sys.columns 
   WHERE  object_id = OBJECT_ID(N'[dbo].[member_course]') 
-         AND name = 'gradudate_yn'
+         AND name = 'graduate_yn'
 )
 BEGIN
 	ALTER TABLE member_course 
