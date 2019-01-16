@@ -33,10 +33,15 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 
-[assembly: AssemblyVersion("3.3.5")]
+[assembly: AssemblyVersion("3.3.6")]
+// 1/16/2019
+// * Bugfix - Adding a new member to a cell breaks
+[assembly: AssemblyFileVersion("3.3.6")]
+
+//[assembly: AssemblyVersion("3.3.5")]
 // 9/1/2018
 // * Change the FTP server from 192.168.1.240 to 192.168.9.3
-[assembly: AssemblyFileVersion("3.3.5")]
+//[assembly: AssemblyFileVersion("3.3.5")]
 
 //[assembly: AssemblyVersion("3.3.4")]
 // 1/12/2018

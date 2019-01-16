@@ -318,7 +318,7 @@ namespace LandWin.Modules
                 MessageBox.Show(Resources.Err_Duplicated);
                 return;
             }
-            _memberlist.Assign(info, _currentcode, DateTime.Today.ToString(), _roles[0].Key);
+            _memberlist.Assign(info, _currentcode, DateTime.Today.ToString(), _roles[2].Key);//순원
          
         }
 
