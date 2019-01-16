@@ -11,6 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandWin", "..\02 Presentati
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HarvestWeb", "..\..\HarvestWeb\", "{0A1558D1-B310-4E38-8C83-7B9C950F7E9C}"
 	ProjectSection(WebsiteProperties) = preProject
+		Frontpage = "false"
 		TargetFramework = "3.5"
 		Debug.AspNetCompiler.VirtualPath = "/HarvestWeb"
 		Debug.AspNetCompiler.PhysicalPath = "..\..\HarvestWeb\"
@@ -26,7 +27,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HarvestWeb", "..\..\Harvest
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "51636"
+		VWDPort = "51454"
 	EndProjectSection
 EndProject
 Global
