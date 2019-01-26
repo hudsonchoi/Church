@@ -25,13 +25,20 @@ public partial class ReportEdit : System.Web.UI.Page
 
         if (!IsPostBack)
         {
-            Session["header"] = null;
-            Session["detail"] = null;
+            if (Request.UrlReferrer == null)//URL editing attack
+            {
+                Response.Redirect("default.aspx");
+            }
+            else
+            {
+                Session["header"] = null;
+                Session["detail"] = null;
 
-            if (Session["CellCode"] == null)
-                Response.Redirect("Login.aspx");
+                if (Session["CellCode"] == null)
+                    Response.Redirect("Login.aspx");
 
-            PageInit();
+                PageInit();
+            }
         }
         else 
         {
