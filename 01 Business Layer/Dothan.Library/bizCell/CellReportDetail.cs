@@ -26,7 +26,7 @@ namespace Dothan.Library.bizCell
         private int _roleLevel;
 
         private byte[] _lastchanged = new byte[8];
-
+        private int _serviceTimePlaceID;
         [System.ComponentModel.DataObjectField(true, true)]
         public int ID
         {
@@ -189,6 +189,24 @@ namespace Dothan.Library.bizCell
             get { return _membername; }
         }
 
+        public int ServiceTimePlaceID
+        {
+            get
+            {
+
+                return _serviceTimePlaceID;
+            }
+            set
+            {
+                CanWriteProperty(true);
+                if (_serviceTimePlaceID != value)
+                {
+                    _serviceTimePlaceID = value;
+                    PropertyHasChanged();
+                }
+            }
+        }
+
         protected override object GetIdValue()
         {
             return _id;
@@ -214,6 +232,7 @@ namespace Dothan.Library.bizCell
                 _memo = dr.GetString("Memo");
                 _reason = dr.GetString("Reason");
                 _regdate = dr.GetSmartDate("RegDate", _regdate.EmptyIsMin);
+                _serviceTimePlaceID = dr.GetInt32("service_time_place_id");
                 dr.GetBytes("Lastchanged", 0, _lastchanged, 0, 8); 
                 MarkOld();
             }
@@ -260,6 +279,7 @@ namespace Dothan.Library.bizCell
                  cm.Parameters.AddWithValue("@memo", _memo);
                  cm.Parameters.AddWithValue("@roleCode", _roleCode);
                  cm.Parameters.AddWithValue("@roleLevel", _roleLevel);
+                 cm.Parameters.AddWithValue("@serviceTimePlaceID", _serviceTimePlaceID);
                  cm.Parameters.Add("@newid", SqlDbType.Int).Direction = ParameterDirection.Output;
                  cm.Parameters.Add("@newlastchanged", SqlDbType.Timestamp).Direction = ParameterDirection.Output;
                  cm.ExecuteNonQuery();
@@ -283,8 +303,8 @@ namespace Dothan.Library.bizCell
                  cm.Parameters.AddWithValue("@reason", _reason);
                  cm.Parameters.AddWithValue("@memo", _memo);
                  cm.Parameters.AddWithValue("@lastchanged", _lastchanged);
-
                  cm.Parameters.Add("@newlastchanged", SqlDbType.Timestamp).Direction = ParameterDirection.Output;
+                 cm.Parameters.AddWithValue("@serviceTimePlaceID", _serviceTimePlaceID);
                  cm.ExecuteNonQuery();
 
                  _lastchanged = (byte[])cm.Parameters["@newlastchanged"].Value;

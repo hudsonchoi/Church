@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="bizCell\CellServiceTimePlaceList.cs" />
     <Compile Include="bizCourse\CourseInfo.cs" />
     <Compile Include="bizDonate\MemberDonateInfo.cs" />
     <Compile Include="bizCommon\Address.cs" />
