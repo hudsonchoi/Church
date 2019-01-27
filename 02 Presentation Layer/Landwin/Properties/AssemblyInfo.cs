@@ -33,10 +33,16 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 
-[assembly: AssemblyVersion("3.3.6")]
+[assembly: AssemblyVersion("3.3.8")]
+// 1/26/2019
+// * Change donate report letter head
+// 3.3.7 was dothan.library update only to add service place to HarvestWeb
+[assembly: AssemblyFileVersion("3.3.8")]
+
+//[assembly: AssemblyVersion("3.3.6")]
 // 1/16/2019
 // * Bugfix - Adding a new member to a cell breaks
-[assembly: AssemblyFileVersion("3.3.6")]
+//[assembly: AssemblyFileVersion("3.3.6")]
 
 //[assembly: AssemblyVersion("3.3.5")]
 // 9/1/2018
