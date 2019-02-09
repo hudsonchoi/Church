@@ -335,8 +335,9 @@ namespace LandWin.Modules
             {
                 _memberlist = temp.Save();
                 MessageBox.Show(Resources.Success_Save);
-                RefreshBinding();
-
+                _cells = _entity.bizCell.Cells.Get();
+                this.cellListBindingSource.DataSource = _entity.bizCell.CellList.Get(false);
+                RefreshBindingCell();
             }
 
             catch (Dothan.DataPortalException ex)
