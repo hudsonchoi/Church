@@ -12,8 +12,8 @@
     <AssemblyName>LandWin</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <ManifestCertificateThumbprint>90402B59B887F09A6EDCE48CB271B0363EA7BC80</ManifestCertificateThumbprint>
-    <ManifestKeyFile>LandWin_2_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestCertificateThumbprint>38150B51E11DB98DD237C08B31D8701D10B1B71A</ManifestCertificateThumbprint>
+    <ManifestKeyFile>LandWin_TemporaryKey.pfx</ManifestKeyFile>
     <GenerateManifests>true</GenerateManifests>
     <SignManifests>true</SignManifests>
     <IsWebBootstrapper>false</IsWebBootstrapper>
@@ -27,7 +27,7 @@
     <DelaySign>false</DelaySign>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
     <PublishWizardCompleted>true</PublishWizardCompleted>
-    <PublishUrl>D:\Publish\Landwin\</PublishUrl>
+    <PublishUrl>D:\publish\LandWin3.3.9\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -886,7 +886,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="icon.ico" />
-    <None Include="LandWin_2_TemporaryKey.pfx" />
+    <None Include="LandWin_TemporaryKey.pfx" />
     <None Include="Resources\donate_icon_16x116.png" />
     <None Include="Resources\donate_icon.png" />
     <None Include="Properties\DataSources\Dothan.Library.bizDonate.DonateTypeList.datasource" />
