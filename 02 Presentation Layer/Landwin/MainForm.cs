@@ -921,6 +921,7 @@ namespace LandWin
                 ftp = (FtpWebRequest)FtpWebRequest.Create(new Uri("ftp://" + ftphost + "/" + ftpdirectory + "/"));
                 ftp.Credentials = new NetworkCredential(userid, password);
                 ftp.Method = WebRequestMethods.Ftp.ListDirectoryDetails;
+                ftp.UsePassive = false;
                 WebResponse response = ftp.GetResponse();
                 StreamReader reader = new StreamReader(response.GetResponseStream());
                 string line = reader.ReadLine();
