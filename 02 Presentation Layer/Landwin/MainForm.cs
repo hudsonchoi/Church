@@ -847,6 +847,7 @@ namespace LandWin
                     FtpWebRequest reqFTP = (FtpWebRequest)FtpWebRequest.Create(new Uri("ftp://" + ftphost + "/" + ftpdirectory + "/" + filelist[i]));
                     reqFTP.Method = WebRequestMethods.Ftp.DownloadFile;
                     reqFTP.UseBinary = true;
+                    reqFTP.UsePassive = false;
                     reqFTP.Credentials = new NetworkCredential(userid, password);
                     FtpWebResponse response = (FtpWebResponse)reqFTP.GetResponse();
                     Stream ftpStream = response.GetResponseStream();

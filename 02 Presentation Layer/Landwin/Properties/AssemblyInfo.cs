@@ -33,10 +33,15 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 
-[assembly: AssemblyVersion("3.3.8")]
+[assembly: AssemblyVersion("3.3.9")]
+// 3/11/2020
+// * Troubleshooting FTP issue by setting reqFTP.UsePassive = false;
+[assembly: AssemblyFileVersion("3.3.9")]
+
+//[assembly: AssemblyVersion("3.3.8")]
 // 2/9/2019
 // * Refresh cell list after cell members are moved
-[assembly: AssemblyFileVersion("3.3.8")]
+//[assembly: AssemblyFileVersion("3.3.8")]
 
 //[assembly: AssemblyVersion("3.3.7")]
 // 1/26/2019
