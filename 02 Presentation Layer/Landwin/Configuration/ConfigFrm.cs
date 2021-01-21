@@ -111,6 +111,7 @@ namespace LandWin.Configuration
             try
             {
                 FtpWebRequest request = (FtpWebRequest)WebRequest.Create(new Uri("ftp://" + txt_FtpURL.Text + "/" + txt_FtpDirectory.Text + "/"));
+                request.UsePassive = false;
                 request.Method = WebRequestMethods.Ftp.ListDirectory;
                 request.Credentials = new NetworkCredential(txt_FtpUserID.Text, txt_FtpPassword.Text);
                 request.GetResponse();
